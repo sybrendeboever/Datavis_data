@@ -1,0 +1,4065 @@
+country,year,continent,renew_consumption,source
+Egypt,1965,Africa,1.57318878,renewables
+Egypt,1966,Africa,1.625311262,renewables
+Egypt,1967,Africa,1.699826912,renewables
+Egypt,1968,Africa,2.121662557,renewables
+Egypt,1969,Africa,2.406494556,renewables
+Egypt,1970,Africa,2.567638047,renewables
+Egypt,1971,Africa,2.641126616,renewables
+Egypt,1972,Africa,2.663680253,renewables
+Egypt,1973,Africa,2.661936452,renewables
+Egypt,1974,Africa,2.833213344,renewables
+Egypt,1975,Africa,2.937997223,renewables
+Egypt,1976,Africa,3.101982393,renewables
+Egypt,1977,Africa,3.223465277,renewables
+Egypt,1978,Africa,3.317598358,renewables
+Egypt,1979,Africa,3.284588656,renewables
+Egypt,1980,Africa,3.304613057,renewables
+Egypt,1981,Africa,3.345684672,renewables
+Egypt,1982,Africa,3.372592125,renewables
+Egypt,1983,Africa,3.305970532,renewables
+Egypt,1984,Africa,3.286908235,renewables
+Egypt,1985,Africa,3.235575604,renewables
+Egypt,1986,Africa,3.216152119,renewables
+Egypt,1987,Africa,3.215871316,renewables
+Egypt,1988,Africa,3.20010067,renewables
+Egypt,1989,Africa,3.271961512,renewables
+Egypt,1990,Africa,3.31987886,renewables
+Egypt,1991,Africa,3.316147716,renewables
+Egypt,1992,Africa,3.304392752,renewables
+Egypt,1993,Africa,3.333810363,renewables
+Egypt,1994,Africa,3.394843908,renewables
+Egypt,1995,Africa,3.437175664,renewables
+Egypt,1996,Africa,3.46291944,renewables
+Egypt,1997,Africa,3.487589122,renewables
+Egypt,1998,Africa,3.51553746,renewables
+Egypt,1999,Africa,3.621082296,renewables
+Egypt,2000,Africa,3.67928356,renewables
+Egypt,2001,Africa,3.695954368,renewables
+Egypt,2002,Africa,3.662715134,renewables
+Egypt,2003,Africa,3.584684925,renewables
+Egypt,2004,Africa,3.58662522,renewables
+Egypt,2005,Africa,3.566598819,renewables
+Egypt,2006,Africa,3.578003758,renewables
+Egypt,2007,Africa,3.677262235,renewables
+Egypt,2008,Africa,3.745212527,renewables
+Egypt,2009,Africa,3.66017129,renewables
+Egypt,2010,Africa,3.625060674,renewables
+Egypt,2011,Africa,3.64233801,renewables
+Egypt,2012,Africa,3.645606542,renewables
+Egypt,2013,Africa,3.63758616,renewables
+Egypt,2014,Africa,3.62591303,renewables
+Egypt,2015,Africa,3.676933383,renewables
+Egypt,2016,Africa,3.703299977,renewables
+Egypt,2017,Africa,3.678652335,renewables
+Egypt,2018,Africa,3.738312269,renewables
+Egypt,2019,Africa,3.895629361,renewables
+South Africa,1965,Africa,-2.18036746,renewables
+South Africa,1966,Africa,-2.207274913,renewables
+South Africa,1967,Africa,-2.501036032,renewables
+South Africa,1968,Africa,-2.563949857,renewables
+South Africa,1969,Africa,-2.688247574,renewables
+South Africa,1970,Africa,-2.538307427,renewables
+South Africa,1971,Africa,-1.136314156,renewables
+South Africa,1972,Africa,0.844579884,renewables
+South Africa,1973,Africa,1.010145307,renewables
+South Africa,1974,Africa,1.148671489,renewables
+South Africa,1975,Africa,1.138153463,renewables
+South Africa,1976,Africa,1.652688954,renewables
+South Africa,1977,Africa,1.688249093,renewables
+South Africa,1978,Africa,1.669026704,renewables
+South Africa,1979,Africa,1.159393761,renewables
+South Africa,1980,Africa,1.017402233,renewables
+South Africa,1981,Africa,1.526490992,renewables
+South Africa,1982,Africa,1.040983176,renewables
+South Africa,1983,Africa,0.5086232,renewables
+South Africa,1984,Africa,0.448524598,renewables
+South Africa,1985,Africa,0.555607767,renewables
+South Africa,1986,Africa,1.508069418,renewables
+South Africa,1987,Africa,1.504521742,renewables
+South Africa,1988,Africa,2.17395595,renewables
+South Africa,1989,Africa,2.037837992,renewables
+South Africa,1990,Africa,1.035317438,renewables
+South Africa,1991,Africa,1.706564623,renewables
+South Africa,1992,Africa,0.741461041,renewables
+South Africa,1993,Africa,-0.877070019,renewables
+South Africa,1994,Africa,1.096276229,renewables
+South Africa,1995,Africa,0.391366184,renewables
+South Africa,1996,Africa,1.388292364,renewables
+South Africa,1997,Africa,1.892057191,renewables
+South Africa,1998,Africa,1.744667862,renewables
+South Africa,1999,Africa,1.138153463,renewables
+South Africa,2000,Africa,1.74867798,renewables
+South Africa,2001,Africa,1.963609726,renewables
+South Africa,2002,Africa,2.114084485,renewables
+South Africa,2003,Africa,1.513807681,renewables
+South Africa,2004,Africa,1.552655898,renewables
+South Africa,2005,Africa,1.784902682,renewables
+South Africa,2006,Africa,2.303084968,renewables
+South Africa,2007,Africa,2.302084968,renewables
+South Africa,2008,Africa,1.767466777,renewables
+South Africa,2009,Africa,1.84276939,renewables
+South Africa,2010,Africa,1.651922524,renewables
+South Africa,2011,Africa,2.340747554,renewables
+South Africa,2012,Africa,1.63471572,renewables
+South Africa,2013,Africa,1.791592789,renewables
+South Africa,2014,Africa,2.513575088,renewables
+South Africa,2015,Africa,2.937785314,renewables
+South Africa,2016,Africa,3.126234082,renewables
+South Africa,2017,Africa,3.399929912,renewables
+South Africa,2018,Africa,3.509393872,renewables
+South Africa,2019,Africa,3.532956371,renewables
+Morocco,1965,Africa,1.217579808,renewables
+Morocco,1966,Africa,1.077729078,renewables
+Morocco,1967,Africa,0.955126756,renewables
+Morocco,1968,Africa,1.08146613,renewables
+Morocco,1969,Africa,1.337629189,renewables
+Morocco,1970,Africa,1.321489138,renewables
+Morocco,1971,Africa,1.442674695,renewables
+Morocco,1972,Africa,1.491329824,renewables
+Morocco,1973,Africa,1.200265942,renewables
+Morocco,1974,Africa,1.314798359,renewables
+Morocco,1975,Africa,1.040983176,renewables
+Morocco,1976,Africa,1.023170094,renewables
+Morocco,1977,Africa,1.335527244,renewables
+Morocco,1978,Africa,1.371941855,renewables
+Morocco,1979,Africa,1.482513219,renewables
+Morocco,1980,Africa,1.439361082,renewables
+Morocco,1981,Africa,1.048721519,renewables
+Morocco,1982,Africa,0.469378434,renewables
+Morocco,1983,Africa,0.297137231,renewables
+Morocco,1984,Africa,0.026641931,renewables
+Morocco,1985,Africa,0.3074847,renewables
+Morocco,1986,Africa,0.58556197,renewables
+Morocco,1987,Africa,0.83377831,renewables
+Morocco,1988,Africa,0.959350221,renewables
+Morocco,1989,Africa,1.170622825,renewables
+Morocco,1990,Africa,1.223481271,renewables
+Morocco,1991,Africa,1.228470276,renewables
+Morocco,1992,Africa,0.988797423,renewables
+Morocco,1993,Africa,0.215917506,renewables
+Morocco,1994,Africa,0.85143216,renewables
+Morocco,1995,Africa,0.534737444,renewables
+Morocco,1996,Africa,1.694881394,renewables
+Morocco,1997,Africa,1.757168024,renewables
+Morocco,1998,Africa,1.598579169,renewables
+Morocco,1999,Africa,0.83377831,renewables
+Morocco,2000,Africa,0.780241887,renewables
+Morocco,2001,Africa,1.084513364,renewables
+Morocco,2002,Africa,1.04766981,renewables
+Morocco,2003,Africa,1.502075394,renewables
+Morocco,2004,Africa,1.580215054,renewables
+Morocco,2005,Africa,1.150572028,renewables
+Morocco,2006,Africa,1.139754232,renewables
+Morocco,2007,Africa,1.146449618,renewables
+Morocco,2008,Africa,1.167827358,renewables
+Morocco,2009,Africa,2.050784832,renewables
+Morocco,2010,Africa,2.376764491,renewables
+Morocco,2011,Africa,1.946052996,renewables
+Morocco,2012,Africa,1.805991051,renewables
+Morocco,2013,Africa,2.327375262,renewables
+Morocco,2014,Africa,2.20530297,renewables
+Morocco,2015,Africa,2.412963,renewables
+Morocco,2016,Africa,2.461467418,renewables
+Morocco,2017,Africa,2.450746444,renewables
+Morocco,2018,Africa,2.780432876,renewables
+Morocco,2019,Africa,2.927935115,renewables
+Algeria,1965,Africa,0.114221144,renewables
+Algeria,1966,Africa,-0.004008021,renewables
+Algeria,1967,Africa,0.138891999,renewables
+Algeria,1968,Africa,0.45362015,renewables
+Algeria,1969,Africa,0.012916225,renewables
+Algeria,1970,Africa,0.483043243,renewables
+Algeria,1971,Africa,-0.075801713,renewables
+Algeria,1972,Africa,0.32570014,renewables
+Algeria,1973,Africa,0.741461041,renewables
+Algeria,1974,Africa,0.330022913,renewables
+Algeria,1975,Africa,-0.082295243,renewables
+Algeria,1976,Africa,0.087094707,renewables
+Algeria,1977,Africa,-0.278392026,renewables
+Algeria,1978,Africa,-0.350976923,renewables
+Algeria,1979,Africa,-0.200892942,renewables
+Algeria,1980,Africa,-0.322963887,renewables
+Algeria,1981,Africa,0.026641931,renewables
+Algeria,1982,Africa,0.293415604,renewables
+Algeria,1983,Africa,-0.410980289,renewables
+Algeria,1984,Africa,0.235862324,renewables
+Algeria,1985,Africa,0.590006422,renewables
+Algeria,1986,Africa,-0.350976923,renewables
+Algeria,1987,Africa,0.333611004,renewables
+Algeria,1988,Africa,-0.657780037,renewables
+Algeria,1989,Africa,-0.449416996,renewables
+Algeria,1990,Africa,-0.954511945,renewables
+Algeria,1991,Africa,-0.193584749,renewables
+Algeria,1992,Africa,-0.574475651,renewables
+Algeria,1993,Africa,-0.009040745,renewables
+Algeria,1994,Africa,-0.752897185,renewables
+Algeria,1995,Africa,-0.605136303,renewables
+Algeria,1996,Africa,-0.954511945,renewables
+Algeria,1997,Africa,-1.523260216,renewables
+Algeria,1998,Africa,-0.499226488,renewables
+Algeria,1999,Africa,-0.555125883,renewables
+Algeria,2000,Africa,-1.832581464,renewables
+Algeria,2001,Africa,-1.609437912,renewables
+Algeria,2002,Africa,-1.795767491,renewables
+Algeria,2003,Africa,-0.311974765,renewables
+Algeria,2004,Africa,-0.372514008,renewables
+Algeria,2005,Africa,0.408128226,renewables
+Algeria,2006,Africa,-0.524248644,renewables
+Algeria,2007,Africa,-0.494296322,renewables
+Algeria,2008,Africa,-0.278392026,renewables
+Algeria,2009,Africa,-0.097612829,renewables
+Algeria,2010,Africa,-0.723606388,renewables
+Algeria,2011,Africa,0.036331929,renewables
+Algeria,2012,Africa,0.077886539,renewables
+Algeria,2013,Africa,-1.087672349,renewables
+Algeria,2014,Africa,-0.42159449,renewables
+Algeria,2015,Africa,-0.558616288,renewables
+Algeria,2016,Africa,-0.15665381,renewables
+Algeria,2017,Africa,0.377065634,renewables
+Algeria,2018,Africa,0.601031892,renewables
+Algeria,2019,Africa,0.6590732,renewables
+China,1965,Asia,4.117263245,renewables
+China,1966,Asia,4.134702449,renewables
+China,1967,Asia,3.986258112,renewables
+China,1968,Asia,4.151653891,renewables
+China,1969,Asia,4.168508485,renewables
+China,1970,Asia,4.201403635,renewables
+China,1971,Asia,4.391667512,renewables
+China,1972,Asia,4.516786959,renewables
+China,1973,Asia,4.627978097,renewables
+China,1974,Asia,4.751640015,renewables
+China,1975,Asia,4.797037701,renewables
+China,1976,Asia,4.810320831,renewables
+China,1977,Asia,4.853279483,renewables
+China,1978,Asia,4.78818317,renewables
+China,1979,Asia,4.904444804,renewables
+China,1980,Asia,5.085965376,renewables
+China,1981,Asia,5.203957235,renewables
+China,1982,Asia,5.331341033,renewables
+China,1983,Asia,5.480876395,renewables
+China,1984,Asia,5.485468907,renewables
+China,1985,Asia,5.547682118,renewables
+China,1986,Asia,5.57080331,renewables
+China,1987,Asia,5.627099395,renewables
+China,1988,Asia,5.714574036,renewables
+China,1989,Asia,5.795826721,renewables
+China,1990,Asia,5.864891744,renewables
+China,1991,Asia,5.848618479,renewables
+China,1992,Asia,5.897230788,renewables
+China,1993,Asia,6.047504558,renewables
+China,1994,Asia,6.150020509,renewables
+China,1995,Asia,6.306047159,renewables
+China,1996,Asia,6.274671622,renewables
+China,1997,Asia,6.32811891,renewables
+China,1998,Asia,6.340865349,renewables
+China,1999,Asia,6.330485319,renewables
+China,2000,Asia,6.451433623,renewables
+China,2001,Asia,6.661682091,renewables
+China,2002,Asia,6.692629499,renewables
+China,2003,Asia,6.673529294,renewables
+China,2004,Asia,6.887515836,renewables
+China,2005,Asia,7.012451274,renewables
+China,2006,Asia,7.109602464,renewables
+China,2007,Asia,7.222447034,renewables
+China,2008,Asia,7.501781879,renewables
+China,2009,Asia,7.504150891,renewables
+China,2010,Asia,7.665413168,renewables
+China,2011,Asia,7.671462036,renewables
+China,2012,Asia,7.892359398,renewables
+China,2013,Asia,7.980288102,renewables
+China,2014,Asia,8.142168342,renewables
+China,2015,Asia,8.212031503,renewables
+China,2016,Asia,8.297035428,renewables
+China,2017,Asia,8.387900574,renewables
+China,2018,Asia,8.481601661,renewables
+China,2019,Asia,8.564004446,renewables
+India,1965,Asia,3.975035363,renewables
+India,1966,Asia,4.018345059,renewables
+India,1967,Asia,4.130756848,renewables
+India,1968,Asia,4.274065518,renewables
+India,1969,Asia,4.378658469,renewables
+India,1970,Asia,4.437414037,renewables
+India,1971,Asia,4.529843009,renewables
+India,1972,Asia,4.500020759,renewables
+India,1973,Asia,4.562909657,renewables
+India,1974,Asia,4.524393876,renewables
+India,1975,Asia,4.702296897,renewables
+India,1976,Asia,4.747389975,renewables
+India,1977,Asia,4.834526399,renewables
+India,1978,Asia,5.050189285,renewables
+India,1979,Asia,5.013816894,renewables
+India,1980,Asia,5.037043507,renewables
+India,1981,Asia,5.100652704,renewables
+India,1982,Asia,4.930935305,renewables
+India,1983,Asia,4.893831779,renewables
+India,1984,Asia,5.004804998,renewables
+India,1985,Asia,4.969361809,renewables
+India,1986,Asia,4.983839471,renewables
+India,1987,Asia,4.912779878,renewables
+India,1988,Asia,5.022023535,renewables
+India,1989,Asia,5.1706942,renewables
+India,1990,Asia,5.218944018,renewables
+India,1991,Asia,5.328759274,renewables
+India,1992,Asia,5.275729163,renewables
+India,1993,Asia,5.28903946,renewables
+India,1994,Asia,5.418164936,renewables
+India,1995,Asia,5.3725664,renewables
+India,1996,Asia,5.290758873,renewables
+India,1997,Asia,5.314466268,renewables
+India,1998,Asia,5.491075934,renewables
+India,1999,Asia,5.488450004,renewables
+India,2000,Asia,5.429091211,renewables
+India,2001,Asia,5.376726433,renewables
+India,2002,Asia,5.32668128,renewables
+India,2003,Asia,5.352104549,renewables
+India,2004,Asia,5.720164225,renewables
+India,2005,Asia,5.705028365,renewables
+India,2006,Asia,5.876011607,renewables
+India,2007,Asia,5.983291236,renewables
+India,2008,Asia,5.971136832,renewables
+India,2009,Asia,5.948478755,renewables
+India,2010,Asia,6.014270014,renewables
+India,2011,Asia,6.204903157,renewables
+India,2012,Asia,6.168827999,renewables
+India,2013,Asia,6.29042404,renewables
+India,2014,Asia,6.358911019,renewables
+India,2015,Asia,6.342855304,renewables
+India,2016,Asia,6.376618098,renewables
+India,2017,Asia,6.478939657,renewables
+India,2018,Asia,6.57752194,renewables
+India,2019,Asia,6.683325901,renewables
+Japan,1965,Asia,5.353354643,renewables
+Japan,1966,Asia,5.395566574,renewables
+Japan,1967,Asia,5.249268919,renewables
+Japan,1968,Asia,5.318306251,renewables
+Japan,1969,Asia,5.343845072,renewables
+Japan,1970,Asia,5.350924048,renewables
+Japan,1971,Asia,5.460470229,renewables
+Japan,1972,Asia,5.471350082,renewables
+Japan,1973,Asia,5.230659318,renewables
+Japan,1974,Asia,5.44408299,renewables
+Japan,1975,Asia,5.45444894,renewables
+Japan,1976,Asia,5.456376114,renewables
+Japan,1977,Asia,5.326248631,renewables
+Japan,1978,Asia,5.294224,renewables
+Japan,1979,Asia,5.43984297,renewables
+Japan,1980,Asia,5.526766817,renewables
+Japan,1981,Asia,5.520023886,renewables
+Japan,1982,Asia,5.640242566,renewables
+Japan,1983,Asia,5.688266048,renewables
+Japan,1984,Asia,5.584525854,renewables
+Japan,1985,Asia,5.706339203,renewables
+Japan,1986,Asia,5.707724694,renewables
+Japan,1987,Asia,5.669646413,renewables
+Japan,1988,Asia,5.827865623,renewables
+Japan,1989,Asia,5.856652335,renewables
+Japan,1990,Asia,5.718303203,renewables
+Japan,1991,Asia,5.789981577,renewables
+Japan,1992,Asia,5.663734486,renewables
+Japan,1993,Asia,5.772873119,renewables
+Japan,1994,Asia,5.537342141,renewables
+Japan,1995,Asia,5.69846838,renewables
+Japan,1996,Asia,5.701265978,renewables
+Japan,1997,Asia,5.804267123,renewables
+Japan,1998,Asia,5.822208267,renewables
+Japan,1999,Asia,5.784028239,renewables
+Japan,2000,Asia,5.78507978,renewables
+Japan,2001,Asia,5.75439954,renewables
+Japan,2002,Asia,5.758715637,renewables
+Japan,2003,Asia,5.869881488,renewables
+Japan,2004,Asia,5.867136389,renewables
+Japan,2005,Asia,5.813619954,renewables
+Japan,2006,Asia,5.895820562,renewables
+Japan,2007,Asia,5.796890231,renewables
+Japan,2008,Asia,5.785248784,renewables
+Japan,2009,Asia,5.731734809,renewables
+Japan,2010,Asia,5.900467054,renewables
+Japan,2011,Asia,5.854524494,renewables
+Japan,2012,Asia,5.83996992,renewables
+Japan,2013,Asia,5.908044894,renewables
+Japan,2014,Asia,5.99371202,renewables
+Japan,2015,Asia,6.134889338,renewables
+Japan,2016,Asia,6.002137389,renewables
+Japan,2017,Asia,6.122696736,renewables
+Japan,2018,Asia,6.214420081,renewables
+Japan,2019,Asia,6.355018526,renewables
+Russia,1985,Asia,6.095135136,renewables
+Russia,1986,Asia,6.123555841,renewables
+Russia,1987,Asia,6.11252443,renewables
+Russia,1988,Asia,6.102603336,renewables
+Russia,1989,Asia,6.095135136,renewables
+Russia,1990,Asia,6.139522418,renewables
+Russia,1991,Asia,6.14697145,renewables
+Russia,1992,Asia,6.17334434,renewables
+Russia,1993,Asia,6.183076151,renewables
+Russia,1994,Asia,6.192427927,renewables
+Russia,1995,Asia,6.19427477,renewables
+Russia,1996,Asia,6.061370668,renewables
+Russia,1997,Asia,6.08140351,renewables
+Russia,1998,Asia,6.088141974,renewables
+Russia,1999,Asia,6.10064177,renewables
+Russia,2000,Asia,6.122979533,renewables
+Russia,2001,Asia,6.174962495,renewables
+Russia,2002,Asia,6.099529403,renewables
+Russia,2003,Asia,6.054739771,renewables
+Russia,2004,Asia,6.16966094,renewables
+Russia,2005,Asia,6.145810922,renewables
+Russia,2006,Asia,6.143994629,renewables
+Russia,2007,Asia,6.158837427,renewables
+Russia,2008,Asia,6.081268687,renewables
+Russia,2009,Asia,6.130430521,renewables
+Russia,2010,Asia,6.079713491,renewables
+Russia,2011,Asia,6.053187389,renewables
+Russia,2012,Asia,6.04889348,renewables
+Russia,2013,Asia,6.144842071,renewables
+Russia,2014,Asia,6.097528066,renewables
+Russia,2015,Asia,6.060645401,renewables
+Russia,2016,Asia,6.148602902,renewables
+Russia,2017,Asia,6.146802379,renewables
+Russia,2018,Asia,6.170777416,renewables
+Russia,2019,Asia,6.188516658,renewables
+Turkey,1965,Asia,1.889944301,renewables
+Turkey,1966,Asia,1.971717123,renewables
+Turkey,1967,Asia,2.026568052,renewables
+Turkey,1968,Asia,2.284726575,renewables
+Turkey,1969,Asia,2.357830567,renewables
+Turkey,1970,Asia,2.236124726,renewables
+Turkey,1971,Asia,2.09936671,renewables
+Turkey,1972,Asia,2.290816109,renewables
+Turkey,1973,Asia,2.120583485,renewables
+Turkey,1974,Asia,2.3496595,renewables
+Turkey,1975,Asia,2.869658716,renewables
+Turkey,1976,Asia,3.185029444,renewables
+Turkey,1977,Asia,3.220234901,renewables
+Turkey,1978,Asia,3.284738469,renewables
+Turkey,1979,Asia,3.380858611,renewables
+Turkey,1980,Asia,3.474726615,renewables
+Turkey,1981,Asia,3.574197854,renewables
+Turkey,1982,Asia,3.672800884,renewables
+Turkey,1983,Asia,3.450558811,renewables
+Turkey,1984,Asia,3.622419087,renewables
+Turkey,1985,Asia,3.511605139,renewables
+Turkey,1986,Asia,3.503513267,renewables
+Turkey,1987,Asia,3.95216637,renewables
+Turkey,1988,Asia,4.39205122,renewables
+Turkey,1989,Asia,3.915815804,renewables
+Turkey,1990,Asia,4.170595475,renewables
+Turkey,1991,Asia,4.153949056,renewables
+Turkey,1992,Asia,4.310235208,renewables
+Turkey,1993,Asia,4.55452931,renewables
+Turkey,1994,Asia,4.450771142,renewables
+Turkey,1995,Asia,4.609630225,renewables
+Turkey,1996,Asia,4.735154044,renewables
+Turkey,1997,Asia,4.724764913,renewables
+Turkey,1998,Asia,4.780299272,renewables
+Turkey,1999,Asia,4.58069305,renewables
+Turkey,2000,Asia,4.468410732,renewables
+Turkey,2001,Asia,4.21881629,renewables
+Turkey,2002,Asia,4.541026254,renewables
+Turkey,2003,Asia,4.578220278,renewables
+Turkey,2004,Asia,4.834939737,renewables
+Turkey,2005,Asia,4.675367665,renewables
+Turkey,2006,Asia,4.782579698,renewables
+Turkey,2007,Asia,4.580119009,renewables
+Turkey,2008,Asia,4.51827153,renewables
+Turkey,2009,Asia,4.623746572,renewables
+Turkey,2010,Asia,4.996468754,renewables
+Turkey,2011,Asia,5.032194548,renewables
+Turkey,2012,Asia,5.146592908,renewables
+Turkey,2013,Asia,5.209420577,renewables
+Turkey,2014,Asia,4.960856642,renewables
+Turkey,2015,Asia,5.409178725,renewables
+Turkey,2016,Asia,5.493822471,renewables
+Turkey,2017,Asia,5.475613819,renewables
+Turkey,2018,Asia,5.591192183,renewables
+Turkey,2019,Asia,5.898578676,renewables
+Indonesia,1965,Asia,1.625311262,renewables
+Indonesia,1966,Asia,1.887372633,renewables
+Indonesia,1967,Asia,2.003235216,renewables
+Indonesia,1968,Asia,2.214409402,renewables
+Indonesia,1969,Asia,2.258946636,renewables
+Indonesia,1970,Asia,2.454017797,renewables
+Indonesia,1971,Asia,1.345472367,renewables
+Indonesia,1972,Asia,1.234016926,renewables
+Indonesia,1973,Asia,1.465798462,renewables
+Indonesia,1974,Asia,1.568199164,renewables
+Indonesia,1975,Asia,1.615618772,renewables
+Indonesia,1976,Asia,1.083837003,renewables
+Indonesia,1977,Asia,1.590866527,renewables
+Indonesia,1978,Asia,1.255331097,renewables
+Indonesia,1979,Asia,1.361489242,renewables
+Indonesia,1980,Asia,1.262147368,renewables
+Indonesia,1981,Asia,1.25874504,renewables
+Indonesia,1982,Asia,1.345472367,renewables
+Indonesia,1983,Asia,1.7523254,renewables
+Indonesia,1984,Asia,1.839755667,renewables
+Indonesia,1985,Asia,2.040570767,renewables
+Indonesia,1986,Asia,2.516405317,renewables
+Indonesia,1987,Asia,2.54474665,renewables
+Indonesia,1988,Asia,2.638557205,renewables
+Indonesia,1989,Asia,2.859568849,renewables
+Indonesia,1990,Asia,3.190805514,renewables
+Indonesia,1991,Asia,3.27461323,renewables
+Indonesia,1992,Asia,3.49149502,renewables
+Indonesia,1993,Asia,3.426670178,renewables
+Indonesia,1994,Asia,3.437047035,renewables
+Indonesia,1995,Asia,3.564958872,renewables
+Indonesia,1996,Asia,3.625353753,renewables
+Indonesia,1997,Asia,3.448748684,renewables
+Indonesia,1998,Asia,3.851338382,renewables
+Indonesia,1999,Asia,3.926616008,renewables
+Indonesia,2000,Asia,4.005531563,renewables
+Indonesia,2001,Asia,4.181790567,renewables
+Indonesia,2002,Asia,4.118760714,renewables
+Indonesia,2003,Asia,4.079856786,renewables
+Indonesia,2004,Asia,4.131720626,renewables
+Indonesia,2005,Asia,4.165827664,renewables
+Indonesia,2006,Asia,4.117882036,renewables
+Indonesia,2007,Asia,4.216473695,renewables
+Indonesia,2008,Asia,4.315245601,renewables
+Indonesia,2009,Asia,4.390689008,renewables
+Indonesia,2010,Asia,4.570734009,renewables
+Indonesia,2011,Asia,4.438217914,renewables
+Indonesia,2012,Asia,4.480898645,renewables
+Indonesia,2013,Asia,4.62111243,renewables
+Indonesia,2014,Asia,4.674593631,renewables
+Indonesia,2015,Asia,4.556084978,renewables
+Indonesia,2016,Asia,4.86466881,renewables
+Indonesia,2017,Asia,4.908801884,renewables
+Indonesia,2018,Asia,4.997320376,renewables
+Indonesia,2019,Asia,5.245138084,renewables
+Vietnam,1965,Asia,-0.047091608,renewables
+Vietnam,1966,Asia,0.088926209,renewables
+Vietnam,1967,Asia,0.185649347,renewables
+Vietnam,1968,Asia,0.294905918,renewables
+Vietnam,1969,Asia,0.412109651,renewables
+Vietnam,1970,Asia,0.517006483,renewables
+Vietnam,1971,Asia,0.539996001,renewables
+Vietnam,1972,Asia,0.167207919,renewables
+Vietnam,1973,Asia,0.162968828,renewables
+Vietnam,1974,Asia,0.162968828,renewables
+Vietnam,1975,Asia,0.335757696,renewables
+Vietnam,1976,Asia,0.442760893,renewables
+Vietnam,1977,Asia,0.517006483,renewables
+Vietnam,1978,Asia,0.802898045,renewables
+Vietnam,1979,Asia,1.025324493,renewables
+Vietnam,1980,Asia,1.421420163,renewables
+Vietnam,1981,Asia,1.434131691,renewables
+Vietnam,1982,Asia,1.468565354,renewables
+Vietnam,1983,Asia,1.225832139,renewables
+Vietnam,1984,Asia,1.493353433,renewables
+Vietnam,1985,Asia,1.414152689,renewables
+Vietnam,1986,Asia,1.36558132,renewables
+Vietnam,1987,Asia,1.34911157,renewables
+Vietnam,1988,Asia,1.606433403,renewables
+Vietnam,1989,Asia,2.367529782,renewables
+Vietnam,1990,Asia,2.702970655,renewables
+Vietnam,1991,Asia,2.865452731,renewables
+Vietnam,1992,Asia,3.000122622,renewables
+Vietnam,1993,Asia,3.097160066,renewables
+Vietnam,1994,Asia,3.245907164,renewables
+Vietnam,1995,Asia,3.38113072,renewables
+Vietnam,1996,Asia,3.507537417,renewables
+Vietnam,1997,Asia,3.477880606,renewables
+Vietnam,1998,Asia,3.428455805,renewables
+Vietnam,1999,Asia,3.644692429,renewables
+Vietnam,2000,Asia,3.699547349,renewables
+Vietnam,2001,Asia,3.91730901,renewables
+Vietnam,2002,Asia,3.910181311,renewables
+Vietnam,2003,Asia,3.946134535,renewables
+Vietnam,2004,Asia,3.87625074,renewables
+Vietnam,2005,Asia,3.801225514,renewables
+Vietnam,2006,Asia,3.971121758,renewables
+Vietnam,2007,Asia,4.09481112,renewables
+Vietnam,2008,Asia,4.232598121,renewables
+Vietnam,2009,Asia,4.369574427,renewables
+Vietnam,2010,Asia,4.314697557,renewables
+Vietnam,2011,Asia,4.671585071,renewables
+Vietnam,2012,Asia,4.925266204,renewables
+Vietnam,2013,Asia,5.000786958,renewables
+Vietnam,2014,Asia,5.067059735,renewables
+Vietnam,2015,Asia,4.97988051,renewables
+Vietnam,2016,Asia,5.117945907,renewables
+Vietnam,2017,Asia,5.407135896,renewables
+Vietnam,2018,Asia,5.353851406,renewables
+Vietnam,2019,Asia,5.160812375,renewables
+Thailand,1965,Asia,0.85271175,renewables
+Thailand,1966,Asia,1.087214244,renewables
+Thailand,1967,Asia,1.337629189,renewables
+Thailand,1968,Asia,1.364304343,renewables
+Thailand,1969,Asia,1.070212814,renewables
+Thailand,1970,Asia,1.604224345,renewables
+Thailand,1971,Asia,1.740290721,renewables
+Thailand,1972,Asia,1.570697084,renewables
+Thailand,1973,Asia,1.654793614,renewables
+Thailand,1974,Asia,1.922495291,renewables
+Thailand,1975,Asia,2.246226359,renewables
+Thailand,1976,Asia,2.313821725,renewables
+Thailand,1977,Asia,2.205964054,renewables
+Thailand,1978,Asia,1.770024977,renewables
+Thailand,1979,Asia,2.205413181,renewables
+Thailand,1980,Asia,1.265820208,renewables
+Thailand,1981,Asia,2.112755421,renewables
+Thailand,1982,Asia,2.367061112,renewables
+Thailand,1983,Asia,2.320130272,renewables
+Thailand,1984,Asia,2.428865259,renewables
+Thailand,1985,Asia,2.328545195,renewables
+Thailand,1986,Asia,2.732807852,renewables
+Thailand,1987,Asia,2.425245106,renewables
+Thailand,1988,Asia,2.351946523,renewables
+Thailand,1989,Asia,2.73709107,renewables
+Thailand,1990,Asia,2.621765833,renewables
+Thailand,1991,Asia,2.540735476,renewables
+Thailand,1992,Asia,2.457792357,renewables
+Thailand,1993,Asia,2.323171727,renewables
+Thailand,1994,Asia,2.527646803,renewables
+Thailand,1995,Asia,2.950577992,renewables
+Thailand,1996,Asia,3.054095517,renewables
+Thailand,1997,Asia,3.054095517,renewables
+Thailand,1998,Asia,2.764115425,renewables
+Thailand,1999,Asia,2.482152862,renewables
+Thailand,2000,Asia,2.960260524,renewables
+Thailand,2001,Asia,3.019351139,renewables
+Thailand,2002,Asia,3.191956736,renewables
+Thailand,2003,Asia,3.271733894,renewables
+Thailand,2004,Asia,3.257442478,renewables
+Thailand,2005,Asia,3.24524508,renewables
+Thailand,2006,Asia,3.489818573,renewables
+Thailand,2007,Asia,3.578422641,renewables
+Thailand,2008,Asia,3.568320695,renewables
+Thailand,2009,Asia,3.631462183,renewables
+Thailand,2010,Asia,3.675008698,renewables
+Thailand,2011,Asia,3.909038556,renewables
+Thailand,2012,Asia,4.064538063,renewables
+Thailand,2013,Asia,4.112593696,renewables
+Thailand,2014,Asia,4.258488005,renewables
+Thailand,2015,Asia,4.287248813,renewables
+Thailand,2016,Asia,4.410225289,renewables
+Thailand,2017,Asia,4.544230515,renewables
+Thailand,2018,Asia,4.735654441,renewables
+Thailand,2019,Asia,4.87102834,renewables
+South Korea,1965,Asia,0.68461085,renewables
+South Korea,1966,Asia,1.010509407,renewables
+South Korea,1967,Asia,0.97757396,renewables
+South Korea,1968,Asia,0.952429778,renewables
+South Korea,1969,Asia,1.38077918,renewables
+South Korea,1970,Asia,1.224069506,renewables
+South Korea,1971,Asia,1.302097202,renewables
+South Korea,1972,Asia,1.337629189,renewables
+South Korea,1973,Asia,1.274803985,renewables
+South Korea,1974,Asia,1.668461253,renewables
+South Korea,1975,Asia,1.544152446,renewables
+South Korea,1976,Asia,1.605229068,renewables
+South Korea,1977,Asia,1.355577388,renewables
+South Korea,1978,Asia,1.615618772,renewables
+South Korea,1979,Asia,1.85442123,renewables
+South Korea,1980,Asia,1.675974436,renewables
+South Korea,1981,Asia,1.977685633,renewables
+South Korea,1982,Asia,1.563393974,renewables
+South Korea,1983,Asia,1.853638206,renewables
+South Korea,1984,Asia,1.715598108,renewables
+South Korea,1985,Asia,2.181208107,renewables
+South Korea,1986,Asia,2.157443707,renewables
+South Korea,1987,Asia,2.400165421,renewables
+South Korea,1988,Asia,1.710187816,renewables
+South Korea,1989,Asia,2.109364355,renewables
+South Korea,1990,Asia,2.566793809,renewables
+South Korea,1991,Asia,2.271713429,renewables
+South Korea,1992,Asia,2.154085085,renewables
+South Korea,1993,Asia,2.464873996,renewables
+South Korea,1994,Asia,1.877172347,renewables
+South Korea,1995,Asia,2.204972264,renewables
+South Korea,1996,Asia,2.196224077,renewables
+South Korea,1997,Asia,2.112755421,renewables
+South Korea,1998,Asia,2.504382426,renewables
+South Korea,1999,Asia,2.491220012,renewables
+South Korea,2000,Asia,2.455048636,renewables
+South Korea,2001,Asia,1.942762343,renewables
+South Korea,2002,Asia,2.294149614,renewables
+South Korea,2003,Asia,2.669517251,renewables
+South Korea,2004,Asia,2.602022796,renewables
+South Korea,2005,Asia,2.470469602,renewables
+South Korea,2006,Asia,2.477042475,renewables
+South Korea,2007,Asia,2.649785293,renewables
+South Korea,2008,Asia,2.779129783,renewables
+South Korea,2009,Asia,3.012835181,renewables
+South Korea,2010,Asia,3.273591257,renewables
+South Korea,2011,Asia,3.404658053,renewables
+South Korea,2012,Asia,3.417169151,renewables
+South Korea,2013,Asia,3.61067464,renewables
+South Korea,2014,Asia,3.701696958,renewables
+South Korea,2015,Asia,3.947756877,renewables
+South Korea,2016,Asia,4.168508485,renewables
+South Korea,2017,Asia,4.414518026,renewables
+South Korea,2018,Asia,4.651719747,renewables
+South Korea,2019,Asia,4.810548872,renewables
+Pakistan,1965,Asia,1.810090426,renewables
+Pakistan,1966,Asia,1.810090426,renewables
+Pakistan,1967,Asia,1.979759318,renewables
+Pakistan,1968,Asia,2.163437962,renewables
+Pakistan,1969,Asia,2.217027205,renewables
+Pakistan,1970,Asia,2.094945728,renewables
+Pakistan,1971,Asia,2.361231288,renewables
+Pakistan,1972,Asia,2.412067104,renewables
+Pakistan,1973,Asia,2.465638879,renewables
+Pakistan,1974,Asia,2.470807725,renewables
+Pakistan,1975,Asia,2.610951757,renewables
+Pakistan,1976,Asia,2.693139588,renewables
+Pakistan,1977,Asia,2.865224875,renewables
+Pakistan,1978,Asia,3.08135936,renewables
+Pakistan,1979,Asia,3.159380565,renewables
+Pakistan,1980,Asia,3.206681779,renewables
+Pakistan,1981,Asia,3.24998682,renewables
+Pakistan,1982,Asia,3.367916327,renewables
+Pakistan,1983,Asia,3.514823642,renewables
+Pakistan,1984,Asia,3.55068004,renewables
+Pakistan,1985,Asia,3.588727572,renewables
+Pakistan,1986,Asia,3.543969282,renewables
+Pakistan,1987,Asia,3.817558468,renewables
+Pakistan,1988,Asia,3.864721732,renewables
+Pakistan,1989,Asia,3.880821254,renewables
+Pakistan,1990,Asia,3.860076866,renewables
+Pakistan,1991,Asia,3.927817611,renewables
+Pakistan,1992,Asia,4.014796177,renewables
+Pakistan,1993,Asia,4.109824133,renewables
+Pakistan,1994,Asia,4.091122711,renewables
+Pakistan,1995,Asia,4.146225184,renewables
+Pakistan,1996,Asia,4.232525545,renewables
+Pakistan,1997,Asia,3.93673513,renewables
+Pakistan,1998,Asia,4.204334346,renewables
+Pakistan,1999,Asia,4.090102243,renewables
+Pakistan,2000,Asia,3.987705452,renewables
+Pakistan,2001,Asia,4.01286332,renewables
+Pakistan,2002,Asia,4.115159749,renewables
+Pakistan,2003,Asia,4.286272606,renewables
+Pakistan,2004,Asia,4.341269742,renewables
+Pakistan,2005,Asia,4.413864392,renewables
+Pakistan,2006,Asia,4.392830562,renewables
+Pakistan,2007,Asia,4.432684102,renewables
+Pakistan,2008,Asia,4.279204561,renewables
+Pakistan,2009,Asia,4.323297871,renewables
+Pakistan,2010,Asia,4.353755753,renewables
+Pakistan,2011,Asia,4.374044865,renewables
+Pakistan,2012,Asia,3.327191968,renewables
+Pakistan,2013,Asia,4.85615456,renewables
+Pakistan,2014,Asia,4.44011864,renewables
+Pakistan,2015,Asia,4.484605786,renewables
+Pakistan,2016,Asia,4.565784659,renewables
+Pakistan,2017,Asia,4.488580188,renewables
+Pakistan,2018,Asia,4.47348851,renewables
+Pakistan,2019,Asia,4.678048831,renewables
+Philippines,1965,Asia,1.462329047,renewables
+Philippines,1966,Asia,1.442674695,renewables
+Philippines,1967,Asia,1.542656879,renewables
+Philippines,1968,Asia,1.566112788,renewables
+Philippines,1969,Asia,1.619784204,renewables
+Philippines,1970,Asia,1.763874266,renewables
+Philippines,1971,Asia,1.682502483,renewables
+Philippines,1972,Asia,1.814987595,renewables
+Philippines,1973,Asia,1.887675526,renewables
+Philippines,1974,Asia,1.741693492,renewables
+Philippines,1975,Asia,1.843877423,renewables
+Philippines,1976,Asia,2.050784832,renewables
+Philippines,1977,Asia,1.772916381,renewables
+Philippines,1978,Asia,2.058600876,renewables
+Philippines,1979,Asia,2.446772013,renewables
+Philippines,1980,Asia,3.051781739,renewables
+Philippines,1981,Asia,3.468575617,renewables
+Philippines,1982,Asia,3.471997508,renewables
+Philippines,1983,Asia,3.649332688,renewables
+Philippines,1984,Asia,3.794162467,renewables
+Philippines,1985,Asia,3.880470417,renewables
+Philippines,1986,Asia,3.864637854,renewables
+Philippines,1987,Asia,3.732537423,renewables
+Philippines,1988,Asia,3.837859647,renewables
+Philippines,1989,Asia,3.906004933,renewables
+Philippines,1990,Asia,3.904051316,renewables
+Philippines,1991,Asia,3.834925955,renewables
+Philippines,1992,Asia,3.784416881,renewables
+Philippines,1993,Asia,3.816964794,renewables
+Philippines,1994,Asia,3.939735444,renewables
+Philippines,1995,Asia,3.939735444,renewables
+Philippines,1996,Asia,4.022454641,renewables
+Philippines,1997,Asia,4.044348671,renewables
+Philippines,1998,Asia,4.152676361,renewables
+Philippines,1999,Asia,4.390044406,renewables
+Philippines,2000,Asia,4.457389177,renewables
+Philippines,2001,Asia,4.347033971,renewables
+Philippines,2002,Asia,4.323629218,renewables
+Philippines,2003,Asia,4.317088034,renewables
+Philippines,2004,Asia,4.368624729,renewables
+Philippines,2005,Asia,4.329324454,renewables
+Philippines,2006,Asia,4.414856779,renewables
+Philippines,2007,Asia,4.346140356,renewables
+Philippines,2008,Asia,4.416041513,renewables
+Philippines,2009,Asia,4.383275854,renewables
+Philippines,2010,Asia,4.282772437,renewables
+Philippines,2011,Asia,4.350277936,renewables
+Philippines,2012,Asia,4.386504096,renewables
+Philippines,2013,Asia,4.332035124,renewables
+Philippines,2014,Asia,4.345816386,renewables
+Philippines,2015,Asia,4.405621084,renewables
+Philippines,2016,Asia,4.442051076,renewables
+Philippines,2017,Asia,4.456391717,renewables
+Philippines,2018,Asia,4.46206165,renewables
+Philippines,2019,Asia,4.482222587,renewables
+Malaysia,1965,Asia,0.495305812,renewables
+Malaysia,1966,Asia,0.658555736,renewables
+Malaysia,1967,Asia,0.705075751,renewables
+Malaysia,1968,Asia,0.807814256,renewables
+Malaysia,1969,Asia,1.039216079,renewables
+Malaysia,1970,Asia,1.208661794,renewables
+Malaysia,1971,Asia,1.070212814,renewables
+Malaysia,1972,Asia,1.168138351,renewables
+Malaysia,1973,Asia,1.127523632,renewables
+Malaysia,1974,Asia,1.031046969,renewables
+Malaysia,1975,Asia,1.030333448,renewables
+Malaysia,1976,Asia,0.971914636,renewables
+Malaysia,1977,Asia,0.763605644,renewables
+Malaysia,1978,Asia,0.924655648,renewables
+Malaysia,1979,Asia,1.123304901,renewables
+Malaysia,1980,Asia,1.366856667,renewables
+Malaysia,1981,Asia,1.469485952,renewables
+Malaysia,1982,Asia,1.431267727,renewables
+Malaysia,1983,Asia,1.582888577,renewables
+Malaysia,1984,Asia,2.26145055,renewables
+Malaysia,1985,Asia,2.349277821,renewables
+Malaysia,1986,Asia,2.43851361,renewables
+Malaysia,1987,Asia,2.624958405,renewables
+Malaysia,1988,Asia,2.767827405,renewables
+Malaysia,1989,Asia,2.689003288,renewables
+Malaysia,1990,Asia,2.41546725,renewables
+Malaysia,1991,Asia,2.515193342,renewables
+Malaysia,1992,Asia,2.477882035,renewables
+Malaysia,1993,Asia,2.602022796,renewables
+Malaysia,1994,Asia,2.891371258,renewables
+Malaysia,1995,Asia,2.849665497,renewables
+Malaysia,1996,Asia,2.66792241,renewables
+Malaysia,1997,Asia,2.451177497,renewables
+Malaysia,1998,Asia,2.516970403,renewables
+Malaysia,1999,Asia,3.043950846,renewables
+Malaysia,2000,Asia,3.118392286,renewables
+Malaysia,2001,Asia,2.99167405,renewables
+Malaysia,2002,Asia,2.837615405,renewables
+Malaysia,2003,Asia,2.781734274,renewables
+Malaysia,2004,Asia,2.902300329,renewables
+Malaysia,2005,Asia,2.963002449,renewables
+Malaysia,2006,Asia,3.008006634,renewables
+Malaysia,2007,Asia,2.989160728,renewables
+Malaysia,2008,Asia,3.21185121,renewables
+Malaysia,2009,Asia,3.234591681,renewables
+Malaysia,2010,Asia,3.143332978,renewables
+Malaysia,2011,Asia,3.362283288,renewables
+Malaysia,2012,Asia,3.452903924,renewables
+Malaysia,2013,Asia,3.589859903,renewables
+Malaysia,2014,Asia,3.642495144,renewables
+Malaysia,2015,Asia,3.681980712,renewables
+Malaysia,2016,Asia,4.006751198,renewables
+Malaysia,2017,Asia,4.273550158,renewables
+Malaysia,2018,Asia,4.263721588,renewables
+Malaysia,2019,Asia,4.295269771,renewables
+Iran,1965,Asia,1.565486025,renewables
+Iran,1966,Asia,1.637247613,renewables
+Iran,1967,Asia,1.710910881,renewables
+Iran,1968,Asia,1.783727298,renewables
+Iran,1969,Asia,1.857235051,renewables
+Iran,1970,Asia,1.931086534,renewables
+Iran,1971,Asia,2.003235216,renewables
+Iran,1972,Asia,2.275522173,renewables
+Iran,1973,Asia,2.109849498,renewables
+Iran,1974,Asia,2.206294433,renewables
+Iran,1975,Asia,2.25507411,renewables
+Iran,1976,Asia,2.367061112,renewables
+Iran,1977,Asia,2.399893275,renewables
+Iran,1978,Asia,2.848275804,renewables
+Iran,1979,Asia,2.705513653,renewables
+Iran,1980,Asia,2.741807298,renewables
+Iran,1981,Asia,2.829618656,renewables
+Iran,1982,Asia,2.877736715,renewables
+Iran,1983,Asia,2.856067826,renewables
+Iran,1984,Asia,2.788954076,renewables
+Iran,1985,Asia,2.797037403,renewables
+Iran,1986,Asia,2.97517236,renewables
+Iran,1987,Asia,3.078279535,renewables
+Iran,1988,Asia,3.131835357,renewables
+Iran,1989,Asia,2.92905814,renewables
+Iran,1990,Asia,3.021058832,renewables
+Iran,1991,Asia,2.746308913,renewables
+Iran,1992,Asia,3.24169351,renewables
+Iran,1993,Asia,3.376494769,renewables
+Iran,1994,Asia,2.953137876,renewables
+Iran,1995,Asia,3.141087241,renewables
+Iran,1996,Asia,3.198387362,renewables
+Iran,1997,Asia,2.804147949,renewables
+Iran,1998,Asia,3.03543364,renewables
+Iran,1999,Asia,2.666741977,renewables
+Iran,2000,Asia,2.362173884,renewables
+Iran,2001,Asia,2.440519279,renewables
+Iran,2002,Asia,3.093811344,renewables
+Iran,2003,Asia,3.265988392,renewables
+Iran,2004,Asia,3.479330575,renewables
+Iran,2005,Asia,3.665201327,renewables
+Iran,2006,Asia,3.908396437,renewables
+Iran,2007,Asia,3.873032666,renewables
+Iran,2008,Asia,3.003799645,renewables
+Iran,2009,Asia,2.90416508,renewables
+Iran,2010,Asia,3.308387407,renewables
+Iran,2011,Asia,3.345191245,renewables
+Iran,2012,Asia,3.492134377,renewables
+Iran,2013,Asia,3.640004286,renewables
+Iran,2014,Asia,3.628704731,renewables
+Iran,2015,Asia,3.533190091,renewables
+Iran,2016,Asia,3.67832394,renewables
+Iran,2017,Asia,3.788543777,renewables
+Iran,2018,Asia,3.387909487,renewables
+Iran,2019,Asia,4.292621486,renewables
+Taiwan,1965,Asia,1.973108331,renewables
+Taiwan,1966,Asia,2.001750234,renewables
+Taiwan,1967,Asia,1.991566155,renewables
+Taiwan,1968,Asia,2.37425438,renewables
+Taiwan,1969,Asia,2.138653401,renewables
+Taiwan,1970,Asia,2.07543352,renewables
+Taiwan,1971,Asia,2.151296979,renewables
+Taiwan,1972,Asia,2.313525033,renewables
+Taiwan,1973,Asia,2.246226359,renewables
+Taiwan,1974,Asia,2.571007891,renewables
+Taiwan,1975,Asia,2.682664015,renewables
+Taiwan,1976,Asia,2.476874478,renewables
+Taiwan,1977,Asia,2.414573595,renewables
+Taiwan,1978,Asia,2.624958405,renewables
+Taiwan,1979,Asia,2.541286983,renewables
+Taiwan,1980,Asia,2.09654445,renewables
+Taiwan,1981,Asia,2.589116504,renewables
+Taiwan,1982,Asia,2.590542128,renewables
+Taiwan,1983,Asia,2.631169157,renewables
+Taiwan,1984,Asia,2.502337185,renewables
+Taiwan,1985,Asia,2.81516917,renewables
+Taiwan,1986,Asia,2.836912377,renewables
+Taiwan,1987,Asia,2.729746459,renewables
+Taiwan,1988,Asia,2.565795154,renewables
+Taiwan,1989,Asia,2.726675665,renewables
+Taiwan,1990,Asia,2.978535249,renewables
+Taiwan,1991,Asia,2.55769232,renewables
+Taiwan,1992,Asia,3.023396078,renewables
+Taiwan,1993,Asia,2.598458524,renewables
+Taiwan,1994,Asia,2.785628336,renewables
+Taiwan,1995,Asia,2.792636418,renewables
+Taiwan,1996,Asia,2.802814778,renewables
+Taiwan,1997,Asia,2.860542363,renewables
+Taiwan,1998,Asia,3.028538225,renewables
+Taiwan,1999,Asia,2.902794278,renewables
+Taiwan,2000,Asia,2.920954847,renewables
+Taiwan,2001,Asia,3.073896295,renewables
+Taiwan,2002,Asia,2.84129822,renewables
+Taiwan,2003,Asia,2.895414577,renewables
+Taiwan,2004,Asia,2.932313126,renewables
+Taiwan,2005,Asia,3.040896826,renewables
+Taiwan,2006,Asia,3.071118,renewables
+Taiwan,2007,Asia,3.131878993,renewables
+Taiwan,2008,Asia,3.114670198,renewables
+Taiwan,2009,Asia,3.049083449,renewables
+Taiwan,2010,Asia,3.146133074,renewables
+Taiwan,2011,Asia,3.175216476,renewables
+Taiwan,2012,Asia,3.337547355,renewables
+Taiwan,2013,Asia,3.345896066,renewables
+Taiwan,2014,Asia,3.25628721,renewables
+Taiwan,2015,Asia,3.303143441,renewables
+Taiwan,2016,Asia,3.484250937,renewables
+Taiwan,2017,Asia,3.448494368,renewables
+Taiwan,2018,Asia,3.460754768,renewables
+Taiwan,2019,Asia,3.649462722,renewables
+Kazakhstan,1985,Asia,2.673044592,renewables
+Kazakhstan,1986,Asia,2.587237581,renewables
+Kazakhstan,1987,Asia,2.768329665,renewables
+Kazakhstan,1988,Asia,2.966869729,renewables
+Kazakhstan,1989,Asia,3.008944605,renewables
+Kazakhstan,1990,Asia,3.01900925,renewables
+Kazakhstan,1991,Asia,2.996232149,renewables
+Kazakhstan,1992,Asia,2.948745482,renewables
+Kazakhstan,1993,Asia,3.054095517,renewables
+Kazakhstan,1994,Asia,3.238952924,renewables
+Kazakhstan,1995,Asia,3.14208117,renewables
+Kazakhstan,1996,Asia,3.014259578,renewables
+Kazakhstan,1997,Asia,2.893865647,renewables
+Kazakhstan,1998,Asia,2.837205365,renewables
+Kazakhstan,1999,Asia,2.835739562,renewables
+Kazakhstan,2000,Asia,3.041183536,renewables
+Kazakhstan,2001,Asia,3.10512465,renewables
+Kazakhstan,2002,Asia,3.193968189,renewables
+Kazakhstan,2003,Asia,3.157255708,renewables
+Kazakhstan,2004,Asia,3.08278115,renewables
+Kazakhstan,2005,Asia,3.051261583,renewables
+Kazakhstan,2006,Asia,3.033702205,renewables
+Kazakhstan,2007,Asia,3.078003266,renewables
+Kazakhstan,2008,Asia,2.980720153,renewables
+Kazakhstan,2009,Asia,2.893533421,renewables
+Kazakhstan,2010,Asia,3.040992405,renewables
+Kazakhstan,2011,Asia,3.017493765,renewables
+Kazakhstan,2012,Asia,2.980060104,renewables
+Kazakhstan,2013,Asia,2.986489692,renewables
+Kazakhstan,2014,Asia,3.048087504,renewables
+Kazakhstan,2015,Asia,3.174338604,renewables
+Kazakhstan,2016,Asia,3.406417069,renewables
+Kazakhstan,2017,Asia,3.371665579,renewables
+Kazakhstan,2018,Asia,3.300271463,renewables
+Kazakhstan,2019,Asia,3.285150338,renewables
+Uzbekistan,1985,Asia,2.714496049,renewables
+Uzbekistan,1986,Asia,2.552487414,renewables
+Uzbekistan,1987,Asia,2.934760717,renewables
+Uzbekistan,1988,Asia,2.991222118,renewables
+Uzbekistan,1989,Asia,2.727460595,renewables
+Uzbekistan,1990,Asia,2.916526715,renewables
+Uzbekistan,1991,Asia,2.819174077,renewables
+Uzbekistan,1992,Asia,2.859740714,renewables
+Uzbekistan,1993,Asia,3.017933982,renewables
+Uzbekistan,1994,Asia,2.990116535,renewables
+Uzbekistan,1995,Asia,2.844851243,renewables
+Uzbekistan,1996,Asia,2.897843773,renewables
+Uzbekistan,1997,Asia,2.776144892,renewables
+Uzbekistan,1998,Asia,2.772838691,renewables
+Uzbekistan,1999,Asia,2.761338171,renewables
+Uzbekistan,2000,Asia,2.793677287,renewables
+Uzbekistan,2001,Asia,2.810305902,renewables
+Uzbekistan,2002,Asia,2.831564927,renewables
+Uzbekistan,2003,Asia,2.970517024,renewables
+Uzbekistan,2004,Asia,2.867216851,renewables
+Uzbekistan,2005,Asia,2.918040966,renewables
+Uzbekistan,2006,Asia,2.750215293,renewables
+Uzbekistan,2007,Asia,2.842697637,renewables
+Uzbekistan,2008,Asia,2.44997008,renewables
+Uzbekistan,2009,Asia,2.834330367,renewables
+Uzbekistan,2010,Asia,3.061988069,renewables
+Uzbekistan,2011,Asia,2.697124061,renewables
+Uzbekistan,2012,Asia,2.796000027,renewables
+Uzbekistan,2013,Asia,2.776518491,renewables
+Uzbekistan,2014,Asia,2.756840365,renewables
+Uzbekistan,2015,Asia,2.72392355,renewables
+Uzbekistan,2016,Asia,2.914359515,renewables
+Uzbekistan,2017,Asia,3.048324724,renewables
+Uzbekistan,2018,Asia,2.685872756,renewables
+Uzbekistan,2019,Asia,2.779750515,renewables
+Sri Lanka,1965,Asia,0.023716527,renewables
+Sri Lanka,1966,Asia,0.111541375,renewables
+Sri Lanka,1967,Asia,0.138891999,renewables
+Sri Lanka,1968,Asia,0.282920755,renewables
+Sri Lanka,1969,Asia,0.428530381,renewables
+Sri Lanka,1970,Asia,0.725614371,renewables
+Sri Lanka,1971,Asia,0.834212621,renewables
+Sri Lanka,1972,Asia,0.859931998,renewables
+Sri Lanka,1973,Asia,0.66423317,renewables
+Sri Lanka,1974,Asia,1.022810575,renewables
+Sri Lanka,1975,Asia,1.098945566,renewables
+Sri Lanka,1976,Asia,1.128818131,renewables
+Sri Lanka,1977,Asia,1.21846725,renewables
+Sri Lanka,1978,Asia,1.336315991,renewables
+Sri Lanka,1979,Asia,1.40388867,renewables
+Sri Lanka,1980,Asia,1.416095852,renewables
+Sri Lanka,1981,Asia,1.476135065,renewables
+Sri Lanka,1982,Asia,1.49872979,renewables
+Sri Lanka,1983,Asia,1.221124863,renewables
+Sri Lanka,1984,Asia,1.761643845,renewables
+Sri Lanka,1985,Asia,1.896719905,renewables
+Sri Lanka,1986,Asia,1.995788157,renewables
+Sri Lanka,1987,Asia,1.801214628,renewables
+Sri Lanka,1988,Asia,1.977270379,renewables
+Sri Lanka,1989,Asia,2.052969221,renewables
+Sri Lanka,1990,Asia,2.168596453,renewables
+Sri Lanka,1991,Asia,2.15952271,renewables
+Sri Lanka,1992,Asia,2.087533712,renewables
+Sri Lanka,1993,Asia,2.356504935,renewables
+Sri Lanka,1994,Asia,2.430890353,renewables
+Sri Lanka,1995,Asia,2.529640981,renewables
+Sri Lanka,1996,Asia,2.201990978,renewables
+Sri Lanka,1997,Asia,2.260303701,renewables
+Sri Lanka,1998,Asia,2.387385695,renewables
+Sri Lanka,1999,Asia,2.453071926,renewables
+Sri Lanka,2000,Asia,2.188408048,renewables
+Sri Lanka,2001,Asia,2.15489682,renewables
+Sri Lanka,2002,Asia,2.005256643,renewables
+Sri Lanka,2003,Asia,2.204641449,renewables
+Sri Lanka,2004,Asia,2.087533712,renewables
+Sri Lanka,2005,Asia,2.235055436,renewables
+Sri Lanka,2006,Asia,2.521881253,renewables
+Sri Lanka,2007,Asia,2.355841459,renewables
+Sri Lanka,2008,Asia,2.397167735,renewables
+Sri Lanka,2009,Asia,2.33853122,renewables
+Sri Lanka,2010,Asia,2.711710162,renewables
+Sri Lanka,2011,Asia,2.510655615,renewables
+Sri Lanka,2012,Asia,2.200995237,renewables
+Sri Lanka,2013,Asia,2.919067189,renewables
+Sri Lanka,2014,Asia,2.53345869,renewables
+Sri Lanka,2015,Asia,2.798439201,renewables
+Sri Lanka,2016,Asia,2.492295948,renewables
+Sri Lanka,2017,Asia,2.476706453,renewables
+Sri Lanka,2018,Asia,2.896022429,renewables
+Sri Lanka,2019,Asia,2.655633469,renewables
+United Arab Emirates,1965,Asia,-4.605170186,renewables
+United Arab Emirates,1966,Asia,-4.605170186,renewables
+United Arab Emirates,1967,Asia,-4.605170186,renewables
+United Arab Emirates,1968,Asia,-4.605170186,renewables
+United Arab Emirates,1969,Asia,-4.605170186,renewables
+United Arab Emirates,1970,Asia,-4.605170186,renewables
+United Arab Emirates,1971,Asia,-4.605170186,renewables
+United Arab Emirates,1972,Asia,-4.605170186,renewables
+United Arab Emirates,1973,Asia,-4.605170186,renewables
+United Arab Emirates,1974,Asia,-4.605170186,renewables
+United Arab Emirates,1975,Asia,-4.605170186,renewables
+United Arab Emirates,1976,Asia,-4.605170186,renewables
+United Arab Emirates,1977,Asia,-4.605170186,renewables
+United Arab Emirates,1978,Asia,-4.605170186,renewables
+United Arab Emirates,1979,Asia,-4.605170186,renewables
+United Arab Emirates,1980,Asia,-4.605170186,renewables
+United Arab Emirates,1981,Asia,-4.605170186,renewables
+United Arab Emirates,1982,Asia,-4.605170186,renewables
+United Arab Emirates,1983,Asia,-4.605170186,renewables
+United Arab Emirates,1984,Asia,-4.605170186,renewables
+United Arab Emirates,1985,Asia,-4.605170186,renewables
+United Arab Emirates,1986,Asia,-4.605170186,renewables
+United Arab Emirates,1987,Asia,-4.605170186,renewables
+United Arab Emirates,1988,Asia,-4.605170186,renewables
+United Arab Emirates,1989,Asia,-4.605170186,renewables
+United Arab Emirates,1990,Asia,-4.605170186,renewables
+United Arab Emirates,1991,Asia,-4.605170186,renewables
+United Arab Emirates,1992,Asia,-4.605170186,renewables
+United Arab Emirates,1993,Asia,-4.605170186,renewables
+United Arab Emirates,1994,Asia,-4.605170186,renewables
+United Arab Emirates,1995,Asia,-4.605170186,renewables
+United Arab Emirates,1996,Asia,-4.605170186,renewables
+United Arab Emirates,1997,Asia,-4.605170186,renewables
+United Arab Emirates,1998,Asia,-4.605170186,renewables
+United Arab Emirates,1999,Asia,-4.605170186,renewables
+United Arab Emirates,2000,Asia,-4.605170186,renewables
+United Arab Emirates,2001,Asia,-4.605170186,renewables
+United Arab Emirates,2002,Asia,-4.605170186,renewables
+United Arab Emirates,2003,Asia,-4.605170186,renewables
+United Arab Emirates,2004,Asia,-4.605170186,renewables
+United Arab Emirates,2005,Asia,-4.605170186,renewables
+United Arab Emirates,2006,Asia,-4.605170186,renewables
+United Arab Emirates,2007,Asia,-4.605170186,renewables
+United Arab Emirates,2008,Asia,-4.605170186,renewables
+United Arab Emirates,2009,Asia,-3.611918413,renewables
+United Arab Emirates,2010,Asia,-2.847312268,renewables
+United Arab Emirates,2011,Asia,-2.748872196,renewables
+United Arab Emirates,2012,Asia,-2.63108916,renewables
+United Arab Emirates,2013,Asia,-1.456716825,renewables
+United Arab Emirates,2014,Asia,-0.182721637,renewables
+United Arab Emirates,2015,Asia,-0.186329578,renewables
+United Arab Emirates,2016,Asia,-0.109814866,renewables
+United Arab Emirates,2017,Asia,0.69664107,renewables
+United Arab Emirates,2018,Asia,1.196948189,renewables
+United Arab Emirates,2019,Asia,2.338627684,renewables
+Israel,1965,Asia,-4.605170186,renewables
+Israel,1966,Asia,-4.605170186,renewables
+Israel,1967,Asia,-4.605170186,renewables
+Israel,1968,Asia,-4.605170186,renewables
+Israel,1969,Asia,-4.605170186,renewables
+Israel,1970,Asia,-4.605170186,renewables
+Israel,1971,Asia,-4.605170186,renewables
+Israel,1972,Asia,-4.605170186,renewables
+Israel,1973,Asia,-4.605170186,renewables
+Israel,1974,Asia,-4.605170186,renewables
+Israel,1975,Asia,-4.605170186,renewables
+Israel,1976,Asia,-4.605170186,renewables
+Israel,1977,Asia,-4.605170186,renewables
+Israel,1978,Asia,-4.605170186,renewables
+Israel,1979,Asia,-4.605170186,renewables
+Israel,1980,Asia,-4.605170186,renewables
+Israel,1981,Asia,-4.135166557,renewables
+Israel,1982,Asia,-4.135166557,renewables
+Israel,1983,Asia,-4.342805922,renewables
+Israel,1984,Asia,-4.135166557,renewables
+Israel,1985,Asia,-4.135166557,renewables
+Israel,1986,Asia,-3.611918413,renewables
+Israel,1987,Asia,-3.270169119,renewables
+Israel,1988,Asia,-3.270169119,renewables
+Israel,1989,Asia,-4.017383521,renewables
+Israel,1990,Asia,-4.017383521,renewables
+Israel,1991,Asia,-3.611918413,renewables
+Israel,1992,Asia,-2.396895772,renewables
+Israel,1993,Asia,-2.501036032,renewables
+Israel,1994,Asia,-2.603690186,renewables
+Israel,1995,Asia,-2.538307427,renewables
+Israel,1996,Asia,-2.563949857,renewables
+Israel,1997,Asia,-2.538307427,renewables
+Israel,1998,Asia,-2.538307427,renewables
+Israel,1999,Asia,-2.282782466,renewables
+Israel,2000,Asia,-2.343407088,renewables
+Israel,2001,Asia,-2.733368009,renewables
+Israel,2002,Asia,-2.3227878,renewables
+Israel,2003,Asia,-2.063568193,renewables
+Israel,2004,Asia,-2.154165088,renewables
+Israel,2005,Asia,-2.162823151,renewables
+Israel,2006,Asia,-2.563949857,renewables
+Israel,2007,Asia,-2.603690186,renewables
+Israel,2008,Asia,-2.189256408,renewables
+Israel,2009,Asia,-0.967584026,renewables
+Israel,2010,Asia,-0.491022996,renewables
+Israel,2011,Asia,-0.021223636,renewables
+Israel,2012,Asia,0.373630385,renewables
+Israel,2013,Asia,0.458057558,renewables
+Israel,2014,Asia,0.921079249,renewables
+Israel,2015,Asia,1.214319096,renewables
+Israel,2016,Asia,1.521480634,renewables
+Israel,2017,Asia,1.509617577,renewables
+Israel,2018,Asia,1.534498826,renewables
+Israel,2019,Asia,2.009421357,renewables
+Iraq,1965,Asia,-1.57987911,renewables
+Iraq,1966,Asia,-1.316768298,renewables
+Iraq,1967,Asia,-1.187443502,renewables
+Iraq,1968,Asia,-1.005121946,renewables
+Iraq,1969,Asia,-0.908818717,renewables
+Iraq,1970,Asia,-0.71539279,renewables
+Iraq,1971,Asia,-0.569161201,renewables
+Iraq,1972,Asia,-0.569161201,renewables
+Iraq,1973,Asia,-0.203340924,renewables
+Iraq,1974,Asia,0.114221144,renewables
+Iraq,1975,Asia,0.255417112,renewables
+Iraq,1976,Asia,0.250758718,renewables
+Iraq,1977,Asia,0.458689869,renewables
+Iraq,1978,Asia,0.681580544,renewables
+Iraq,1979,Asia,1.056748085,renewables
+Iraq,1980,Asia,0.655964389,renewables
+Iraq,1981,Asia,0.532978428,renewables
+Iraq,1982,Asia,0.517006483,renewables
+Iraq,1983,Asia,0.517006483,renewables
+Iraq,1984,Asia,0.532978428,renewables
+Iraq,1985,Asia,0.532978428,renewables
+Iraq,1986,Asia,0.517006483,renewables
+Iraq,1987,Asia,1.978515623,renewables
+Iraq,1988,Asia,1.978515623,renewables
+Iraq,1989,Asia,1.978515623,renewables
+Iraq,1990,Asia,2.559318147,renewables
+Iraq,1991,Asia,1.786579409,renewables
+Iraq,1992,Asia,2.674631292,renewables
+Iraq,1993,Asia,2.840597777,renewables
+Iraq,1994,Asia,2.854456686,renewables
+Iraq,1995,Asia,2.985025156,renewables
+Iraq,1996,Asia,2.892369761,renewables
+Iraq,1997,Asia,2.910501129,renewables
+Iraq,1998,Asia,2.846361817,renewables
+Iraq,1999,Asia,2.292130635,renewables
+Iraq,2000,Asia,2.184814557,renewables
+Iraq,2001,Asia,2.324737898,renewables
+Iraq,2002,Asia,2.526768104,renewables
+Iraq,2003,Asia,2.562407669,renewables
+Iraq,2004,Asia,2.745667065,renewables
+Iraq,2005,Asia,2.57824519,renewables
+Iraq,2006,Asia,2.591516385,renewables
+Iraq,2007,Asia,2.49642341,renewables
+Iraq,2008,Asia,2.047692843,renewables
+Iraq,2009,Asia,2.00619858,renewables
+Iraq,2010,Asia,2.244532162,renewables
+Iraq,2011,Asia,2.17702187,renewables
+Iraq,2012,Asia,2.427895284,renewables
+Iraq,2013,Asia,2.478888577,renewables
+Iraq,2014,Asia,1.997553382,renewables
+Iraq,2015,Asia,1.886463405,renewables
+Iraq,2016,Asia,2.155476228,renewables
+Iraq,2017,Asia,1.721515816,renewables
+Iraq,2018,Asia,1.541159072,renewables
+Iraq,2019,Asia,1.838484009,renewables
+Saudi Arabia,1965,Asia,-4.605170186,renewables
+Saudi Arabia,1966,Asia,-4.605170186,renewables
+Saudi Arabia,1967,Asia,-4.605170186,renewables
+Saudi Arabia,1968,Asia,-4.605170186,renewables
+Saudi Arabia,1969,Asia,-4.605170186,renewables
+Saudi Arabia,1970,Asia,-4.605170186,renewables
+Saudi Arabia,1971,Asia,-4.605170186,renewables
+Saudi Arabia,1972,Asia,-4.605170186,renewables
+Saudi Arabia,1973,Asia,-4.605170186,renewables
+Saudi Arabia,1974,Asia,-4.605170186,renewables
+Saudi Arabia,1975,Asia,-4.605170186,renewables
+Saudi Arabia,1976,Asia,-4.605170186,renewables
+Saudi Arabia,1977,Asia,-4.605170186,renewables
+Saudi Arabia,1978,Asia,-4.605170186,renewables
+Saudi Arabia,1979,Asia,-4.605170186,renewables
+Saudi Arabia,1980,Asia,-4.605170186,renewables
+Saudi Arabia,1981,Asia,-4.605170186,renewables
+Saudi Arabia,1982,Asia,-4.605170186,renewables
+Saudi Arabia,1983,Asia,-4.605170186,renewables
+Saudi Arabia,1984,Asia,-4.605170186,renewables
+Saudi Arabia,1985,Asia,-4.605170186,renewables
+Saudi Arabia,1986,Asia,-4.605170186,renewables
+Saudi Arabia,1987,Asia,-4.605170186,renewables
+Saudi Arabia,1988,Asia,-4.605170186,renewables
+Saudi Arabia,1989,Asia,-4.605170186,renewables
+Saudi Arabia,1990,Asia,-4.605170186,renewables
+Saudi Arabia,1991,Asia,-4.605170186,renewables
+Saudi Arabia,1992,Asia,-4.605170186,renewables
+Saudi Arabia,1993,Asia,-4.605170186,renewables
+Saudi Arabia,1994,Asia,-4.605170186,renewables
+Saudi Arabia,1995,Asia,-4.605170186,renewables
+Saudi Arabia,1996,Asia,-4.605170186,renewables
+Saudi Arabia,1997,Asia,-4.605170186,renewables
+Saudi Arabia,1998,Asia,-4.605170186,renewables
+Saudi Arabia,1999,Asia,-4.605170186,renewables
+Saudi Arabia,2000,Asia,-4.605170186,renewables
+Saudi Arabia,2001,Asia,-4.605170186,renewables
+Saudi Arabia,2002,Asia,-4.605170186,renewables
+Saudi Arabia,2003,Asia,-4.605170186,renewables
+Saudi Arabia,2004,Asia,-4.605170186,renewables
+Saudi Arabia,2005,Asia,-4.605170186,renewables
+Saudi Arabia,2006,Asia,-4.605170186,renewables
+Saudi Arabia,2007,Asia,-4.605170186,renewables
+Saudi Arabia,2008,Asia,-4.422848629,renewables
+Saudi Arabia,2009,Asia,-4.422848629,renewables
+Saudi Arabia,2010,Asia,-3.863232841,renewables
+Saudi Arabia,2011,Asia,-3.772261063,renewables
+Saudi Arabia,2012,Asia,-2.645075402,renewables
+Saudi Arabia,2013,Asia,-2.207274913,renewables
+Saudi Arabia,2014,Asia,-2.145581344,renewables
+Saudi Arabia,2015,Asia,-1.087672349,renewables
+Saudi Arabia,2016,Asia,-1.093624747,renewables
+Saudi Arabia,2017,Asia,-0.921303274,renewables
+Saudi Arabia,2018,Asia,-0.043951888,renewables
+Saudi Arabia,2019,Asia,1.486139696,renewables
+Singapore,1965,Asia,-4.605170186,renewables
+Singapore,1966,Asia,-4.605170186,renewables
+Singapore,1967,Asia,-4.605170186,renewables
+Singapore,1968,Asia,-4.605170186,renewables
+Singapore,1969,Asia,-4.605170186,renewables
+Singapore,1970,Asia,-4.605170186,renewables
+Singapore,1971,Asia,-4.605170186,renewables
+Singapore,1972,Asia,-4.605170186,renewables
+Singapore,1973,Asia,-4.605170186,renewables
+Singapore,1974,Asia,-4.605170186,renewables
+Singapore,1975,Asia,-4.605170186,renewables
+Singapore,1976,Asia,-4.605170186,renewables
+Singapore,1977,Asia,-4.605170186,renewables
+Singapore,1978,Asia,-4.605170186,renewables
+Singapore,1979,Asia,-4.605170186,renewables
+Singapore,1980,Asia,-4.605170186,renewables
+Singapore,1981,Asia,-4.605170186,renewables
+Singapore,1982,Asia,-4.605170186,renewables
+Singapore,1983,Asia,-4.605170186,renewables
+Singapore,1984,Asia,-4.605170186,renewables
+Singapore,1985,Asia,-4.605170186,renewables
+Singapore,1986,Asia,-0.729811165,renewables
+Singapore,1987,Asia,-0.729811165,renewables
+Singapore,1988,Asia,-0.729811165,renewables
+Singapore,1989,Asia,-0.729811165,renewables
+Singapore,1990,Asia,-0.729811165,renewables
+Singapore,1991,Asia,0.316269529,renewables
+Singapore,1992,Asia,0.316269529,renewables
+Singapore,1993,Asia,0.316269529,renewables
+Singapore,1994,Asia,0.316269529,renewables
+Singapore,1995,Asia,0.316269529,renewables
+Singapore,1996,Asia,0.316269529,renewables
+Singapore,1997,Asia,0.316269529,renewables
+Singapore,1998,Asia,0.316269529,renewables
+Singapore,1999,Asia,0.316269529,renewables
+Singapore,2000,Asia,0.316269529,renewables
+Singapore,2001,Asia,0.963174318,renewables
+Singapore,2002,Asia,0.957048724,renewables
+Singapore,2003,Asia,0.996210355,renewables
+Singapore,2004,Asia,0.957048724,renewables
+Singapore,2005,Asia,0.947789399,renewables
+Singapore,2006,Asia,0.932951173,renewables
+Singapore,2007,Asia,0.967744013,renewables
+Singapore,2008,Asia,1.015592933,renewables
+Singapore,2009,Asia,1.022450928,renewables
+Singapore,2010,Asia,1.124929597,renewables
+Singapore,2011,Asia,1.150255522,renewables
+Singapore,2012,Asia,1.195738999,renewables
+Singapore,2013,Asia,1.296369654,renewables
+Singapore,2014,Asia,1.348852066,renewables
+Singapore,2015,Asia,1.445270566,renewables
+Singapore,2016,Asia,1.450207687,renewables
+Singapore,2017,Asia,1.432939369,renewables
+Singapore,2018,Asia,1.419970887,renewables
+Singapore,2019,Asia,1.44409146,renewables
+Bangladesh,1971,Asia,-4.605170186,renewables
+Bangladesh,1972,Asia,-0.701179352,renewables
+Bangladesh,1973,Asia,-0.07364654,renewables
+Bangladesh,1974,Asia,-0.378336441,renewables
+Bangladesh,1975,Asia,0.199670195,renewables
+Bangladesh,1976,Asia,0.323531725,renewables
+Bangladesh,1977,Asia,0.202124184,renewables
+Bangladesh,1978,Asia,0.347835995,renewables
+Bangladesh,1979,Asia,0.495305812,renewables
+Bangladesh,1980,Asia,0.48796633,renewables
+Bangladesh,1981,Asia,0.557327457,renewables
+Bangladesh,1982,Asia,0.380489122,renewables
+Bangladesh,1983,Asia,0.614644952,renewables
+Bangladesh,1984,Asia,0.917090412,renewables
+Bangladesh,1985,Asia,0.724161234,renewables
+Bangladesh,1986,Asia,0.231111721,renewables
+Bangladesh,1987,Asia,0.368801124,renewables
+Bangladesh,1988,Asia,0.633927821,renewables
+Bangladesh,1989,Asia,0.942348266,renewables
+Bangladesh,1990,Asia,0.902597405,renewables
+Bangladesh,1991,Asia,0.849295863,renewables
+Bangladesh,1992,Asia,0.797957545,renewables
+Bangladesh,1993,Asia,0.530039843,renewables
+Bangladesh,1994,Asia,0.859931998,renewables
+Bangladesh,1995,Asia,0.042101176,renewables
+Bangladesh,1996,Asia,0.724161234,renewables
+Bangladesh,1997,Asia,0.69664107,renewables
+Bangladesh,1998,Asia,0.880870787,renewables
+Bangladesh,1999,Asia,0.843289839,renewables
+Bangladesh,2000,Asia,0.73764242,renewables
+Bangladesh,2001,Asia,1.011600912,renewables
+Bangladesh,2002,Asia,0.724645848,renewables
+Bangladesh,2003,Asia,0.719302138,renewables
+Bangladesh,2004,Asia,0.714419316,renewables
+Bangladesh,2005,Asia,0.710004298,renewables
+Bangladesh,2006,Asia,0.708528283,renewables
+Bangladesh,2007,Asia,0.707050086,renewables
+Bangladesh,2008,Asia,0.942348266,renewables
+Bangladesh,2009,Asia,0.173112618,renewables
+Bangladesh,2010,Asia,0.717839793,renewables
+Bangladesh,2011,Asia,0.896088025,renewables
+Bangladesh,2012,Asia,0.82373675,renewables
+Bangladesh,2013,Asia,0.808705521,renewables
+Bangladesh,2014,Asia,0.652325186,renewables
+Bangladesh,2015,Asia,1.041336221,renewables
+Bangladesh,2016,Asia,1.037091432,renewables
+Bangladesh,2017,Asia,1.200265942,renewables
+Bangladesh,2018,Asia,1.082482907,renewables
+Bangladesh,2019,Asia,1.1442228,renewables
+Qatar,1965,Asia,-4.605170186,renewables
+Qatar,1966,Asia,-4.605170186,renewables
+Qatar,1967,Asia,-4.605170186,renewables
+Qatar,1968,Asia,-4.605170186,renewables
+Qatar,1969,Asia,-4.605170186,renewables
+Qatar,1970,Asia,-4.605170186,renewables
+Qatar,1971,Asia,-4.605170186,renewables
+Qatar,1972,Asia,-4.605170186,renewables
+Qatar,1973,Asia,-4.605170186,renewables
+Qatar,1974,Asia,-4.605170186,renewables
+Qatar,1975,Asia,-4.605170186,renewables
+Qatar,1976,Asia,-4.605170186,renewables
+Qatar,1977,Asia,-4.605170186,renewables
+Qatar,1978,Asia,-4.605170186,renewables
+Qatar,1979,Asia,-4.605170186,renewables
+Qatar,1980,Asia,-4.605170186,renewables
+Qatar,1981,Asia,-4.605170186,renewables
+Qatar,1982,Asia,-4.605170186,renewables
+Qatar,1983,Asia,-4.605170186,renewables
+Qatar,1984,Asia,-4.605170186,renewables
+Qatar,1985,Asia,-4.605170186,renewables
+Qatar,1986,Asia,-4.605170186,renewables
+Qatar,1987,Asia,-4.605170186,renewables
+Qatar,1988,Asia,-4.605170186,renewables
+Qatar,1989,Asia,-4.605170186,renewables
+Qatar,1990,Asia,-4.605170186,renewables
+Qatar,1991,Asia,-4.605170186,renewables
+Qatar,1992,Asia,-4.605170186,renewables
+Qatar,1993,Asia,-4.605170186,renewables
+Qatar,1994,Asia,-4.605170186,renewables
+Qatar,1995,Asia,-4.605170186,renewables
+Qatar,1996,Asia,-4.605170186,renewables
+Qatar,1997,Asia,-4.605170186,renewables
+Qatar,1998,Asia,-4.605170186,renewables
+Qatar,1999,Asia,-4.605170186,renewables
+Qatar,2000,Asia,-4.605170186,renewables
+Qatar,2001,Asia,-4.605170186,renewables
+Qatar,2002,Asia,-4.605170186,renewables
+Qatar,2003,Asia,-4.605170186,renewables
+Qatar,2004,Asia,-4.605170186,renewables
+Qatar,2005,Asia,-4.605170186,renewables
+Qatar,2006,Asia,-4.605170186,renewables
+Qatar,2007,Asia,-4.605170186,renewables
+Qatar,2008,Asia,-4.605170186,renewables
+Qatar,2009,Asia,-4.605170186,renewables
+Qatar,2010,Asia,-4.605170186,renewables
+Qatar,2011,Asia,-0.497580397,renewables
+Qatar,2012,Asia,-0.502526821,renewables
+Qatar,2013,Asia,-0.497580397,renewables
+Qatar,2014,Asia,-0.49265832,renewables
+Qatar,2015,Asia,-0.497580397,renewables
+Qatar,2016,Asia,-0.495937011,renewables
+Qatar,2017,Asia,-0.502526821,renewables
+Qatar,2018,Asia,-0.509160344,renewables
+Qatar,2019,Asia,-0.512493681,renewables
+Hong Kong,1965,Asia,-4.605170186,renewables
+Hong Kong,1966,Asia,-4.605170186,renewables
+Hong Kong,1967,Asia,-4.605170186,renewables
+Hong Kong,1968,Asia,-4.605170186,renewables
+Hong Kong,1969,Asia,-4.605170186,renewables
+Hong Kong,1970,Asia,-4.605170186,renewables
+Hong Kong,1971,Asia,-4.605170186,renewables
+Hong Kong,1972,Asia,-4.605170186,renewables
+Hong Kong,1973,Asia,-4.605170186,renewables
+Hong Kong,1974,Asia,-4.605170186,renewables
+Hong Kong,1975,Asia,-4.605170186,renewables
+Hong Kong,1976,Asia,-4.605170186,renewables
+Hong Kong,1977,Asia,-4.605170186,renewables
+Hong Kong,1978,Asia,-4.605170186,renewables
+Hong Kong,1979,Asia,-4.605170186,renewables
+Hong Kong,1980,Asia,-4.605170186,renewables
+Hong Kong,1981,Asia,-4.605170186,renewables
+Hong Kong,1982,Asia,-4.605170186,renewables
+Hong Kong,1983,Asia,-4.605170186,renewables
+Hong Kong,1984,Asia,-4.605170186,renewables
+Hong Kong,1985,Asia,-4.605170186,renewables
+Hong Kong,1986,Asia,-4.605170186,renewables
+Hong Kong,1987,Asia,-4.605170186,renewables
+Hong Kong,1988,Asia,-4.605170186,renewables
+Hong Kong,1989,Asia,-4.605170186,renewables
+Hong Kong,1990,Asia,-4.605170186,renewables
+Hong Kong,1991,Asia,-4.605170186,renewables
+Hong Kong,1992,Asia,-4.605170186,renewables
+Hong Kong,1993,Asia,-4.605170186,renewables
+Hong Kong,1994,Asia,-4.605170186,renewables
+Hong Kong,1995,Asia,-4.605170186,renewables
+Hong Kong,1996,Asia,-4.605170186,renewables
+Hong Kong,1997,Asia,-4.605170186,renewables
+Hong Kong,1998,Asia,-4.605170186,renewables
+Hong Kong,1999,Asia,-4.605170186,renewables
+Hong Kong,2000,Asia,-4.605170186,renewables
+Hong Kong,2001,Asia,-4.605170186,renewables
+Hong Kong,2002,Asia,-4.605170186,renewables
+Hong Kong,2003,Asia,-4.605170186,renewables
+Hong Kong,2004,Asia,-4.605170186,renewables
+Hong Kong,2005,Asia,-4.605170186,renewables
+Hong Kong,2006,Asia,-4.422848629,renewables
+Hong Kong,2007,Asia,-4.422848629,renewables
+Hong Kong,2008,Asia,-4.422848629,renewables
+Hong Kong,2009,Asia,-4.342805922,renewables
+Hong Kong,2010,Asia,-0.705219762,renewables
+Hong Kong,2011,Asia,-0.872273846,renewables
+Hong Kong,2012,Asia,-0.74865989,renewables
+Hong Kong,2013,Asia,-0.719491156,renewables
+Hong Kong,2014,Asia,-0.618039708,renewables
+Hong Kong,2015,Asia,-0.642454066,renewables
+Hong Kong,2016,Asia,-0.650087691,renewables
+Hong Kong,2017,Asia,-0.59602047,renewables
+Hong Kong,2018,Asia,-0.685179011,renewables
+Hong Kong,2019,Asia,-0.586986985,renewables
+Kuwait,1965,Asia,-4.605170186,renewables
+Kuwait,1966,Asia,-4.605170186,renewables
+Kuwait,1967,Asia,-4.605170186,renewables
+Kuwait,1968,Asia,-4.605170186,renewables
+Kuwait,1969,Asia,-4.605170186,renewables
+Kuwait,1970,Asia,-4.605170186,renewables
+Kuwait,1971,Asia,-4.605170186,renewables
+Kuwait,1972,Asia,-4.605170186,renewables
+Kuwait,1973,Asia,-4.605170186,renewables
+Kuwait,1974,Asia,-4.605170186,renewables
+Kuwait,1975,Asia,-4.605170186,renewables
+Kuwait,1976,Asia,-4.605170186,renewables
+Kuwait,1977,Asia,-4.605170186,renewables
+Kuwait,1978,Asia,-4.605170186,renewables
+Kuwait,1979,Asia,-4.605170186,renewables
+Kuwait,1980,Asia,-4.605170186,renewables
+Kuwait,1981,Asia,-4.605170186,renewables
+Kuwait,1982,Asia,-4.605170186,renewables
+Kuwait,1983,Asia,-4.605170186,renewables
+Kuwait,1984,Asia,-4.605170186,renewables
+Kuwait,1985,Asia,-4.605170186,renewables
+Kuwait,1986,Asia,-4.605170186,renewables
+Kuwait,1987,Asia,-4.605170186,renewables
+Kuwait,1988,Asia,-4.605170186,renewables
+Kuwait,1989,Asia,-4.605170186,renewables
+Kuwait,1990,Asia,-4.605170186,renewables
+Kuwait,1991,Asia,-4.605170186,renewables
+Kuwait,1992,Asia,-4.605170186,renewables
+Kuwait,1993,Asia,-4.605170186,renewables
+Kuwait,1994,Asia,-4.605170186,renewables
+Kuwait,1995,Asia,-4.605170186,renewables
+Kuwait,1996,Asia,-4.605170186,renewables
+Kuwait,1997,Asia,-4.605170186,renewables
+Kuwait,1998,Asia,-4.605170186,renewables
+Kuwait,1999,Asia,-4.605170186,renewables
+Kuwait,2000,Asia,-4.605170186,renewables
+Kuwait,2001,Asia,-4.605170186,renewables
+Kuwait,2002,Asia,-4.605170186,renewables
+Kuwait,2003,Asia,-4.605170186,renewables
+Kuwait,2004,Asia,-4.605170186,renewables
+Kuwait,2005,Asia,-4.605170186,renewables
+Kuwait,2006,Asia,-4.605170186,renewables
+Kuwait,2007,Asia,-4.605170186,renewables
+Kuwait,2008,Asia,-4.605170186,renewables
+Kuwait,2009,Asia,-4.605170186,renewables
+Kuwait,2010,Asia,-4.605170186,renewables
+Kuwait,2011,Asia,-4.605170186,renewables
+Kuwait,2012,Asia,-4.605170186,renewables
+Kuwait,2013,Asia,-4.605170186,renewables
+Kuwait,2014,Asia,-4.017383521,renewables
+Kuwait,2015,Asia,-3.772261063,renewables
+Kuwait,2016,Asia,-2.017406151,renewables
+Kuwait,2017,Asia,-1.737271284,renewables
+Kuwait,2018,Asia,-1.527857925,renewables
+Kuwait,2019,Asia,-0.901402119,renewables
+Turkmenistan,1985,Asia,-4.017383521,renewables
+Turkmenistan,1986,Asia,-4.017383521,renewables
+Turkmenistan,1987,Asia,-4.017383521,renewables
+Turkmenistan,1988,Asia,-4.017383521,renewables
+Turkmenistan,1989,Asia,-4.017383521,renewables
+Turkmenistan,1990,Asia,-4.017383521,renewables
+Turkmenistan,1991,Asia,-4.017383521,renewables
+Turkmenistan,1992,Asia,-3.816712826,renewables
+Turkmenistan,1993,Asia,-3.729701449,renewables
+Turkmenistan,1994,Asia,-3.863232841,renewables
+Turkmenistan,1995,Asia,-3.863232841,renewables
+Turkmenistan,1996,Asia,-3.729701449,renewables
+Turkmenistan,1997,Asia,-3.729701449,renewables
+Turkmenistan,1998,Asia,-3.611918413,renewables
+Turkmenistan,1999,Asia,-3.729701449,renewables
+Turkmenistan,2000,Asia,-3.9633163,renewables
+Turkmenistan,2001,Asia,-3.9633163,renewables
+Turkmenistan,2002,Asia,-3.9633163,renewables
+Turkmenistan,2003,Asia,-3.9633163,renewables
+Turkmenistan,2004,Asia,-3.9633163,renewables
+Turkmenistan,2005,Asia,-4.017383521,renewables
+Turkmenistan,2006,Asia,-4.017383521,renewables
+Turkmenistan,2007,Asia,-4.017383521,renewables
+Turkmenistan,2008,Asia,-4.017383521,renewables
+Turkmenistan,2009,Asia,-4.017383521,renewables
+Turkmenistan,2010,Asia,-3.9633163,renewables
+Turkmenistan,2011,Asia,-3.9633163,renewables
+Turkmenistan,2012,Asia,-3.863232841,renewables
+Turkmenistan,2013,Asia,-3.772261063,renewables
+Turkmenistan,2014,Asia,-3.649658741,renewables
+Turkmenistan,2015,Asia,-3.473768074,renewables
+Turkmenistan,2016,Asia,-3.352407217,renewables
+Turkmenistan,2017,Asia,-3.352407217,renewables
+Turkmenistan,2018,Asia,-3.352407217,renewables
+Turkmenistan,2019,Asia,-3.352407217,renewables
+Oman,1965,Asia,-4.605170186,renewables
+Oman,1966,Asia,-4.605170186,renewables
+Oman,1967,Asia,-4.605170186,renewables
+Oman,1968,Asia,-4.605170186,renewables
+Oman,1969,Asia,-4.605170186,renewables
+Oman,1970,Asia,-4.605170186,renewables
+Oman,1971,Asia,-4.605170186,renewables
+Oman,1972,Asia,-4.605170186,renewables
+Oman,1973,Asia,-4.605170186,renewables
+Oman,1974,Asia,-4.605170186,renewables
+Oman,1975,Asia,-4.605170186,renewables
+Oman,1976,Asia,-4.605170186,renewables
+Oman,1977,Asia,-4.605170186,renewables
+Oman,1978,Asia,-4.605170186,renewables
+Oman,1979,Asia,-4.605170186,renewables
+Oman,1980,Asia,-4.605170186,renewables
+Oman,1981,Asia,-4.605170186,renewables
+Oman,1982,Asia,-4.605170186,renewables
+Oman,1983,Asia,-4.605170186,renewables
+Oman,1984,Asia,-4.605170186,renewables
+Oman,1985,Asia,-4.605170186,renewables
+Oman,1986,Asia,-4.605170186,renewables
+Oman,1987,Asia,-4.605170186,renewables
+Oman,1988,Asia,-4.605170186,renewables
+Oman,1989,Asia,-4.605170186,renewables
+Oman,1990,Asia,-4.605170186,renewables
+Oman,1991,Asia,-4.605170186,renewables
+Oman,1992,Asia,-4.605170186,renewables
+Oman,1993,Asia,-4.605170186,renewables
+Oman,1994,Asia,-4.605170186,renewables
+Oman,1995,Asia,-4.605170186,renewables
+Oman,1996,Asia,-4.605170186,renewables
+Oman,1997,Asia,-4.605170186,renewables
+Oman,1998,Asia,-4.605170186,renewables
+Oman,1999,Asia,-4.605170186,renewables
+Oman,2000,Asia,-4.605170186,renewables
+Oman,2001,Asia,-4.605170186,renewables
+Oman,2002,Asia,-4.605170186,renewables
+Oman,2003,Asia,-4.605170186,renewables
+Oman,2004,Asia,-4.605170186,renewables
+Oman,2005,Asia,-4.605170186,renewables
+Oman,2006,Asia,-4.605170186,renewables
+Oman,2007,Asia,-4.605170186,renewables
+Oman,2008,Asia,-4.605170186,renewables
+Oman,2009,Asia,-4.605170186,renewables
+Oman,2010,Asia,-4.605170186,renewables
+Oman,2011,Asia,-4.605170186,renewables
+Oman,2012,Asia,-4.605170186,renewables
+Oman,2013,Asia,-4.342805922,renewables
+Oman,2014,Asia,-4.342805922,renewables
+Oman,2015,Asia,-3.9633163,renewables
+Oman,2016,Asia,-3.9633163,renewables
+Oman,2017,Asia,-3.9633163,renewables
+Oman,2018,Asia,-3.9633163,renewables
+Oman,2019,Asia,-3.9633163,renewables
+Germany,1965,Europe,3.80763979,renewables
+Germany,1966,Europe,3.886007518,renewables
+Germany,1967,Europe,3.83440735,renewables
+Germany,1968,Europe,3.849125803,renewables
+Germany,1969,Europe,3.640293019,renewables
+Germany,1970,Europe,3.985756622,renewables
+Germany,1971,Europe,3.759966797,renewables
+Germany,1972,Europe,3.746039257,renewables
+Germany,1973,Europe,3.874611854,renewables
+Germany,1974,Europe,4.007042234,renewables
+Germany,1975,Europe,3.982388268,renewables
+Germany,1976,Europe,3.819293493,renewables
+Germany,1977,Europe,4.02132574,renewables
+Germany,1978,Europe,4.066219398,renewables
+Germany,1979,Europe,4.079129396,renewables
+Germany,1980,Europe,4.157381957,renewables
+Germany,1981,Europe,4.179788044,renewables
+Germany,1982,Europe,4.171799309,renewables
+Germany,1983,Europe,4.103370373,renewables
+Germany,1984,Europe,4.102130837,renewables
+Germany,1985,Europe,4.051419664,renewables
+Germany,1986,Europe,4.102081224,renewables
+Germany,1987,Europe,4.167533064,renewables
+Germany,1988,Europe,4.172970883,renewables
+Germany,1989,Europe,4.102263127,renewables
+Germany,1990,Europe,4.031316012,renewables
+Germany,1991,Europe,3.960622675,renewables
+Germany,1992,Europe,4.115061804,renewables
+Germany,1993,Europe,4.150835161,renewables
+Germany,1994,Europe,4.239252661,renewables
+Germany,1995,Europe,4.325456283,renewables
+Germany,1996,Europe,4.25106337,renewables
+Germany,1997,Europe,4.310732009,renewables
+Germany,1998,Europe,4.436455633,renewables
+Germany,1999,Europe,4.545016703,renewables
+Germany,2000,Europe,4.824538621,renewables
+Germany,2001,Europe,4.834184471,renewables
+Germany,2002,Europe,4.993394183,renewables
+Germany,2003,Europe,5.052391252,renewables
+Germany,2004,Europe,5.260018229,renewables
+Germany,2005,Europe,5.42402007,renewables
+Germany,2006,Europe,5.61128334,renewables
+Germany,2007,Europe,5.81611066,renewables
+Germany,2008,Europe,5.862320658,renewables
+Germany,2009,Europe,5.893405092,renewables
+Germany,2010,Europe,5.978379308,renewables
+Germany,2011,Europe,6.110258183,renewables
+Germany,2012,Europe,6.24644973,renewables
+Germany,2013,Europe,6.288919336,renewables
+Germany,2014,Europe,6.345808276,renewables
+Germany,2015,Europe,6.456000129,renewables
+Germany,2016,Europe,6.456523157,renewables
+Germany,2017,Europe,6.55173869,renewables
+Germany,2018,Europe,6.577452373,renewables
+Germany,2019,Europe,6.637928842,renewables
+United Kingdom,1965,Europe,2.551084452,renewables
+United Kingdom,1966,Europe,2.53449015,renewables
+United Kingdom,1967,Europe,2.608524482,renewables
+United Kingdom,1968,Europe,2.336889897,renewables
+United Kingdom,1969,Europe,2.203206649,renewables
+United Kingdom,1970,Europe,2.53449015,renewables
+United Kingdom,1971,Europe,2.238473148,renewables
+United Kingdom,1972,Europe,2.238473148,renewables
+United Kingdom,1973,Europe,2.367529782,renewables
+United Kingdom,1974,Europe,2.426394379,renewables
+United Kingdom,1975,Europe,2.367529782,renewables
+United Kingdom,1976,Europe,2.53449015,renewables
+United Kingdom,1977,Europe,2.397258707,renewables
+United Kingdom,1978,Europe,2.426394379,renewables
+United Kingdom,1979,Europe,2.481818553,renewables
+United Kingdom,1980,Europe,2.397258707,renewables
+United Kingdom,1981,Europe,2.508379006,renewables
+United Kingdom,1982,Europe,2.53449015,renewables
+United Kingdom,1983,Europe,2.53449015,renewables
+United Kingdom,1984,Europe,2.534728028,renewables
+United Kingdom,1985,Europe,2.397622508,renewables
+United Kingdom,1986,Europe,2.584601144,renewables
+United Kingdom,1987,Europe,2.454447442,renewables
+United Kingdom,1988,Europe,2.608671757,renewables
+United Kingdom,1989,Europe,2.586259144,renewables
+United Kingdom,1990,Europe,2.865566639,renewables
+United Kingdom,1991,Europe,2.800690152,renewables
+United Kingdom,1992,Europe,3.003303539,renewables
+United Kingdom,1993,Europe,2.956055456,renewables
+United Kingdom,1994,Europe,3.161924448,renewables
+United Kingdom,1995,Europe,3.141605936,renewables
+United Kingdom,1996,Europe,3.036154188,renewables
+United Kingdom,1997,Europe,3.250219441,renewables
+United Kingdom,1998,Europe,3.447062638,renewables
+United Kingdom,1999,Europe,3.590301441,renewables
+United Kingdom,2000,Europe,3.646311144,renewables
+United Kingdom,2001,Europe,3.659708077,renewables
+United Kingdom,2002,Europe,3.794904749,renewables
+United Kingdom,2003,Europe,3.831875292,renewables
+United Kingdom,2004,Europe,4.067726764,renewables
+United Kingdom,2005,Europe,4.261453774,renewables
+United Kingdom,2006,Europe,4.321851912,renewables
+United Kingdom,2007,Europe,4.396360906,renewables
+United Kingdom,2008,Europe,4.528429521,renewables
+United Kingdom,2009,Europe,4.662551908,renewables
+United Kingdom,2010,Europe,4.734178867,renewables
+United Kingdom,2011,Europe,4.929468622,renewables
+United Kingdom,2012,Europe,5.042379409,renewables
+United Kingdom,2013,Europe,5.2715729,renewables
+United Kingdom,2014,Europe,5.462080272,renewables
+United Kingdom,2015,Europe,5.690359454,renewables
+United Kingdom,2016,Europe,5.690869459,renewables
+United Kingdom,2017,Europe,5.821829179,renewables
+United Kingdom,2018,Europe,5.926811353,renewables
+United Kingdom,2019,Europe,6.004654674,renewables
+Italy,1965,Europe,4.892632234,renewables
+Italy,1966,Europe,4.942149437,renewables
+Italy,1967,Europe,4.919447937,renewables
+Italy,1968,Europe,4.931967197,renewables
+Italy,1969,Europe,4.909252044,renewables
+Italy,1970,Europe,4.910048551,renewables
+Italy,1971,Europe,4.882400327,renewables
+Italy,1972,Europe,4.912772526,renewables
+Italy,1973,Europe,4.833118177,renewables
+Italy,1974,Europe,4.856551279,renewables
+Italy,1975,Europe,4.913404605,renewables
+Italy,1976,Europe,4.867611371,renewables
+Italy,1977,Europe,5.092430312,renewables
+Italy,1978,Europe,4.994139992,renewables
+Italy,1979,Europe,5.003214495,renewables
+Italy,1980,Europe,4.99510194,renewables
+Italy,1981,Europe,4.933185333,renewables
+Italy,1982,Europe,4.903354417,renewables
+Italy,1983,Europe,4.897727853,renewables
+Italy,1984,Europe,4.920557402,renewables
+Italy,1985,Europe,4.882794347,renewables
+Italy,1986,Europe,4.894970014,renewables
+Italy,1987,Europe,4.869555484,renewables
+Italy,1988,Europe,4.898115881,renewables
+Italy,1989,Europe,4.721939375,renewables
+Italy,1990,Europe,4.663901251,renewables
+Italy,1991,Europe,4.910085411,renewables
+Italy,1992,Europe,4.920112304,renewables
+Italy,1993,Europe,4.913661732,renewables
+Italy,1994,Europe,4.969181155,renewables
+Italy,1995,Europe,4.830870466,renewables
+Italy,1996,Europe,4.94093503,renewables
+Italy,1997,Europe,4.947177078,renewables
+Italy,1998,Europe,4.963033424,renewables
+Italy,1999,Europe,5.062044248,renewables
+Italy,2000,Europe,5.064397206,renewables
+Italy,2001,Europe,5.120893795,renewables
+Italy,2002,Europe,5.028494858,renewables
+Italy,2003,Europe,5.020123472,renewables
+Italy,2004,Europe,5.163270541,renewables
+Italy,2005,Europe,5.069727762,renewables
+Italy,2006,Europe,5.111746795,renewables
+Italy,2007,Europe,5.059355615,renewables
+Italy,2008,Europe,5.2568806,renewables
+Italy,2009,Europe,5.431400534,renewables
+Italy,2010,Europe,5.542188607,renewables
+Italy,2011,Europe,5.611115133,renewables
+Italy,2012,Europe,5.709313815,renewables
+Italy,2013,Europe,5.885401007,renewables
+Italy,2014,Europe,5.946482871,renewables
+Italy,2015,Europe,5.863915226,renewables
+Italy,2016,Europe,5.850378979,renewables
+Italy,2017,Europe,5.813428793,renewables
+Italy,2018,Europe,5.882985284,renewables
+Italy,2019,Europe,5.846262459,renewables
+France,1965,Europe,4.869340511,renewables
+France,1966,Europe,4.991792206,renewables
+France,1967,Europe,4.863070656,renewables
+France,1968,Europe,4.978229175,renewables
+France,1969,Europe,5.030431385,renewables
+France,1970,Europe,5.106375684,renewables
+France,1971,Europe,4.966021397,renewables
+France,1972,Europe,4.970306234,renewables
+France,1973,Europe,4.949553901,renewables
+France,1974,Europe,5.105745454,renewables
+France,1975,Europe,5.163888428,renewables
+France,1976,Europe,4.958056964,renewables
+France,1977,Europe,5.392058134,renewables
+France,1978,Europe,5.287150246,renewables
+France,1979,Europe,5.261404389,renewables
+France,1980,Europe,5.304855943,renewables
+France,1981,Europe,5.341577985,renewables
+France,1982,Europe,5.320748888,renewables
+France,1983,Europe,5.306121832,renewables
+France,1984,Europe,5.254861699,renewables
+France,1985,Europe,5.207681246,renewables
+France,1986,Europe,5.216445487,renewables
+France,1987,Europe,5.333689337,renewables
+France,1988,Europe,5.411989743,renewables
+France,1989,Europe,4.944196302,renewables
+France,1990,Europe,5.076841174,renewables
+France,1991,Europe,5.145719647,renewables
+France,1992,Europe,5.315626692,renewables
+France,1993,Europe,5.255561211,renewables
+France,1994,Europe,5.446711509,renewables
+France,1995,Europe,5.383710351,renewables
+France,1996,Europe,5.296245221,renewables
+France,1997,Europe,5.275442725,renewables
+France,1998,Europe,5.248396814,renewables
+France,1999,Europe,5.395870484,renewables
+France,2000,Europe,5.321916699,renewables
+France,2001,Europe,5.427093094,renewables
+France,2002,Europe,5.245306809,renewables
+France,2003,Europe,5.223157303,renewables
+France,2004,Europe,5.232482005,renewables
+France,2005,Europe,5.127410415,renewables
+France,2006,Europe,5.22019365,renewables
+France,2007,Europe,5.310843585,renewables
+France,2008,Europe,5.45085818,renewables
+France,2009,Europe,5.406821934,renewables
+France,2010,Europe,5.498458376,renewables
+France,2011,Europe,5.339257754,renewables
+France,2012,Europe,5.550891557,renewables
+France,2013,Europe,5.677359783,renewables
+France,2014,Europe,5.639016372,renewables
+France,2015,Europe,5.618692886,renewables
+France,2016,Europe,5.693637858,renewables
+France,2017,Europe,5.635557166,renewables
+France,2018,Europe,5.798544019,renewables
+France,2019,Europe,5.820118538,renewables
+Norway,1965,Europe,4.922728971,renewables
+Norway,1966,Europe,4.908307213,renewables
+Norway,1967,Europe,4.997671628,renewables
+Norway,1968,Europe,5.119465782,renewables
+Norway,1969,Europe,5.071253641,renewables
+Norway,1970,Europe,5.078842079,renewables
+Norway,1971,Europe,5.16872677,renewables
+Norway,1972,Europe,5.232604823,renewables
+Norway,1973,Europe,5.310334866,renewables
+Norway,1974,Europe,5.360258768,renewables
+Norway,1975,Europe,5.369781848,renewables
+Norway,1976,Europe,5.42759849,renewables
+Norway,1977,Europe,5.298672304,renewables
+Norway,1978,Europe,5.412511748,renewables
+Norway,1979,Europe,5.506931881,renewables
+Norway,1980,Europe,5.447896183,renewables
+Norway,1981,Europe,5.552502116,renewables
+Norway,1982,Europe,5.548889297,renewables
+Norway,1983,Europe,5.682177424,renewables
+Norway,1984,Europe,5.684208821,renewables
+Norway,1985,Europe,5.650504756,renewables
+Norway,1986,Europe,5.588667128,renewables
+Norway,1987,Europe,5.659468278,renewables
+Norway,1988,Europe,5.712216805,renewables
+Norway,1989,Europe,5.796243144,renewables
+Norway,1990,Europe,5.822181617,renewables
+Norway,1991,Europe,5.727173427,renewables
+Norway,1992,Europe,5.784926115,renewables
+Norway,1993,Europe,5.806829316,renewables
+Norway,1994,Europe,5.741816587,renewables
+Norway,1995,Europe,5.826586956,renewables
+Norway,1996,Europe,5.670566895,renewables
+Norway,1997,Europe,5.724496451,renewables
+Norway,1998,Europe,5.777364356,renewables
+Norway,1999,Europe,5.825802448,renewables
+Norway,2000,Europe,5.980074931,renewables
+Norway,2001,Europe,5.811018231,renewables
+Norway,2002,Europe,5.875582204,renewables
+Norway,2003,Europe,5.669153072,renewables
+Norway,2004,Europe,5.69421687,renewables
+Norway,2005,Europe,5.908533923,renewables
+Norway,2006,Europe,5.777252863,renewables
+Norway,2007,Europe,5.88463907,renewables
+Norway,2008,Europe,5.917758802,renewables
+Norway,2009,Europe,5.806519552,renewables
+Norway,2010,Europe,5.73180936,renewables
+Norway,2011,Europe,5.758409539,renewables
+Norway,2012,Europe,5.915616986,renewables
+Norway,2013,Europe,5.814082769,renewables
+Norway,2014,Europe,5.862710297,renewables
+Norway,2015,Europe,5.872241725,renewables
+Norway,2016,Europe,5.899116227,renewables
+Norway,2017,Europe,5.894912346,renewables
+Norway,2018,Europe,5.875823591,renewables
+Norway,2019,Europe,5.785221131,renewables
+Sweden,1965,Europe,4.859525542,renewables
+Sweden,1966,Europe,4.839198285,renewables
+Sweden,1967,Europe,4.919367599,renewables
+Sweden,1968,Europe,4.908203818,renewables
+Sweden,1969,Europe,4.755355873,renewables
+Sweden,1970,Europe,4.75340914,renewables
+Sweden,1971,Europe,4.97932349,renewables
+Sweden,1972,Europe,5.014308539,renewables
+Sweden,1973,Europe,5.127161244,renewables
+Sweden,1974,Europe,5.081795593,renewables
+Sweden,1975,Europe,5.086768832,renewables
+Sweden,1976,Europe,5.038820986,renewables
+Sweden,1977,Europe,5.014673795,renewables
+Sweden,1978,Europe,5.087404959,renewables
+Sweden,1979,Europe,5.145195324,renewables
+Sweden,1980,Europe,5.121210191,renewables
+Sweden,1981,Europe,5.142289092,renewables
+Sweden,1982,Europe,5.065994312,renewables
+Sweden,1983,Europe,5.218017959,renewables
+Sweden,1984,Europe,5.29289268,renewables
+Sweden,1985,Europe,5.333814811,renewables
+Sweden,1986,Europe,5.194538932,renewables
+Sweden,1987,Europe,5.349509406,renewables
+Sweden,1988,Europe,5.325358439,renewables
+Sweden,1989,Europe,5.354182444,renewables
+Sweden,1990,Europe,5.357694151,renewables
+Sweden,1991,Europe,5.226133696,renewables
+Sweden,1992,Europe,5.383710351,renewables
+Sweden,1993,Europe,5.391680197,renewables
+Sweden,1994,Europe,5.174809852,renewables
+Sweden,1995,Europe,5.310927523,renewables
+Sweden,1996,Europe,5.04922119,renewables
+Sweden,1997,Europe,5.33660014,renewables
+Sweden,1998,Europe,5.411342434,renewables
+Sweden,1999,Europe,5.371256442,renewables
+Sweden,2000,Europe,5.490333446,renewables
+Sweden,2001,Europe,5.482225165,renewables
+Sweden,2002,Europe,5.330435996,renewables
+Sweden,2003,Europe,5.149242947,renewables
+Sweden,2004,Europe,5.324545385,renewables
+Sweden,2005,Europe,5.481392806,renewables
+Sweden,2006,Europe,5.366802776,renewables
+Sweden,2007,Europe,5.455769733,renewables
+Sweden,2008,Europe,5.504623969,renewables
+Sweden,2009,Europe,5.48796618,renewables
+Sweden,2010,Europe,5.527466846,renewables
+Sweden,2011,Europe,5.544966485,renewables
+Sweden,2012,Europe,5.677910667,renewables
+Sweden,2013,Europe,5.515688288,renewables
+Sweden,2014,Europe,5.542920994,renewables
+Sweden,2015,Europe,5.698263942,renewables
+Sweden,2016,Europe,5.592839741,renewables
+Sweden,2017,Europe,5.652096121,renewables
+Sweden,2018,Europe,5.606849312,renewables
+Sweden,2019,Europe,5.688726365,renewables
+Spain,1965,Europe,4.001790581,renewables
+Spain,1966,Europe,4.327134768,renewables
+Spain,1967,Europe,4.142277216,renewables
+Spain,1968,Europe,4.215883499,renewables
+Spain,1969,Europe,4.442862999,renewables
+Spain,1970,Europe,4.349193478,renewables
+Spain,1971,Europe,4.484989278,renewables
+Spain,1972,Europe,4.593846312,renewables
+Spain,1973,Europe,4.389907995,renewables
+Spain,1974,Europe,4.445060118,renewables
+Spain,1975,Europe,4.291020927,renewables
+Spain,1976,Europe,4.080803292,renewables
+Spain,1977,Europe,4.716747338,renewables
+Spain,1978,Europe,4.732454607,renewables
+Spain,1979,Europe,4.869724359,renewables
+Spain,1980,Europe,4.432066018,renewables
+Spain,1981,Europe,4.148138062,renewables
+Spain,1982,Europe,4.328863172,renewables
+Spain,1983,Europe,4.359934388,renewables
+Spain,1984,Europe,4.505581868,renewables
+Spain,1985,Europe,4.503281415,renewables
+Spain,1986,Europe,4.338505689,renewables
+Spain,1987,Europe,4.372001551,renewables
+Spain,1988,Europe,4.62157489,renewables
+Spain,1989,Europe,4.043437158,renewables
+Spain,1990,Europe,4.299622808,renewables
+Spain,1991,Europe,4.36775021,renewables
+Spain,1992,Europe,4.02656524,renewables
+Spain,1993,Europe,4.26672801,renewables
+Spain,1994,Europe,4.411002743,renewables
+Spain,1995,Europe,4.25728507,renewables
+Spain,1996,Europe,4.767561107,renewables
+Spain,1997,Europe,4.671341748,renewables
+Spain,1998,Europe,4.670686354,renewables
+Spain,1999,Europe,4.391556085,renewables
+Spain,2000,Europe,4.648698914,renewables
+Spain,2001,Europe,4.954255401,renewables
+Spain,2002,Europe,4.648066827,renewables
+Spain,2003,Europe,5.102819381,renewables
+Spain,2004,Europe,5.000726362,renewables
+Spain,2005,Europe,4.807621114,renewables
+Spain,2006,Europe,5.001614731,renewables
+Spain,2007,Europe,5.100841562,renewables
+Spain,2008,Europe,5.167416796,renewables
+Spain,2009,Europe,5.327939274,renewables
+Spain,2010,Europe,5.629619116,renewables
+Spain,2011,Europe,5.541538017,renewables
+Spain,2012,Europe,5.56590642,renewables
+Spain,2013,Europe,5.731040898,renewables
+Spain,2014,Europe,5.722515903,renewables
+Spain,2015,Europe,5.604831007,renewables
+Spain,2016,Europe,5.671069871,renewables
+Spain,2017,Europe,5.523299227,renewables
+Spain,2018,Europe,5.686890607,renewables
+Spain,2019,Europe,5.65327133,renewables
+Austria,1965,Europe,3.799637875,renewables
+Austria,1966,Europe,3.874362674,renewables
+Austria,1967,Europe,3.895304019,renewables
+Austria,1968,Europe,3.922448471,renewables
+Austria,1969,Europe,3.838354937,renewables
+Austria,1970,Europe,4.080042778,renewables
+Austria,1971,Europe,3.844450553,renewables
+Austria,1972,Europe,3.871846636,renewables
+Austria,1973,Europe,3.977230053,renewables
+Austria,1974,Europe,4.144704922,renewables
+Austria,1975,Europe,4.191289768,renewables
+Austria,1976,Europe,4.045451893,renewables
+Austria,1977,Europe,4.237492071,renewables
+Austria,1978,Europe,4.238300596,renewables
+Austria,1979,Europe,4.357439329,renewables
+Austria,1980,Europe,4.392855293,renewables
+Austria,1981,Europe,4.450817819,renewables
+Austria,1982,Europe,4.452403548,renewables
+Austria,1983,Europe,4.442980614,renewables
+Austria,1984,Europe,4.312033263,renewables
+Austria,1985,Europe,4.448481288,renewables
+Austria,1986,Europe,4.532674759,renewables
+Austria,1987,Europe,4.638043876,renewables
+Austria,1988,Europe,4.643361523,renewables
+Austria,1989,Europe,4.640508372,renewables
+Austria,1990,Europe,4.542826588,renewables
+Austria,1991,Europe,4.545897775,renewables
+Austria,1992,Europe,4.647137125,renewables
+Austria,1993,Europe,4.697193151,renewables
+Austria,1994,Europe,4.663439094,renewables
+Austria,1995,Europe,4.731177091,renewables
+Austria,1996,Europe,4.644679319,renewables
+Austria,1997,Europe,4.700698524,renewables
+Austria,1998,Europe,4.734143707,renewables
+Austria,1999,Europe,4.806198999,renewables
+Austria,2000,Europe,4.829137398,renewables
+Austria,2001,Europe,4.800556032,renewables
+Austria,2002,Europe,4.783015071,renewables
+Austria,2003,Europe,4.616199143,renewables
+Austria,2004,Europe,4.731591361,renewables
+Austria,2005,Europe,4.766319178,renewables
+Austria,2006,Europe,4.793863069,renewables
+Austria,2007,Europe,4.863317881,renewables
+Austria,2008,Europe,4.898854211,renewables
+Austria,2009,Europe,4.949773561,renewables
+Austria,2010,Europe,4.904659775,renewables
+Austria,2011,Europe,4.817357941,renewables
+Austria,2012,Europe,5.008933847,renewables
+Austria,2013,Europe,4.983942182,renewables
+Austria,2014,Europe,4.974918302,renewables
+Austria,2015,Europe,4.933703853,renewables
+Austria,2016,Europe,4.984612964,renewables
+Austria,2017,Europe,4.980547152,renewables
+Austria,2018,Europe,4.956502886,renewables
+Austria,2019,Europe,5.02568153,renewables
+Finland,1965,Europe,3.257788798,renewables
+Finland,1966,Europe,3.361971335,renewables
+Finland,1967,Europe,3.475500573,renewables
+Finland,1968,Europe,3.372317682,renewables
+Finland,1969,Europe,3.1905998,renewables
+Finland,1970,Europe,3.27586089,renewables
+Finland,1971,Europe,3.390439725,renewables
+Finland,1972,Europe,3.361867329,renewables
+Finland,1973,Europe,3.380926645,renewables
+Finland,1974,Europe,3.563769643,renewables
+Finland,1975,Europe,3.524122728,renewables
+Finland,1976,Europe,3.271392371,renewables
+Finland,1977,Europe,3.521879913,renewables
+Finland,1978,Europe,3.304282582,renewables
+Finland,1979,Europe,3.40804058,renewables
+Finland,1980,Europe,3.346072194,renewables
+Finland,1981,Europe,3.635979607,renewables
+Finland,1982,Europe,3.593689267,renewables
+Finland,1983,Europe,3.630561545,renewables
+Finland,1984,Europe,3.60574238,renewables
+Finland,1985,Europe,3.534328694,renewables
+Finland,1986,Europe,3.538812093,renewables
+Finland,1987,Europe,3.646285056,renewables
+Finland,1988,Europe,3.614371402,renewables
+Finland,1989,Europe,3.589197231,renewables
+Finland,1990,Europe,4.074549935,renewables
+Finland,1991,Europe,4.165827664,renewables
+Finland,1992,Europe,4.241110902,renewables
+Finland,1993,Europe,4.256335853,renewables
+Finland,1994,Europe,4.229312423,renewables
+Finland,1995,Europe,4.285446899,renewables
+Finland,1996,Europe,4.183545208,renewables
+Finland,1997,Europe,4.34370152,renewables
+Finland,1998,Europe,4.536762857,renewables
+Finland,1999,Europe,4.404472824,renewables
+Finland,2000,Europe,4.482923453,renewables
+Finland,2001,Europe,4.404533934,renewables
+Finland,2002,Europe,4.364397144,renewables
+Finland,2003,Europe,4.343311794,renewables
+Finland,2004,Europe,4.576678115,renewables
+Finland,2005,Europe,4.476791211,renewables
+Finland,2006,Europe,4.482821745,renewables
+Finland,2007,Europe,4.508835482,renewables
+Finland,2008,Europe,4.620600524,renewables
+Finland,2009,Europe,4.399829715,renewables
+Finland,2010,Europe,4.533663443,renewables
+Finland,2011,Europe,4.538784627,renewables
+Finland,2012,Europe,4.644804275,renewables
+Finland,2013,Europe,4.588461368,renewables
+Finland,2014,Europe,4.620679296,renewables
+Finland,2015,Europe,4.706399179,renewables
+Finland,2016,Europe,4.671126452,renewables
+Finland,2017,Europe,4.694197031,renewables
+Finland,2018,Europe,4.71723915,renewables
+Finland,2019,Europe,4.699889282,renewables
+Switzerland,1965,Europe,4.203901262,renewables
+Switzerland,1966,Europe,4.336650013,renewables
+Switzerland,1967,Europe,4.417960703,renewables
+Switzerland,1968,Europe,4.406682661,renewables
+Switzerland,1969,Europe,4.362703642,renewables
+Switzerland,1970,Europe,4.395004556,renewables
+Switzerland,1971,Europe,4.390577472,renewables
+Switzerland,1972,Europe,4.209561345,renewables
+Switzerland,1973,Europe,4.302198487,renewables
+Switzerland,1974,Europe,4.348624958,renewables
+Switzerland,1975,Europe,4.494841795,renewables
+Switzerland,1976,Europe,4.274079443,renewables
+Switzerland,1977,Europe,4.573947801,renewables
+Switzerland,1978,Europe,4.479856365,renewables
+Switzerland,1979,Europe,4.431542726,renewables
+Switzerland,1980,Europe,4.542049326,renewables
+Switzerland,1981,Europe,4.605190186,renewables
+Switzerland,1982,Europe,4.625923342,renewables
+Switzerland,1983,Europe,4.601232443,renewables
+Switzerland,1984,Europe,4.443815285,renewables
+Switzerland,1985,Europe,4.511639422,renewables
+Switzerland,1986,Europe,4.542847874,renewables
+Switzerland,1987,Europe,4.596805298,renewables
+Switzerland,1988,Europe,4.627821693,renewables
+Switzerland,1989,Europe,4.450350949,renewables
+Switzerland,1990,Europe,4.445212679,renewables
+Switzerland,1991,Europe,4.516874348,renewables
+Switzerland,1992,Europe,4.538560187,renewables
+Switzerland,1993,Europe,4.626354212,renewables
+Switzerland,1994,Europe,4.71505545,renewables
+Switzerland,1995,Europe,4.614268669,renewables
+Switzerland,1996,Europe,4.422436544,renewables
+Switzerland,1997,Europe,4.587657734,renewables
+Switzerland,1998,Europe,4.573225339,renewables
+Switzerland,1999,Europe,4.747901628,renewables
+Switzerland,2000,Europe,4.672856871,renewables
+Switzerland,2001,Europe,4.778560309,renewables
+Switzerland,2002,Europe,4.619940565,renewables
+Switzerland,2003,Europe,4.603759191,renewables
+Switzerland,2004,Europe,4.571541011,renewables
+Switzerland,2005,Europe,4.49488646,renewables
+Switzerland,2006,Europe,4.487984472,renewables
+Switzerland,2007,Europe,4.605520125,renewables
+Switzerland,2008,Europe,4.622823446,renewables
+Switzerland,2009,Europe,4.60905264,renewables
+Switzerland,2010,Europe,4.615298719,renewables
+Switzerland,2011,Europe,4.519078386,renewables
+Switzerland,2012,Europe,4.68497902,renewables
+Switzerland,2013,Europe,4.684240113,renewables
+Switzerland,2014,Europe,4.679572401,renewables
+Switzerland,2015,Europe,4.68225159,renewables
+Switzerland,2016,Europe,4.59909175,renewables
+Switzerland,2017,Europe,4.594897603,renewables
+Switzerland,2018,Europe,4.606808843,renewables
+Switzerland,2019,Europe,4.610814228,renewables
+Poland,1965,Europe,0.971914636,renewables
+Poland,1966,Europe,0.996948635,renewables
+Poland,1967,Europe,1.069183478,renewables
+Poland,1968,Europe,1.119394828,renewables
+Poland,1969,Europe,1.002835333,renewables
+Poland,1970,Europe,1.659560522,renewables
+Poland,1971,Europe,1.595338988,renewables
+Poland,1972,Europe,1.651155506,renewables
+Poland,1973,Europe,1.666385193,renewables
+Poland,1974,Europe,1.975468951,renewables
+Poland,1975,Europe,1.903598951,renewables
+Poland,1976,Europe,1.722052057,renewables
+Poland,1977,Europe,1.934126711,renewables
+Poland,1978,Europe,1.929345132,renewables
+Poland,1979,Europe,1.850499964,renewables
+Poland,1980,Europe,2.068506977,renewables
+Poland,1981,Europe,2.006870849,renewables
+Poland,1982,Europe,1.756132292,renewables
+Poland,1983,Europe,1.89821938,renewables
+Poland,1984,Europe,1.764216966,renewables
+Poland,1985,Europe,1.996059933,renewables
+Poland,1986,Europe,1.849556568,renewables
+Poland,1987,Europe,1.739764174,renewables
+Poland,1988,Europe,1.70710894,renewables
+Poland,1989,Europe,1.619784204,renewables
+Poland,1990,Europe,1.44738946,renewables
+Poland,1991,Europe,1.488399584,renewables
+Poland,1992,Europe,1.571112798,renewables
+Poland,1993,Europe,1.500069375,renewables
+Poland,1994,Europe,1.630807938,renewables
+Poland,1995,Europe,1.72757644,renewables
+Poland,1996,Europe,1.810254052,renewables
+Poland,1997,Europe,1.856454228,renewables
+Poland,1998,Europe,2.035620262,renewables
+Poland,1999,Europe,1.957132655,renewables
+Poland,2000,Europe,1.960376435,renewables
+Poland,2001,Europe,2.187735251,renewables
+Poland,2002,Europe,2.17110873,renewables
+Poland,2003,Europe,2.044591264,renewables
+Poland,2004,Europe,2.379546134,renewables
+Poland,2005,Europe,2.709182893,renewables
+Poland,2006,Europe,2.884130097,renewables
+Poland,2007,Europe,3.108346418,renewables
+Poland,2008,Europe,3.470474657,renewables
+Poland,2009,Europe,3.779702308,renewables
+Poland,2010,Europe,3.958467564,renewables
+Poland,2011,Europe,4.122883427,renewables
+Poland,2012,Europe,4.360751924,renewables
+Poland,2013,Europe,4.309200533,renewables
+Poland,2014,Europe,4.43178062,renewables
+Poland,2015,Europe,4.50198508,renewables
+Poland,2016,Europe,4.413476851,renewables
+Poland,2017,Europe,4.426832682,renewables
+Poland,2018,Europe,4.390862483,renewables
+Poland,2019,Europe,4.517955152,renewables
+Portugal,1965,Europe,2.501599873,renewables
+Portugal,1966,Europe,2.758553183,renewables
+Portugal,1967,Europe,2.791226456,renewables
+Portugal,1968,Europe,2.752832344,renewables
+Portugal,1969,Europe,2.949478889,renewables
+Portugal,1970,Europe,2.842930683,renewables
+Portugal,1971,Europe,2.887200067,renewables
+Portugal,1972,Europe,3.011654834,renewables
+Portugal,1973,Europe,3.066610034,renewables
+Portugal,1974,Europe,3.124740954,renewables
+Portugal,1975,Europe,2.951100949,renewables
+Portugal,1976,Europe,2.679993603,renewables
+Portugal,1977,Europe,3.367054422,renewables
+Portugal,1978,Europe,3.444544186,renewables
+Portugal,1979,Europe,3.484036177,renewables
+Portugal,1980,Europe,3.180218153,renewables
+Portugal,1981,Europe,2.752386015,renewables
+Portugal,1982,Europe,3.053859662,renewables
+Portugal,1983,Europe,3.200874774,renewables
+Portugal,1984,Europe,3.374408407,renewables
+Portugal,1985,Europe,3.48911668,renewables
+Portugal,1986,Europe,3.296799366,renewables
+Portugal,1987,Europe,3.362006001,renewables
+Portugal,1988,Europe,3.627482659,renewables
+Portugal,1989,Europe,2.988304758,renewables
+Portugal,1990,Europe,3.377553386,renewables
+Portugal,1991,Europe,3.38939467,renewables
+Portugal,1992,Europe,2.882227573,renewables
+Portugal,1993,Europe,3.359819677,renewables
+Portugal,1994,Europe,3.556347562,renewables
+Portugal,1995,Europe,3.365639286,renewables
+Portugal,1996,Europe,3.843187264,renewables
+Portugal,1997,Europe,3.750914845,renewables
+Portugal,1998,Europe,3.745283417,renewables
+Portugal,1999,Europe,3.313167304,renewables
+Portugal,2000,Europe,3.678273408,renewables
+Portugal,2001,Europe,3.859781894,renewables
+Portugal,2002,Europe,3.433954946,renewables
+Portugal,2003,Europe,3.956786024,renewables
+Portugal,2004,Europe,3.631568087,renewables
+Portugal,2005,Europe,3.287617998,renewables
+Portugal,2006,Europe,3.859044081,renewables
+Portugal,2007,Europe,3.913342135,renewables
+Portugal,2008,Europe,3.821222641,renewables
+Portugal,2009,Europe,4.035584867,renewables
+Portugal,2010,Europe,4.44353322,renewables
+Portugal,2011,Europe,4.30662937,renewables
+Portugal,2012,Europe,4.113068176,renewables
+Portugal,2013,Europe,4.465724194,renewables
+Portugal,2014,Europe,4.520004378,renewables
+Portugal,2015,Europe,4.305658418,renewables
+Portugal,2016,Europe,4.528040731,renewables
+Portugal,2017,Europe,4.219595937,renewables
+Portugal,2018,Europe,4.440106846,renewables
+Portugal,2019,Europe,4.37742858,renewables
+Netherlands,1965,Europe,-4.605170186,renewables
+Netherlands,1966,Europe,-4.605170186,renewables
+Netherlands,1967,Europe,-4.605170186,renewables
+Netherlands,1968,Europe,-4.605170186,renewables
+Netherlands,1969,Europe,-4.605170186,renewables
+Netherlands,1970,Europe,-4.605170186,renewables
+Netherlands,1971,Europe,-4.605170186,renewables
+Netherlands,1972,Europe,-4.605170186,renewables
+Netherlands,1973,Europe,-4.605170186,renewables
+Netherlands,1974,Europe,-4.605170186,renewables
+Netherlands,1975,Europe,1.497835736,renewables
+Netherlands,1976,Europe,1.579803107,renewables
+Netherlands,1977,Europe,1.574017967,renewables
+Netherlands,1978,Europe,1.907763145,renewables
+Netherlands,1979,Europe,1.817102277,renewables
+Netherlands,1980,Europe,1.740115236,renewables
+Netherlands,1981,Europe,1.798072831,renewables
+Netherlands,1982,Europe,0.393392527,renewables
+Netherlands,1983,Europe,0.257738196,renewables
+Netherlands,1984,Europe,-2.26336438,renewables
+Netherlands,1985,Europe,0.903408106,renewables
+Netherlands,1986,Europe,1.129141494,renewables
+Netherlands,1987,Europe,1.36558132,renewables
+Netherlands,1988,Europe,1.547136886,renewables
+Netherlands,1989,Europe,1.644225738,renewables
+Netherlands,1990,Europe,1.416823566,renewables
+Netherlands,1991,Europe,1.549687908,renewables
+Netherlands,1992,Europe,1.595744585,renewables
+Netherlands,1993,Europe,1.713076947,renewables
+Netherlands,1994,Europe,1.818888137,renewables
+Netherlands,1995,Europe,1.915156347,renewables
+Netherlands,1996,Europe,2.170538312,renewables
+Netherlands,1997,Europe,2.273979836,renewables
+Netherlands,1998,Europe,2.392791361,renewables
+Netherlands,1999,Europe,2.485156619,renewables
+Netherlands,2000,Europe,2.632895528,renewables
+Netherlands,2001,Europe,2.751237396,renewables
+Netherlands,2002,Europe,2.938685618,renewables
+Netherlands,2003,Europe,2.877005042,renewables
+Netherlands,2004,Europe,3.153334134,renewables
+Netherlands,2005,Europe,3.534737108,renewables
+Netherlands,2006,Europe,3.581767405,renewables
+Netherlands,2007,Europe,3.548524836,renewables
+Netherlands,2008,Europe,3.733398606,renewables
+Netherlands,2009,Europe,3.889327397,renewables
+Netherlands,2010,Europe,3.919772897,renewables
+Netherlands,2011,Europe,3.992108789,renewables
+Netherlands,2012,Europe,4.004383384,renewables
+Netherlands,2013,Europe,3.918084597,renewables
+Netherlands,2014,Europe,3.850019934,renewables
+Netherlands,2015,Europe,3.930471775,renewables
+Netherlands,2016,Europe,3.9598794,renewables
+Netherlands,2017,Europe,4.091674334,renewables
+Netherlands,2018,Europe,4.18273693,renewables
+Netherlands,2019,Europe,4.35343424,renewables
+Denmark,1965,Europe,-2.538307427,renewables
+Denmark,1966,Europe,-2.501036032,renewables
+Denmark,1967,Europe,-2.538307427,renewables
+Denmark,1968,Europe,-2.688247574,renewables
+Denmark,1969,Europe,-2.645075402,renewables
+Denmark,1970,Europe,-2.563949857,renewables
+Denmark,1971,Europe,-2.563949857,renewables
+Denmark,1972,Europe,-2.563949857,renewables
+Denmark,1973,Europe,-2.563949857,renewables
+Denmark,1974,Europe,-2.563949857,renewables
+Denmark,1975,Europe,-2.688247574,renewables
+Denmark,1976,Europe,-2.764620553,renewables
+Denmark,1977,Europe,-2.501036032,renewables
+Denmark,1978,Europe,-2.375155786,renewables
+Denmark,1979,Europe,-2.234926445,renewables
+Denmark,1980,Europe,-2.009915479,renewables
+Denmark,1981,Europe,-1.980501594,renewables
+Denmark,1982,Europe,-1.924148657,renewables
+Denmark,1983,Europe,-1.016111067,renewables
+Denmark,1984,Europe,-0.994252273,renewables
+Denmark,1985,Europe,-0.832409248,renewables
+Denmark,1986,Europe,-0.32573014,renewables
+Denmark,1987,Europe,-0.091019398,renewables
+Denmark,1988,Europe,0.30453919,renewables
+Denmark,1989,Europe,0.67498321,renewables
+Denmark,1990,Europe,1.08146613,renewables
+Denmark,1991,Europe,1.41317969,renewables
+Denmark,1992,Europe,1.709102236,renewables
+Denmark,1993,Europe,1.946338629,renewables
+Denmark,1994,Europe,1.863304636,renewables
+Denmark,1995,Europe,1.939892077,renewables
+Denmark,1996,Europe,2.091370113,renewables
+Denmark,1997,Europe,2.384810033,renewables
+Denmark,1998,Europe,2.632608006,renewables
+Denmark,1999,Europe,2.762475253,renewables
+Denmark,2000,Europe,2.949583618,renewables
+Denmark,2001,Europe,3.011408753,renewables
+Denmark,2002,Europe,3.168718727,renewables
+Denmark,2003,Europe,3.360618413,renewables
+Denmark,2004,Europe,3.516488426,renewables
+Denmark,2005,Europe,3.55374678,renewables
+Denmark,2006,Europe,3.490946674,renewables
+Denmark,2007,Europe,3.573356363,renewables
+Denmark,2008,Europe,3.554004302,renewables
+Denmark,2009,Europe,3.558827715,renewables
+Denmark,2010,Europe,3.793194423,renewables
+Denmark,2011,Europe,3.873240596,renewables
+Denmark,2012,Europe,3.905582309,renewables
+Denmark,2013,Europe,3.949992937,renewables
+Denmark,2014,Europe,4.038532301,renewables
+Denmark,2015,Europe,4.070564034,renewables
+Denmark,2016,Europe,4.073835686,renewables
+Denmark,2017,Europe,4.258756698,renewables
+Denmark,2018,Europe,4.204916475,renewables
+Denmark,2019,Europe,4.308918163,renewables
+Belgium,1965,Europe,-0.266573109,renewables
+Belgium,1966,Europe,-0.173163619,renewables
+Belgium,1967,Europe,-0.398986142,renewables
+Belgium,1968,Europe,-0.373966441,renewables
+Belgium,1969,Europe,-0.432322562,renewables
+Belgium,1970,Europe,-0.36672528,renewables
+Belgium,1971,Europe,-0.96233467,renewables
+Belgium,1972,Europe,-0.673344553,renewables
+Belgium,1973,Europe,0.121332285,renewables
+Belgium,1974,Europe,0.244513577,renewables
+Belgium,1975,Europe,-0.020202707,renewables
+Belgium,1976,Europe,-0.463624022,renewables
+Belgium,1977,Europe,0.695145183,renewables
+Belgium,1978,Europe,0.72947911,renewables
+Belgium,1979,Europe,0.879626748,renewables
+Belgium,1980,Europe,0.895679778,renewables
+Belgium,1981,Europe,0.987680728,renewables
+Belgium,1982,Europe,0.17479329,renewables
+Belgium,1983,Europe,0.062974799,renewables
+Belgium,1984,Europe,0.112435429,renewables
+Belgium,1985,Europe,0.096218858,renewables
+Belgium,1986,Europe,0.484892242,renewables
+Belgium,1987,Europe,0.69664107,renewables
+Belgium,1988,Europe,0.707543061,renewables
+Belgium,1989,Europe,0.661656513,renewables
+Belgium,1990,Europe,0.848011891,renewables
+Belgium,1991,Europe,0.845868268,renewables
+Belgium,1992,Europe,0.902597405,renewables
+Belgium,1993,Europe,0.741461041,renewables
+Belgium,1994,Europe,0.857813802,renewables
+Belgium,1995,Europe,1.014505779,renewables
+Belgium,1996,Europe,0.891998039,renewables
+Belgium,1997,Europe,0.878381159,renewables
+Belgium,1998,Europe,1.136229152,renewables
+Belgium,1999,Europe,1.321489138,renewables
+Belgium,2000,Europe,1.501407168,renewables
+Belgium,2001,Europe,1.531476371,renewables
+Belgium,2002,Europe,1.630612148,renewables
+Belgium,2003,Europe,1.721337005,renewables
+Belgium,2004,Europe,1.927018535,renewables
+Belgium,2005,Europe,2.297773536,renewables
+Belgium,2006,Europe,2.628140818,renewables
+Belgium,2007,Europe,2.783528662,renewables
+Belgium,2008,Europe,3.018471761,renewables
+Belgium,2009,Europe,3.264881163,renewables
+Belgium,2010,Europe,3.478343591,renewables
+Belgium,2011,Europe,3.63819124,renewables
+Belgium,2012,Europe,3.793712331,renewables
+Belgium,2013,Europe,3.843401494,renewables
+Belgium,2014,Europe,3.859571145,renewables
+Belgium,2015,Europe,3.985682306,renewables
+Belgium,2016,Europe,4.005331183,renewables
+Belgium,2017,Europe,4.088259419,renewables
+Belgium,2018,Europe,4.122332552,renewables
+Belgium,2019,Europe,4.174064141,renewables
+Iceland,1965,Europe,0.58221562,renewables
+Iceland,1966,Europe,0.555607767,renewables
+Iceland,1967,Europe,0.618423634,renewables
+Iceland,1968,Europe,0.651282976,renewables
+Iceland,1969,Europe,0.879211724,renewables
+Iceland,1970,Europe,1.386794236,renewables
+Iceland,1971,Europe,1.470865263,renewables
+Iceland,1972,Europe,1.581038438,renewables
+Iceland,1973,Europe,1.825033046,renewables
+Iceland,1974,Europe,1.842927756,renewables
+Iceland,1975,Europe,1.830819913,renewables
+Iceland,1976,Europe,1.893413123,renewables
+Iceland,1977,Europe,1.959953929,renewables
+Iceland,1978,Europe,1.994428167,renewables
+Iceland,1979,Europe,2.091246587,renewables
+Iceland,1980,Europe,2.167795767,renewables
+Iceland,1981,Europe,2.225920008,renewables
+Iceland,1982,Europe,2.337759168,renewables
+Iceland,1983,Europe,2.391511302,renewables
+Iceland,1984,Europe,2.429658176,renewables
+Iceland,1985,Europe,2.410183104,renewables
+Iceland,1986,Europe,2.473340013,renewables
+Iceland,1987,Europe,2.500041537,renewables
+Iceland,1988,Europe,2.560400566,renewables
+Iceland,1989,Europe,2.575965381,renewables
+Iceland,1990,Europe,2.574137784,renewables
+Iceland,1991,Europe,2.567407871,renewables
+Iceland,1992,Europe,2.583469111,renewables
+Iceland,1993,Europe,2.625682571,renewables
+Iceland,1994,Europe,2.637055327,renewables
+Iceland,1995,Europe,2.681226987,renewables
+Iceland,1996,Europe,2.717670444,renewables
+Iceland,1997,Europe,2.805176912,renewables
+Iceland,1998,Europe,2.956731536,renewables
+Iceland,1999,Europe,3.139962479,renewables
+Iceland,2000,Europe,3.218795822,renewables
+Iceland,2001,Europe,3.264116841,renewables
+Iceland,2002,Europe,3.294613896,renewables
+Iceland,2003,Europe,3.294317193,renewables
+Iceland,2004,Europe,3.308423982,renewables
+Iceland,2005,Europe,3.325251825,renewables
+Iceland,2006,Europe,3.513543441,renewables
+Iceland,2007,Europe,3.721540236,renewables
+Iceland,2008,Europe,3.991462454,renewables
+Iceland,2009,Europe,4.027385336,renewables
+Iceland,2010,Europe,4.027634797,renewables
+Iceland,2011,Europe,4.039342645,renewables
+Iceland,2012,Europe,4.071110053,renewables
+Iceland,2013,Europe,4.091223029,renewables
+Iceland,2014,Europe,4.085202904,renewables
+Iceland,2015,Europe,4.097871668,renewables
+Iceland,2016,Europe,4.084176374,renewables
+Iceland,2017,Europe,4.111283616,renewables
+Iceland,2018,Europe,4.162392543,renewables
+Iceland,2019,Europe,4.145639523,renewables
+Romania,1965,Europe,1.030333448,renewables
+Romania,1966,Europe,1.0595249,renewables
+Romania,1967,Europe,1.413423029,renewables
+Romania,1968,Europe,1.469945934,renewables
+Romania,1969,Europe,1.819374636,renewables
+Romania,1970,Europe,2.042907217,renewables
+Romania,1971,Europe,2.525408593,renewables
+Romania,1972,Europe,3.015877979,renewables
+Romania,1973,Europe,3.043283575,renewables
+Romania,1974,Europe,3.159295657,renewables
+Romania,1975,Europe,3.258596413,renewables
+Romania,1976,Europe,3.114803368,renewables
+Romania,1977,Europe,3.256865011,renewables
+Romania,1978,Europe,3.384152947,renewables
+Romania,1979,Europe,3.450209743,renewables
+Romania,1980,Europe,3.558571432,renewables
+Romania,1981,Europe,3.566457551,renewables
+Romania,1982,Europe,3.494627006,renewables
+Romania,1983,Europe,3.328375761,renewables
+Romania,1984,Europe,3.449066487,renewables
+Romania,1985,Europe,3.56456262,renewables
+Romania,1986,Europe,3.402463247,renewables
+Romania,1987,Europe,3.438685826,renewables
+Romania,1988,Europe,3.714888273,renewables
+Romania,1989,Europe,3.637691417,renewables
+Romania,1990,Europe,3.456821285,renewables
+Romania,1991,Europe,3.702091786,renewables
+Romania,1992,Europe,3.481916783,renewables
+Romania,1993,Europe,3.569025526,renewables
+Romania,1994,Europe,3.590411795,renewables
+Romania,1995,Europe,3.836846771,renewables
+Romania,1996,Europe,3.779040034,renewables
+Romania,1997,Europe,3.885843288,renewables
+Romania,1998,Europe,3.961060758,renewables
+Romania,1999,Europe,3.928211266,renewables
+Romania,2000,Europe,3.715034412,renewables
+Romania,2001,Europe,3.718292615,renewables
+Romania,2002,Europe,3.784712225,renewables
+Romania,2003,Europe,3.587621622,renewables
+Romania,2004,Europe,3.800711484,renewables
+Romania,2005,Europe,3.996290622,renewables
+Romania,2006,Europe,3.893838668,renewables
+Romania,2007,Europe,3.752182838,renewables
+Romania,2008,Europe,3.818591061,renewables
+Romania,2009,Europe,3.709686479,renewables
+Romania,2010,Europe,3.97469729,renewables
+Romania,2011,Europe,3.756538103,renewables
+Romania,2012,Europe,3.663612927,renewables
+Romania,2013,Europe,3.947834066,renewables
+Romania,2014,Europe,4.174971714,renewables
+Romania,2015,Europe,4.213918586,renewables
+Romania,2016,Europe,4.23652387,renewables
+Romania,2017,Europe,4.127585896,renewables
+Romania,2018,Europe,4.192650251,renewables
+Romania,2019,Europe,4.125778628,renewables
+Greece,1965,Europe,0.804241228,renewables
+Greece,1966,Europe,1.571943708,renewables
+Greece,1967,Europe,1.530611132,renewables
+Greece,1968,Europe,1.337629189,renewables
+Greece,1969,Europe,1.743619094,renewables
+Greece,1970,Europe,1.99224833,renewables
+Greece,1971,Europe,1.998367052,renewables
+Greece,1972,Europe,2.007676975,renewables
+Greece,1973,Europe,1.822127006,renewables
+Greece,1974,Europe,1.876253792,renewables
+Greece,1975,Europe,1.724015817,renewables
+Greece,1976,Europe,1.654220055,renewables
+Greece,1977,Europe,1.676909628,renewables
+Greece,1978,Europe,2.117459609,renewables
+Greece,1979,Europe,2.294149614,renewables
+Greece,1980,Europe,2.247917692,renewables
+Greece,1981,Europe,2.248551205,renewables
+Greece,1982,Europe,2.292736757,renewables
+Greece,1983,Europe,1.873339456,renewables
+Greece,1984,Europe,2.074429,renewables
+Greece,1985,Europe,2.054380111,renewables
+Greece,1986,Europe,2.196780034,renewables
+Greece,1987,Europe,2.045755484,renewables
+Greece,1988,Europe,1.884794335,renewables
+Greece,1989,Europe,1.666007264,renewables
+Greece,1990,Europe,1.595136128,renewables
+Greece,1991,Europe,2.154549014,renewables
+Greece,1992,Europe,1.817589646,renewables
+Greece,1993,Europe,1.869491818,renewables
+Greece,1994,Europe,1.993066326,renewables
+Greece,1995,Europe,2.293847027,renewables
+Greece,1996,Europe,2.500451861,renewables
+Greece,1997,Europe,2.388395749,renewables
+Greece,1998,Europe,2.354987772,renewables
+Greece,1999,Europe,2.581806475,renewables
+Greece,2000,Europe,2.444171457,renewables
+Greece,2001,Europe,2.118662255,renewables
+Greece,2002,Europe,2.318753674,renewables
+Greece,2003,Europe,2.794105566,renewables
+Greece,2004,Europe,2.794839331,renewables
+Greece,2005,Europe,2.866135985,renewables
+Greece,2006,Europe,3.0369222,renewables
+Greece,2007,Europe,2.541759461,renewables
+Greece,2008,Europe,2.753214753,renewables
+Greece,2009,Europe,3.093539334,renewables
+Greece,2010,Europe,3.330059354,renewables
+Greece,2011,Europe,3.074913071,renewables
+Greece,2012,Europe,3.283989181,renewables
+Greece,2013,Europe,3.618993327,renewables
+Greece,2014,Europe,3.45185881,renewables
+Greece,2015,Europe,3.641814052,renewables
+Greece,2016,Europe,3.641578181,renewables
+Greece,2017,Europe,3.563542963,renewables
+Greece,2018,Europe,3.711765558,renewables
+Greece,2019,Europe,3.672394318,renewables
+Czechia,1965,Europe,1.825999852,renewables
+Czechia,1966,Europe,1.76695435,renewables
+Czechia,1967,Europe,1.663168235,renewables
+Czechia,1968,Europe,1.407566496,renewables
+Czechia,1969,Europe,1.2050722,renewables
+Czechia,1970,Europe,1.56045773,renewables
+Czechia,1971,Europe,1.213725096,renewables
+Czechia,1972,Europe,1.25874504,renewables
+Czechia,1973,Europe,1.10293626,renewables
+Czechia,1974,Europe,1.621959193,renewables
+Czechia,1975,Europe,1.619190204,renewables
+Czechia,1976,Europe,1.393021682,renewables
+Czechia,1977,Europe,1.700009611,renewables
+Czechia,1978,Europe,1.627867048,renewables
+Czechia,1979,Europe,1.853011345,renewables
+Czechia,1980,Europe,1.89821938,renewables
+Czechia,1981,Europe,1.746587751,renewables
+Czechia,1982,Europe,1.536652143,renewables
+Czechia,1983,Europe,1.527576886,renewables
+Czechia,1984,Europe,1.285368443,renewables
+Czechia,1985,Europe,1.537297235,renewables
+Czechia,1986,Europe,1.652688954,renewables
+Czechia,1987,Europe,1.925270028,renewables
+Czechia,1988,Europe,1.764902015,renewables
+Czechia,1989,Europe,1.520388096,renewables
+Czechia,1990,Europe,1.174028928,renewables
+Czechia,1991,Europe,1.110211425,renewables
+Czechia,1992,Europe,1.362001669,renewables
+Czechia,1993,Europe,1.617604475,renewables
+Czechia,1994,Europe,1.754749644,renewables
+Czechia,1995,Europe,2.056812424,renewables
+Czechia,1996,Europe,1.960376435,renewables
+Czechia,1997,Europe,2.011430331,renewables
+Czechia,1998,Europe,1.966972487,renewables
+Czechia,1999,Europe,2.137002652,renewables
+Czechia,2000,Europe,2.049626457,renewables
+Czechia,2001,Europe,2.142064166,renewables
+Czechia,2002,Europe,2.25727387,renewables
+Czechia,2003,Europe,1.865319672,renewables
+Czechia,2004,Europe,2.15721244,renewables
+Czechia,2005,Europe,2.298275821,renewables
+Czechia,2006,Europe,2.471314696,renewables
+Czechia,2007,Europe,2.499631045,renewables
+Czechia,2008,Europe,2.619146125,renewables
+Czechia,2009,Europe,2.841589927,renewables
+Czechia,2010,Europe,3.042377281,renewables
+Czechia,2011,Europe,3.261130393,renewables
+Czechia,2012,Europe,3.392694669,renewables
+Czechia,2013,Europe,3.535320266,renewables
+Czechia,2014,Europe,3.56127333,renewables
+Czechia,2015,Europe,3.582685258,renewables
+Czechia,2016,Europe,3.573019568,renewables
+Czechia,2017,Europe,3.596407742,renewables
+Czechia,2018,Europe,3.566203216,renewables
+Czechia,2019,Europe,3.604247063,renewables
+Ireland,1965,Europe,0.965842511,renewables
+Ireland,1966,Europe,0.862045717,renewables
+Ireland,1967,Europe,0.806029338,renewables
+Ireland,1968,Europe,0.761739972,renewables
+Ireland,1969,Europe,0.485507816,renewables
+Ireland,1970,Europe,0.806029338,renewables
+Ireland,1971,Europe,0.263901544,renewables
+Ireland,1972,Europe,0.65023968,renewables
+Ireland,1973,Europe,0.580538236,renewables
+Ireland,1974,Europe,0.791634127,renewables
+Ireland,1975,Europe,0.381172416,renewables
+Ireland,1976,Europe,0.505612057,renewables
+Ireland,1977,Europe,0.731405893,renewables
+Ireland,1978,Europe,0.666803205,renewables
+Ireland,1979,Europe,0.834646743,renewables
+Ireland,1980,Europe,0.848440065,renewables
+Ireland,1981,Europe,0.875885317,renewables
+Ireland,1982,Europe,0.806029338,renewables
+Ireland,1983,Europe,0.776568789,renewables
+Ireland,1984,Europe,0.65023968,renewables
+Ireland,1985,Europe,0.848440065,renewables
+Ireland,1986,Europe,0.940788203,renewables
+Ireland,1987,Europe,0.65023968,renewables
+Ireland,1988,Europe,0.889125064,renewables
+Ireland,1989,Europe,0.666803205,renewables
+Ireland,1990,Europe,0.665775984,renewables
+Ireland,1991,Europe,0.73332897,renewables
+Ireland,1992,Europe,0.829861004,renewables
+Ireland,1993,Europe,0.777947782,renewables
+Ireland,1994,Europe,0.962410667,renewables
+Ireland,1995,Europe,0.710495819,renewables
+Ireland,1996,Europe,0.790273891,renewables
+Ireland,1997,Europe,0.909064687,renewables
+Ireland,1998,Europe,1.251619458,renewables
+Ireland,1999,Europe,1.219353906,renewables
+Ireland,2000,Europe,1.271444519,renewables
+Ireland,2001,Europe,1.135265606,renewables
+Ireland,2002,Europe,1.391033115,renewables
+Ireland,2003,Europe,1.207466694,renewables
+Ireland,2004,Europe,1.40585186,renewables
+Ireland,2005,Europe,1.686398954,renewables
+Ireland,2006,Europe,1.941471742,renewables
+Ireland,2007,Europe,2.065215834,renewables
+Ireland,2008,Europe,2.30587966,renewables
+Ireland,2009,Europe,2.43790239,renewables
+Ireland,2010,Europe,2.356694419,renewables
+Ireland,2011,Europe,2.703908302,renewables
+Ireland,2012,Europe,2.68607722,renewables
+Ireland,2013,Europe,2.74970385,renewables
+Ireland,2014,Europe,2.869545273,renewables
+Ireland,2015,Europe,3.049036046,renewables
+Ireland,2016,Europe,3.026503932,renewables
+Ireland,2017,Europe,3.179178198,renewables
+Ireland,2018,Europe,3.312184002,renewables
+Ireland,2019,Europe,3.423806525,renewables
+Ukraine,1985,Europe,3.393400397,renewables
+Ukraine,1986,Europe,3.388044595,renewables
+Ukraine,1987,Europe,3.283201823,renewables
+Ukraine,1988,Europe,3.501223696,renewables
+Ukraine,1989,Europe,3.337440777,renewables
+Ukraine,1990,Europe,3.374716504,renewables
+Ukraine,1991,Europe,3.482408637,renewables
+Ukraine,1992,Europe,3.08680622,renewables
+Ukraine,1993,Europe,3.42341539,renewables
+Ukraine,1994,Europe,3.516636933,renewables
+Ukraine,1995,Europe,3.31987886,renewables
+Ukraine,1996,Europe,3.177553705,renewables
+Ukraine,1997,Europe,3.310104961,renewables
+Ukraine,1998,Europe,3.778217289,renewables
+Ukraine,1999,Europe,3.684042776,renewables
+Ukraine,2000,Europe,3.444990957,renewables
+Ukraine,2001,Europe,3.504325407,renewables
+Ukraine,2002,Europe,3.275898674,renewables
+Ukraine,2003,Europe,3.22930129,renewables
+Ukraine,2004,Europe,3.463076119,renewables
+Ukraine,2005,Europe,3.507567388,renewables
+Ukraine,2006,Europe,3.542320716,renewables
+Ukraine,2007,Europe,3.352147184,renewables
+Ukraine,2008,Europe,3.462982115,renewables
+Ukraine,2009,Europe,3.470909994,renewables
+Ukraine,2010,Europe,3.567078984,renewables
+Ukraine,2011,Europe,3.380143972,renewables
+Ukraine,2012,Europe,3.377280302,renewables
+Ukraine,2013,Europe,3.662689471,renewables
+Ukraine,2014,Europe,3.266369911,renewables
+Ukraine,2015,Europe,2.909302546,renewables
+Ukraine,2016,Europe,3.162517091,renewables
+Ukraine,2017,Europe,3.321143563,renewables
+Ukraine,2018,Europe,3.488200425,renewables
+Ukraine,2019,Europe,3.401197382,renewables
+Croatia,1990,Europe,2.358870904,renewables
+Croatia,1991,Europe,2.793983219,renewables
+Croatia,1992,Europe,2.495186959,renewables
+Croatia,1993,Europe,2.545923352,renewables
+Croatia,1994,Europe,2.717406296,renewables
+Croatia,1995,Europe,2.761527775,renewables
+Croatia,1996,Europe,3.08680622,renewables
+Croatia,1997,Europe,2.789937361,renewables
+Croatia,1998,Europe,2.819353026,renewables
+Croatia,1999,Europe,3.014259578,renewables
+Croatia,2000,Europe,2.887088596,renewables
+Croatia,2001,Europe,2.98709508,renewables
+Croatia,2002,Europe,2.775895748,renewables
+Croatia,2003,Europe,2.700018029,renewables
+Croatia,2004,Europe,3.029360455,renewables
+Croatia,2005,Europe,2.946489507,renewables
+Croatia,2006,Europe,2.879535479,renewables
+Croatia,2007,Europe,2.535678975,renewables
+Croatia,2008,Europe,2.73993639,renewables
+Croatia,2009,Europe,2.981684058,renewables
+Croatia,2010,Europe,3.192080002,renewables
+Croatia,2011,Europe,2.628934841,renewables
+Croatia,2012,Europe,2.62510328,renewables
+Croatia,2013,Europe,3.181257028,renewables
+Croatia,2014,Europe,3.247230018,renewables
+Croatia,2015,Europe,2.979704512,renewables
+Croatia,2016,Europe,3.096843775,renewables
+Croatia,2017,Europe,2.950368732,renewables
+Croatia,2018,Europe,3.257519448,renewables
+Croatia,2019,Europe,3.112314589,renewables
+Bulgaria,1965,Europe,1.716676663,renewables
+Bulgaria,1966,Europe,1.721515816,renewables
+Bulgaria,1967,Europe,1.72757644,renewables
+Bulgaria,1968,Europe,1.290609111,renewables
+Bulgaria,1969,Europe,1.632763738,renewables
+Bulgaria,1970,Europe,1.789757467,renewables
+Bulgaria,1971,Europe,1.798072831,renewables
+Bulgaria,1972,Europe,1.762845459,renewables
+Bulgaria,1973,Europe,1.966972487,renewables
+Bulgaria,1974,Europe,1.755786809,renewables
+Bulgaria,1975,Europe,1.92044581,renewables
+Bulgaria,1976,Europe,2.106083473,renewables
+Bulgaria,1977,Europe,2.283708037,renewables
+Bulgaria,1978,Europe,2.090752333,renewables
+Bulgaria,1979,Europe,2.219964064,renewables
+Bulgaria,1980,Europe,2.334471282,renewables
+Bulgaria,1981,Europe,2.308567165,renewables
+Bulgaria,1982,Europe,2.137946271,renewables
+Bulgaria,1983,Europe,2.232591721,renewables
+Bulgaria,1984,Europe,2.204531153,renewables
+Bulgaria,1985,Europe,1.828412787,renewables
+Bulgaria,1986,Europe,1.867330656,renewables
+Bulgaria,1987,Europe,1.954020032,renewables
+Bulgaria,1988,Europe,1.976993447,renewables
+Bulgaria,1989,Europe,2.012901018,renewables
+Bulgaria,1990,Europe,1.6538375,renewables
+Bulgaria,1991,Europe,1.915598206,renewables
+Bulgaria,1992,Europe,1.747633411,renewables
+Bulgaria,1993,Europe,1.68713942,renewables
+Bulgaria,1994,Europe,1.408055853,renewables
+Bulgaria,1995,Europe,1.862217933,renewables
+Bulgaria,1996,Europe,2.094083818,renewables
+Bulgaria,1997,Europe,2.036011984,renewables
+Bulgaria,1998,Europe,2.15327269,renewables
+Bulgaria,1999,Europe,2.035620262,renewables
+Bulgaria,2000,Europe,2.00619858,renewables
+Bulgaria,2001,Europe,1.569448904,renewables
+Bulgaria,2002,Europe,1.796083441,renewables
+Bulgaria,2003,Europe,2.111666689,renewables
+Bulgaria,2004,Europe,2.150482315,renewables
+Bulgaria,2005,Europe,2.458648229,renewables
+Bulgaria,2006,Europe,2.43282357,renewables
+Bulgaria,2007,Europe,2.050141456,renewables
+Bulgaria,2008,Europe,2.063185119,renewables
+Bulgaria,2009,Europe,2.280850601,renewables
+Bulgaria,2010,Europe,2.720768974,renewables
+Bulgaria,2011,Europe,2.337179738,renewables
+Bulgaria,2012,Europe,2.63196078,renewables
+Bulgaria,2013,Europe,2.892037037,renewables
+Bulgaria,2014,Europe,2.961399594,renewables
+Bulgaria,2015,Europe,3.129826008,renewables
+Bulgaria,2016,Europe,2.932313126,renewables
+Bulgaria,2017,Europe,2.792881426,renewables
+Bulgaria,2018,Europe,3.289632473,renewables
+Bulgaria,2019,Europe,3.089632369,renewables
+Slovakia,1965,Europe,1.822127006,renewables
+Slovakia,1966,Europe,1.779518183,renewables
+Slovakia,1967,Europe,1.625311262,renewables
+Slovakia,1968,Europe,1.539659018,renewables
+Slovakia,1969,Europe,1.289508092,renewables
+Slovakia,1970,Europe,1.699826912,renewables
+Slovakia,1971,Europe,1.413423029,renewables
+Slovakia,1972,Europe,1.459544823,renewables
+Slovakia,1973,Europe,1.303456083,renewables
+Slovakia,1974,Europe,1.822127006,renewables
+Slovakia,1975,Europe,1.717574571,renewables
+Slovakia,1976,Europe,1.725975729,renewables
+Slovakia,1977,Europe,1.901958262,renewables
+Slovakia,1978,Europe,1.838165842,renewables
+Slovakia,1979,Europe,1.656893854,renewables
+Slovakia,1980,Europe,1.837210732,renewables
+Slovakia,1981,Europe,1.699461415,renewables
+Slovakia,1982,Europe,1.569448904,renewables
+Slovakia,1983,Europe,1.629044442,renewables
+Slovakia,1984,Europe,1.465336568,renewables
+Slovakia,1985,Europe,1.773425763,renewables
+Slovakia,1986,Europe,1.539659018,renewables
+Slovakia,1987,Europe,1.682130598,renewables
+Slovakia,1988,Europe,1.586169285,renewables
+Slovakia,1989,Europe,1.69744879,renewables
+Slovakia,1990,Europe,1.654793614,renewables
+Slovakia,1991,Europe,1.366346723,renewables
+Slovakia,1992,Europe,1.684730896,renewables
+Slovakia,1993,Europe,2.266024838,renewables
+Slovakia,1994,Europe,2.493783798,renewables
+Slovakia,1995,Europe,2.607566663,renewables
+Slovakia,1996,Europe,2.464023439,renewables
+Slovakia,1997,Europe,2.424714226,renewables
+Slovakia,1998,Europe,2.473424313,renewables
+Slovakia,1999,Europe,2.520756303,renewables
+Slovakia,2000,Europe,2.551708233,renewables
+Slovakia,2001,Europe,2.671178726,renewables
+Slovakia,2002,Europe,2.727068207,renewables
+Slovakia,2003,Europe,2.252659284,renewables
+Slovakia,2004,Europe,2.392699982,renewables
+Slovakia,2005,Europe,2.514384543,renewables
+Slovakia,2006,Europe,2.609628519,renewables
+Slovakia,2007,Europe,2.641411699,renewables
+Slovakia,2008,Europe,2.605205038,renewables
+Slovakia,2009,Europe,2.671040375,renewables
+Slovakia,2010,Europe,2.82239028,renewables
+Slovakia,2011,Europe,2.689478816,renewables
+Slovakia,2012,Europe,2.790490033,renewables
+Slovakia,2013,Europe,2.909138991,renewables
+Slovakia,2014,Europe,2.98305222,renewables
+Slovakia,2015,Europe,2.995832269,renewables
+Slovakia,2016,Europe,3.034327791,renewables
+Slovakia,2017,Europe,3.02431973,renewables
+Slovakia,2018,Europe,2.916634952,renewables
+Slovakia,2019,Europe,2.917662618,renewables
+Hungary,1965,Europe,-1.523260216,renewables
+Hungary,1966,Europe,-1.244794799,renewables
+Hungary,1967,Europe,-1.435484605,renewables
+Hungary,1968,Europe,-1.358679194,renewables
+Hungary,1969,Europe,-1.294627173,renewables
+Hungary,1970,Europe,-1.370421012,renewables
+Hungary,1971,Europe,-1.283737773,renewables
+Hungary,1972,Europe,-1.152013065,renewables
+Hungary,1973,Europe,-1.234432012,renewables
+Hungary,1974,Europe,-1.448169765,renewables
+Hungary,1975,Europe,-0.770028225,renewables
+Hungary,1976,Europe,-0.759286983,renewables
+Hungary,1977,Europe,-0.858021824,renewables
+Hungary,1978,Europe,-0.933945667,renewables
+Hungary,1979,Europe,-0.877070019,renewables
+Hungary,1980,Europe,-1.136314156,renewables
+Hungary,1981,Europe,-0.740238788,renewables
+Hungary,1982,Europe,-0.794073099,renewables
+Hungary,1983,Europe,-0.818710404,renewables
+Hungary,1984,Europe,-0.667479434,renewables
+Hungary,1985,Europe,-0.818710404,renewables
+Hungary,1986,Europe,-0.825536369,renewables
+Hungary,1987,Europe,-0.736054682,renewables
+Hungary,1988,Europe,-0.736054682,renewables
+Hungary,1989,Europe,-0.800732391,renewables
+Hungary,1990,Europe,-0.512493681,renewables
+Hungary,1991,Europe,-0.381260419,renewables
+Hungary,1992,Europe,-0.349557476,renewables
+Hungary,1993,Europe,-0.375420987,renewables
+Hungary,1994,Europe,-0.346724613,renewables
+Hungary,1995,Europe,-0.256183405,renewables
+Hungary,1996,Europe,-0.147340588,renewables
+Hungary,1997,Europe,-0.100925919,renewables
+Hungary,1998,Europe,-0.256183405,renewables
+Hungary,1999,Europe,-0.134674903,renewables
+Hungary,2000,Europe,-0.14387037,renewables
+Hungary,2001,Europe,-0.092115289,renewables
+Hungary,2002,Europe,-0.25489225,renewables
+Hungary,2003,Europe,0.310421559,renewables
+Hungary,2004,Europe,1.505631744,renewables
+Hungary,2005,Europe,2.251291799,renewables
+Hungary,2006,Europe,1.998773639,renewables
+Hungary,2007,Europe,2.215282765,renewables
+Hungary,2008,Europe,2.429041517,renewables
+Hungary,2009,Europe,2.61965605,renewables
+Hungary,2010,Europe,2.628646178,renewables
+Hungary,2011,Europe,2.471990258,renewables
+Hungary,2012,Europe,2.406224128,renewables
+Hungary,2013,Europe,2.471314696,renewables
+Hungary,2014,Europe,2.598086514,renewables
+Hungary,2015,Europe,2.613446438,renewables
+Hungary,2016,Europe,2.596075266,renewables
+Hungary,2017,Europe,2.646032943,renewables
+Hungary,2018,Europe,2.708316832,renewables
+Hungary,2019,Europe,2.797769021,renewables
+Slovenia,1990,Europe,2.112755421,renewables
+Slovenia,1991,Europe,2.305779984,renewables
+Slovenia,1992,Europe,2.253184743,renewables
+Slovenia,1993,Europe,2.133100785,renewables
+Slovenia,1994,Europe,2.246226359,renewables
+Slovenia,1995,Europe,2.201990978,renewables
+Slovenia,1996,Europe,2.322289676,renewables
+Slovenia,1997,Europe,2.151296979,renewables
+Slovenia,1998,Europe,2.261033666,renewables
+Slovenia,1999,Europe,2.357830567,renewables
+Slovenia,2000,Europe,2.402249416,renewables
+Slovenia,2001,Europe,2.387293821,renewables
+Slovenia,2002,Europe,2.267372337,renewables
+Slovenia,2003,Europe,2.16676537,renewables
+Slovenia,2004,Europe,2.463938343,renewables
+Slovenia,2005,Europe,2.293746144,renewables
+Slovenia,2006,Europe,2.31629074,renewables
+Slovenia,2007,Europe,2.223325412,renewables
+Slovenia,2008,Europe,2.497740608,renewables
+Slovenia,2009,Europe,2.59540395,renewables
+Slovenia,2010,Europe,2.563101497,renewables
+Slovenia,2011,Europe,2.371924571,renewables
+Slovenia,2012,Europe,2.472159077,renewables
+Slovenia,2013,Europe,2.621620473,renewables
+Slovenia,2014,Europe,2.861972283,renewables
+Slovenia,2015,Europe,2.459759767,renewables
+Slovenia,2016,Europe,2.59853291,renewables
+Slovenia,2017,Europe,2.47443535,renewables
+Slovenia,2018,Europe,2.619218987,renewables
+Slovenia,2019,Europe,2.561481814,renewables
+Latvia,1985,Europe,2.114325944,renewables
+Latvia,1986,Europe,2.121662557,renewables
+Latvia,1987,Europe,2.330686523,renewables
+Latvia,1988,Europe,2.121662557,renewables
+Latvia,1989,Europe,2.305281455,renewables
+Latvia,1990,Europe,2.525648641,renewables
+Latvia,1991,Europe,2.209043349,renewables
+Latvia,1992,Europe,1.94776557,renewables
+Latvia,1993,Europe,2.079316534,renewables
+Latvia,1994,Europe,2.218224744,renewables
+Latvia,1995,Europe,2.100224081,renewables
+Latvia,1996,Europe,1.644611987,renewables
+Latvia,1997,Europe,2.10632687,renewables
+Latvia,1998,Europe,2.485239928,renewables
+Latvia,1999,Europe,2.037837992,renewables
+Latvia,2000,Europe,2.061022956,renewables
+Latvia,2001,Europe,2.060895624,renewables
+Latvia,2002,Europe,1.924394627,renewables
+Latvia,2003,Europe,1.863304636,renewables
+Latvia,2004,Europe,2.170766518,renewables
+Latvia,2005,Europe,2.230981674,renewables
+Latvia,2006,Europe,2.024853351,renewables
+Latvia,2007,Europe,2.032611954,renewables
+Latvia,2008,Europe,2.152692003,renewables
+Latvia,2009,Europe,2.246755208,renewables
+Latvia,2010,Europe,2.267993648,renewables
+Latvia,2011,Europe,2.116014522,renewables
+Latvia,2012,Europe,2.425068177,renewables
+Latvia,2013,Europe,2.336116576,renewables
+Latvia,2014,Europe,2.168825103,renewables
+Latvia,2015,Europe,2.19700233,renewables
+Latvia,2016,Europe,2.382966205,renewables
+Latvia,2017,Europe,2.772026064,renewables
+Latvia,2018,Europe,2.402430428,renewables
+Latvia,2019,Europe,2.346601978,renewables
+Estonia,1985,Europe,-4.605170186,renewables
+Estonia,1986,Europe,-4.605170186,renewables
+Estonia,1987,Europe,-4.605170186,renewables
+Estonia,1988,Europe,-4.605170186,renewables
+Estonia,1989,Europe,-4.605170186,renewables
+Estonia,1990,Europe,-4.605170186,renewables
+Estonia,1991,Europe,-4.605170186,renewables
+Estonia,1992,Europe,-4.605170186,renewables
+Estonia,1993,Europe,-4.605170186,renewables
+Estonia,1994,Europe,-4.605170186,renewables
+Estonia,1995,Europe,-3.123565645,renewables
+Estonia,1996,Europe,-3.270169119,renewables
+Estonia,1997,Europe,-2.918771232,renewables
+Estonia,1998,Europe,-2.577021939,renewables
+Estonia,1999,Europe,-2.44184716,renewables
+Estonia,2000,Europe,-2.343407088,renewables
+Estonia,2001,Europe,-2.407945609,renewables
+Estonia,2002,Europe,-1.725971729,renewables
+Estonia,2003,Europe,-1.589635285,renewables
+Estonia,2004,Europe,-1.354795694,renewables
+Estonia,2005,Europe,-0.936493439,renewables
+Estonia,2006,Europe,-0.78745786,renewables
+Estonia,2007,Europe,-0.689155159,renewables
+Estonia,2008,Europe,-0.45413028,renewables
+Estonia,2009,Europe,0.812706416,renewables
+Estonia,2010,Europe,1.541801264,renewables
+Estonia,2011,Europe,1.62924054,renewables
+Estonia,2012,Europe,1.855203642,renewables
+Estonia,2013,Europe,1.578978705,renewables
+Estonia,2014,Europe,1.684359839,renewables
+Estonia,2015,Europe,1.765415494,renewables
+Estonia,2016,Europe,1.803193847,renewables
+Estonia,2017,Europe,2.33543943,renewables
+Estonia,2018,Europe,2.061150272,renewables
+Estonia,2019,Europe,2.052584088,renewables
+Lithuania,1985,Europe,0.09803374,renewables
+Lithuania,1986,Europe,0.075107472,renewables
+Lithuania,1987,Europe,0.016857117,renewables
+Lithuania,1988,Europe,0.075107472,renewables
+Lithuania,1989,Europe,0.075107472,renewables
+Lithuania,1990,Europe,0.148420005,renewables
+Lithuania,1991,Europe,-0.05234648,renewables
+Lithuania,1992,Europe,-0.134674903,renewables
+Lithuania,1993,Europe,0.097126711,renewables
+Lithuania,1994,Europe,0.235862324,renewables
+Lithuania,1995,Europe,0.044973366,renewables
+Lithuania,1996,Europe,-0.087738914,renewables
+Lithuania,1997,Europe,-0.187535124,renewables
+Lithuania,1998,Europe,0.155292884,renewables
+Lithuania,1999,Europe,0.148420005,renewables
+Lithuania,2000,Europe,-0.048140375,renewables
+Lithuania,2001,Europe,-0.083381609,renewables
+Lithuania,2002,Europe,0,renewables
+Lithuania,2003,Europe,-0.068278841,renewables
+Lithuania,2004,Europe,0.168898536,renewables
+Lithuania,2005,Europe,0.235072122,renewables
+Lithuania,2006,Europe,0.216722984,renewables
+Lithuania,2007,Europe,0.527682741,renewables
+Lithuania,2008,Europe,0.577175004,renewables
+Lithuania,2009,Europe,0.728514324,renewables
+Lithuania,2010,Europe,1.018125038,renewables
+Lithuania,2011,Europe,1.193619392,renewables
+Lithuania,2012,Europe,1.285921387,renewables
+Lithuania,2013,Europe,1.574846468,renewables
+Lithuania,2014,Europe,1.583093937,renewables
+Lithuania,2015,Europe,1.684359839,renewables
+Lithuania,2016,Europe,1.84829732,renewables
+Lithuania,2017,Europe,2.029463172,renewables
+Lithuania,2018,Europe,1.873185835,renewables
+Lithuania,2019,Europe,2.000939314,renewables
+Azerbaijan,1985,Europe,1.296369654,renewables
+Azerbaijan,1986,Europe,0.808259988,renewables
+Azerbaijan,1987,Europe,0.808259988,renewables
+Azerbaijan,1988,Europe,0.667829373,renewables
+Azerbaijan,1989,Europe,0.667829373,renewables
+Azerbaijan,1990,Europe,1.529528529,renewables
+Azerbaijan,1991,Europe,1.588622773,renewables
+Azerbaijan,1992,Europe,1.581861145,renewables
+Azerbaijan,1993,Europe,1.909394346,renewables
+Azerbaijan,1994,Europe,1.627867048,renewables
+Azerbaijan,1995,Europe,1.466029329,renewables
+Azerbaijan,1996,Europe,1.453719337,renewables
+Azerbaijan,1997,Europe,1.561507379,renewables
+Azerbaijan,1998,Europe,1.691754955,renewables
+Azerbaijan,1999,Europe,1.433416468,renewables
+Azerbaijan,2000,Europe,1.451847992,renewables
+Azerbaijan,2001,Europe,1.280933845,renewables
+Azerbaijan,2002,Europe,1.713617731,renewables
+Azerbaijan,2003,Europe,1.907911546,renewables
+Azerbaijan,2004,Europe,2.010627226,renewables
+Azerbaijan,2005,Europe,2.092481155,renewables
+Azerbaijan,2006,Europe,1.908208282,renewables
+Azerbaijan,2007,Europe,1.838802076,renewables
+Azerbaijan,2008,Europe,1.775291277,renewables
+Azerbaijan,2009,Europe,1.80368804,renewables
+Azerbaijan,2010,Europe,2.196891188,renewables
+Azerbaijan,2011,Europe,1.937877977,renewables
+Azerbaijan,2012,Europe,1.547562509,renewables
+Azerbaijan,2013,Europe,1.427916036,renewables
+Azerbaijan,2014,Europe,1.327870441,renewables
+Azerbaijan,2015,Europe,1.533851925,renewables
+Azerbaijan,2016,Europe,1.708740114,renewables
+Azerbaijan,2017,Europe,1.599387577,renewables
+Azerbaijan,2018,Europe,1.63100369,renewables
+Azerbaijan,2019,Europe,1.55350228,renewables
+North Macedonia,1990,Europe,0.317726194,renewables
+North Macedonia,1991,Europe,0.861200766,renewables
+North Macedonia,1992,Europe,0.861200766,renewables
+North Macedonia,1993,Europe,0.378436436,renewables
+North Macedonia,1994,Europe,0.663203304,renewables
+North Macedonia,1995,Europe,0.804241228,renewables
+North Macedonia,1996,Europe,0.863311807,renewables
+North Macedonia,1997,Europe,0.920282753,renewables
+North Macedonia,1998,Europe,1.10459436,renewables
+North Macedonia,1999,Europe,1.352737578,renewables
+North Macedonia,2000,Europe,1.181727195,renewables
+North Macedonia,2001,Europe,0.552735027,renewables
+North Macedonia,2002,Europe,0.735248357,renewables
+North Macedonia,2003,Europe,1.32255552,renewables
+North Macedonia,2004,Europe,1.391779291,renewables
+North Macedonia,2005,Europe,1.392027893,renewables
+North Macedonia,2006,Europe,1.486139696,renewables
+North Macedonia,2007,Europe,0.990655814,renewables
+North Macedonia,2008,Europe,0.800655388,renewables
+North Macedonia,2009,Europe,1.20656943,renewables
+North Macedonia,2010,Europe,1.84829732,renewables
+North Macedonia,2011,Europe,1.31560362,renewables
+North Macedonia,2012,Europe,0.992881334,renewables
+North Macedonia,2013,Europe,1.408300441,renewables
+North Macedonia,2014,Europe,1.193012964,renewables
+North Macedonia,2015,Europe,1.647311565,renewables
+North Macedonia,2016,Europe,1.667329391,renewables
+North Macedonia,2017,Europe,1.217579808,renewables
+North Macedonia,2018,Europe,1.615221157,renewables
+North Macedonia,2019,Europe,1.245306668,renewables
+Luxembourg,1965,Europe,-1.386294361,renewables
+Luxembourg,1966,Europe,-1.48722028,renewables
+Luxembourg,1967,Europe,-1.370421012,renewables
+Luxembourg,1968,Europe,-1.350927217,renewables
+Luxembourg,1969,Europe,-1.482805262,renewables
+Luxembourg,1970,Europe,-1.390302383,renewables
+Luxembourg,1971,Europe,-1.931021537,renewables
+Luxembourg,1972,Europe,-1.771956842,renewables
+Luxembourg,1973,Europe,-1.890475442,renewables
+Luxembourg,1974,Europe,-1.523260216,renewables
+Luxembourg,1975,Europe,-1.660731207,renewables
+Luxembourg,1976,Europe,-2.095570924,renewables
+Luxembourg,1977,Europe,-1.200645014,renewables
+Luxembourg,1978,Europe,-1.200645014,renewables
+Luxembourg,1979,Europe,-1.123930097,renewables
+Luxembourg,1980,Europe,-1.099612789,renewables
+Luxembourg,1981,Europe,-1.005121946,renewables
+Luxembourg,1982,Europe,-1.087672349,renewables
+Luxembourg,1983,Europe,-1.114741671,renewables
+Luxembourg,1984,Europe,-1.038458366,renewables
+Luxembourg,1985,Europe,-1.194022473,renewables
+Luxembourg,1986,Europe,-1.070024832,renewables
+Luxembourg,1987,Europe,-0.891598119,renewables
+Luxembourg,1988,Europe,-0.933945667,renewables
+Luxembourg,1989,Europe,-1.171182982,renewables
+Luxembourg,1990,Europe,-1.294627173,renewables
+Luxembourg,1991,Europe,-1.136314156,renewables
+Luxembourg,1992,Europe,-1.30933332,renewables
+Luxembourg,1993,Europe,-1.280134165,renewables
+Luxembourg,1994,Europe,-1.099612789,renewables
+Luxembourg,1995,Europe,-1.013352445,renewables
+Luxembourg,1996,Europe,-1.335601247,renewables
+Luxembourg,1997,Europe,-1.070024832,renewables
+Luxembourg,1998,Europe,-0.789658081,renewables
+Luxembourg,1999,Europe,-0.916290732,renewables
+Luxembourg,2000,Europe,-0.605136303,renewables
+Luxembourg,2001,Europe,-0.608806032,renewables
+Luxembourg,2002,Europe,-0.695149183,renewables
+Luxembourg,2003,Europe,-0.717439873,renewables
+Luxembourg,2004,Europe,-0.42617815,renewables
+Luxembourg,2005,Europe,-0.362405619,renewables
+Luxembourg,2006,Europe,-0.204567166,renewables
+Luxembourg,2007,Europe,-0.128970381,renewables
+Luxembourg,2008,Europe,-0.0629398,renewables
+Luxembourg,2009,Europe,-0.085557888,renewables
+Luxembourg,2010,Europe,-0.074723546,renewables
+Luxembourg,2011,Europe,-0.118783536,renewables
+Luxembourg,2012,Europe,0.044016885,renewables
+Luxembourg,2013,Europe,0.181487876,renewables
+Luxembourg,2014,Europe,0.273836666,renewables
+Luxembourg,2015,Europe,0.349952398,renewables
+Luxembourg,2016,Europe,0.413433278,renewables
+Luxembourg,2017,Europe,0.662172376,renewables
+Luxembourg,2018,Europe,0.811374562,renewables
+Luxembourg,2019,Europe,0.964699871,renewables
+Belarus,1985,Europe,-2.718100537,renewables
+Belarus,1986,Europe,-2.718100537,renewables
+Belarus,1987,Europe,-2.718100537,renewables
+Belarus,1988,Europe,-2.718100537,renewables
+Belarus,1989,Europe,-2.718100537,renewables
+Belarus,1990,Europe,-2.718100537,renewables
+Belarus,1991,Europe,-2.813410717,renewables
+Belarus,1992,Europe,-2.864704011,renewables
+Belarus,1993,Europe,-2.764620553,renewables
+Belarus,1994,Europe,-2.764620553,renewables
+Belarus,1995,Europe,-2.718100537,renewables
+Belarus,1996,Europe,-2.918771232,renewables
+Belarus,1997,Europe,-2.688247574,renewables
+Belarus,1998,Europe,-2.430418465,renewables
+Belarus,1999,Europe,-2.764620553,renewables
+Belarus,2000,Europe,-2.465104022,renewables
+Belarus,2001,Europe,-2.375155786,renewables
+Belarus,2002,Europe,-2.407945609,renewables
+Belarus,2003,Europe,-2.453407983,renewables
+Belarus,2004,Europe,-2.282782466,renewables
+Belarus,2005,Europe,-2.207274913,renewables
+Belarus,2006,Europe,-2.145581344,renewables
+Belarus,2007,Europe,-1.714798428,renewables
+Belarus,2008,Europe,-1.237874356,renewables
+Belarus,2009,Europe,-0.809680997,renewables
+Belarus,2010,Europe,-0.56563386,renewables
+Belarus,2011,Europe,-0.476424197,renewables
+Belarus,2012,Europe,-0.355247392,renewables
+Belarus,2013,Europe,-0.216913002,renewables
+Belarus,2014,Europe,-0.290352301,renewables
+Belarus,2015,Europe,-0.118783536,renewables
+Belarus,2016,Europe,0.084341148,renewables
+Belarus,2017,Europe,0.702106922,renewables
+Belarus,2018,Europe,0.639746404,renewables
+Belarus,2019,Europe,0.660623989,renewables
+Cyprus,1965,Europe,-4.605170186,renewables
+Cyprus,1966,Europe,-4.605170186,renewables
+Cyprus,1967,Europe,-4.605170186,renewables
+Cyprus,1968,Europe,-4.605170186,renewables
+Cyprus,1969,Europe,-4.605170186,renewables
+Cyprus,1970,Europe,-4.605170186,renewables
+Cyprus,1971,Europe,-4.605170186,renewables
+Cyprus,1972,Europe,-4.605170186,renewables
+Cyprus,1973,Europe,-4.605170186,renewables
+Cyprus,1974,Europe,-4.605170186,renewables
+Cyprus,1975,Europe,-4.605170186,renewables
+Cyprus,1976,Europe,-4.605170186,renewables
+Cyprus,1977,Europe,-4.605170186,renewables
+Cyprus,1978,Europe,-4.605170186,renewables
+Cyprus,1979,Europe,-4.605170186,renewables
+Cyprus,1980,Europe,-4.605170186,renewables
+Cyprus,1981,Europe,-4.605170186,renewables
+Cyprus,1982,Europe,-4.605170186,renewables
+Cyprus,1983,Europe,-4.605170186,renewables
+Cyprus,1984,Europe,-4.605170186,renewables
+Cyprus,1985,Europe,-4.605170186,renewables
+Cyprus,1986,Europe,-4.605170186,renewables
+Cyprus,1987,Europe,-4.605170186,renewables
+Cyprus,1988,Europe,-4.605170186,renewables
+Cyprus,1989,Europe,-4.605170186,renewables
+Cyprus,1990,Europe,-4.605170186,renewables
+Cyprus,1991,Europe,-4.605170186,renewables
+Cyprus,1992,Europe,-4.605170186,renewables
+Cyprus,1993,Europe,-4.605170186,renewables
+Cyprus,1994,Europe,-4.605170186,renewables
+Cyprus,1995,Europe,-4.605170186,renewables
+Cyprus,1996,Europe,-4.605170186,renewables
+Cyprus,1997,Europe,-4.605170186,renewables
+Cyprus,1998,Europe,-4.605170186,renewables
+Cyprus,1999,Europe,-4.605170186,renewables
+Cyprus,2000,Europe,-4.605170186,renewables
+Cyprus,2001,Europe,-4.605170186,renewables
+Cyprus,2002,Europe,-4.605170186,renewables
+Cyprus,2003,Europe,-4.605170186,renewables
+Cyprus,2004,Europe,-4.422848629,renewables
+Cyprus,2005,Europe,-4.422848629,renewables
+Cyprus,2006,Europe,-4.268697949,renewables
+Cyprus,2007,Europe,-3.772261063,renewables
+Cyprus,2008,Europe,-2.488914671,renewables
+Cyprus,2009,Europe,-1.814005078,renewables
+Cyprus,2010,Europe,-1.234432012,renewables
+Cyprus,2011,Europe,-0.500875293,renewables
+Cyprus,2012,Europe,-0.221894332,renewables
+Cyprus,2013,Europe,-0.028399475,renewables
+Cyprus,2014,Europe,-0.053400777,renewables
+Cyprus,2015,Europe,0.14063113,renewables
+Cyprus,2016,Europe,0.189793572,renewables
+Cyprus,2017,Europe,0.204572166,renewables
+Cyprus,2018,Europe,0.255417112,renewables
+Cyprus,2019,Europe,0.357674444,renewables
+United States,1965,North America,6.440601984,renewables
+United States,1966,North America,6.45128052,renewables
+United States,1967,North America,6.564371613,renewables
+United States,1968,North America,6.579445638,renewables
+United States,1969,North America,6.686299053,renewables
+United States,1970,North America,6.677531723,renewables
+United States,1971,North America,6.743361652,renewables
+United States,1972,North America,6.777601035,renewables
+United States,1973,North America,6.784319044,renewables
+United States,1974,North America,6.874133343,renewables
+United States,1975,North America,6.867301966,renewables
+United States,1976,North America,6.835650069,renewables
+United States,1977,North America,6.630878617,renewables
+United States,1978,North America,6.837839124,renewables
+United States,1979,North America,6.843072747,renewables
+United States,1980,North America,6.836731776,renewables
+United States,1981,North America,6.79392903,renewables
+United States,1982,North America,6.930665817,renewables
+United States,1983,North America,7.0088478,renewables
+United States,1984,North America,7.010095237,renewables
+United States,1985,North America,6.907723278,renewables
+United States,1986,North America,6.946977915,renewables
+United States,1987,North America,6.852826965,renewables
+United States,1988,North America,6.768450682,renewables
+United States,1989,North America,6.948105162,renewables
+United States,1990,North America,7.054142184,renewables
+United States,1991,North America,7.060149274,renewables
+United States,1992,North America,6.994865568,renewables
+United States,1993,North America,7.077048163,renewables
+United States,1994,North America,7.03047544,renewables
+United States,1995,North America,7.13804444,renewables
+United States,1996,North America,7.214934785,renewables
+United States,1997,North America,7.240560085,renewables
+United States,1998,North America,7.171642998,renewables
+United States,1999,North America,7.167745188,renewables
+United States,2000,North America,7.076479814,renewables
+United States,2001,North America,6.918641805,renewables
+United States,2002,North America,7.074506241,renewables
+United States,2003,North America,7.109782236,renewables
+United States,2004,North America,7.111268204,renewables
+United States,2005,North America,7.136238946,renewables
+United States,2006,North America,7.22001386,renewables
+United States,2007,North America,7.176513673,renewables
+United States,2008,North America,7.274013061,renewables
+United States,2009,North America,7.358469687,renewables
+United States,2010,North America,7.397725738,renewables
+United States,2011,North America,7.535900898,renewables
+United States,2012,North America,7.510929064,renewables
+United States,2013,North America,7.566507165,renewables
+United States,2014,North America,7.594305749,renewables
+United States,2015,North America,7.608642925,renewables
+United States,2016,North America,7.699306032,renewables
+United States,2017,North America,7.785049848,renewables
+United States,2018,North America,7.804668269,renewables
+United States,2019,North America,7.817821881,renewables
+Canada,1965,North America,5.793111165,renewables
+Canada,1966,North America,5.896876357,renewables
+Canada,1967,North America,5.918950304,renewables
+Canada,1968,North America,5.935803835,renewables
+Canada,1969,North America,6.036555019,renewables
+Canada,1970,North America,6.085137023,renewables
+Canada,1971,North America,6.112112364,renewables
+Canada,1972,North America,6.223692708,renewables
+Canada,1973,North America,6.292894187,renewables
+Canada,1974,North America,6.371948543,renewables
+Canada,1975,North America,6.332261348,renewables
+Canada,1976,North America,6.388126017,renewables
+Canada,1977,North America,6.425627245,renewables
+Canada,1978,North America,6.491909477,renewables
+Canada,1979,North America,6.530289992,renewables
+Canada,1980,North America,6.558007714,renewables
+Canada,1981,North America,6.619386304,renewables
+Canada,1982,North America,6.590288685,renewables
+Canada,1983,North America,6.620539764,renewables
+Canada,1984,North America,6.694289744,renewables
+Canada,1985,North America,6.748510982,renewables
+Canada,1986,North America,6.772221884,renewables
+Canada,1987,North America,6.792577846,renewables
+Canada,1988,North America,6.765967035,renewables
+Canada,1989,North America,6.716758198,renewables
+Canada,1990,North America,6.737352412,renewables
+Canada,1991,North America,6.775016715,renewables
+Canada,1992,North America,6.80291796,renewables
+Canada,1993,North America,6.826523531,renewables
+Canada,1994,North America,6.848790529,renewables
+Canada,1995,North America,6.875007889,renewables
+Canada,1996,North America,6.934400131,renewables
+Canada,1997,North America,6.921792297,renewables
+Canada,1998,North America,6.876495751,renewables
+Canada,1999,North America,6.916236214,renewables
+Canada,2000,North America,6.948254021,renewables
+Canada,2001,North America,6.876543211,renewables
+Canada,2002,North America,6.921622681,renewables
+Canada,2003,North America,6.876294539,renewables
+Canada,2004,North America,6.879084163,renewables
+Canada,2005,North America,6.934492629,renewables
+Canada,2006,North America,6.910489537,renewables
+Canada,2007,North America,6.945507607,renewables
+Canada,2008,North America,6.963315806,renewables
+Canada,2009,North America,6.948332764,renewables
+Canada,2010,North America,6.910862447,renewables
+Canada,2011,North America,6.975251297,renewables
+Canada,2012,North America,6.989396094,renewables
+Canada,2013,North America,7.014052156,renewables
+Canada,2014,North America,6.987139308,renewables
+Canada,2015,North America,7.015469123,renewables
+Canada,2016,North America,7.033068999,renewables
+Canada,2017,North America,7.047755454,renewables
+Canada,2018,North America,7.024536925,renewables
+Canada,2019,North America,7.019316332,renewables
+Mexico,1965,North America,3.20392461,renewables
+Mexico,1966,North America,3.336338809,renewables
+Mexico,1967,North America,3.421424755,renewables
+Mexico,1968,North America,3.558970066,renewables
+Mexico,1969,North America,3.617625099,renewables
+Mexico,1970,North America,3.730285278,renewables
+Mexico,1971,North America,3.701005634,renewables
+Mexico,1972,North America,3.764728766,renewables
+Mexico,1973,North America,3.836846771,renewables
+Mexico,1974,North America,3.891677431,renewables
+Mexico,1975,North America,3.807994935,renewables
+Mexico,1976,North America,3.934899335,renewables
+Mexico,1977,North America,4.036220977,renewables
+Mexico,1978,North America,3.879065835,renewables
+Mexico,1979,North America,4.019872421,renewables
+Mexico,1980,North America,3.952512145,renewables
+Mexico,1981,North America,4.300667436,renewables
+Mexico,1982,North America,4.261101167,renewables
+Mexico,1983,North America,4.176201009,renewables
+Mexico,1984,North America,4.297094912,renewables
+Mexico,1985,North America,4.478370371,renewables
+Mexico,1986,North America,4.357042104,renewables
+Mexico,1987,North America,4.358297308,renewables
+Mexico,1988,North America,4.459033971,renewables
+Mexico,1989,North America,4.568609931,renewables
+Mexico,1990,North America,4.569387556,renewables
+Mexico,1991,North America,4.556704469,renewables
+Mexico,1992,North America,4.699279645,renewables
+Mexico,1993,North America,4.702070011,renewables
+Mexico,1994,North America,4.509704994,renewables
+Mexico,1995,North America,4.72154779,renewables
+Mexico,1996,North America,4.799477954,renewables
+Mexico,1997,North America,4.663174908,renewables
+Mexico,1998,North America,4.629755476,renewables
+Mexico,1999,North America,4.825196885,renewables
+Mexico,2000,North America,4.846412954,renewables
+Mexico,2001,North America,4.727724045,renewables
+Mexico,2002,North America,4.629560314,renewables
+Mexico,2003,North America,4.531964883,renewables
+Mexico,2004,North America,4.686575042,renewables
+Mexico,2005,North America,4.782663439,renewables
+Mexico,2006,North America,4.808992274,renewables
+Mexico,2007,North America,4.771929612,renewables
+Mexico,2008,North America,4.990425784,renewables
+Mexico,2009,North America,4.722704302,renewables
+Mexico,2010,North America,4.943134167,renewables
+Mexico,2011,North America,4.924714232,renewables
+Mexico,2012,North America,4.851772418,renewables
+Mexico,2013,North America,4.799790798,renewables
+Mexico,2014,North America,5.038062376,renewables
+Mexico,2015,North America,4.946004324,renewables
+Mexico,2016,North America,4.96273973,renewables
+Mexico,2017,North America,5.011348373,renewables
+Mexico,2018,North America,5.064258206,renewables
+Mexico,2019,North America,5.159216206,renewables
+Trinidad and Tobago,1965,North America,-4.605170186,renewables
+Trinidad and Tobago,1966,North America,-4.605170186,renewables
+Trinidad and Tobago,1967,North America,-4.605170186,renewables
+Trinidad and Tobago,1968,North America,-4.605170186,renewables
+Trinidad and Tobago,1969,North America,-4.605170186,renewables
+Trinidad and Tobago,1970,North America,-4.605170186,renewables
+Trinidad and Tobago,1971,North America,-1.589635285,renewables
+Trinidad and Tobago,1972,North America,-1.589635285,renewables
+Trinidad and Tobago,1973,North America,-1.760260802,renewables
+Trinidad and Tobago,1974,North America,-1.910543005,renewables
+Trinidad and Tobago,1975,North America,-1.980501594,renewables
+Trinidad and Tobago,1976,North America,-2.154165088,renewables
+Trinidad and Tobago,1977,North America,-1.980501594,renewables
+Trinidad and Tobago,1978,North America,-1.760260802,renewables
+Trinidad and Tobago,1979,North America,-1.760260802,renewables
+Trinidad and Tobago,1980,North America,-1.870802677,renewables
+Trinidad and Tobago,1981,North America,-2.154165088,renewables
+Trinidad and Tobago,1982,North America,-2.207274913,renewables
+Trinidad and Tobago,1983,North America,-2.3227878,renewables
+Trinidad and Tobago,1984,North America,-2.501036032,renewables
+Trinidad and Tobago,1985,North America,-2.26336438,renewables
+Trinidad and Tobago,1986,North America,-1.870802677,renewables
+Trinidad and Tobago,1987,North America,-1.703748592,renewables
+Trinidad and Tobago,1988,North America,-1.832581464,renewables
+Trinidad and Tobago,1989,North America,-1.870802677,renewables
+Trinidad and Tobago,1990,North America,-1.703748592,renewables
+Trinidad and Tobago,1991,North America,-1.910543005,renewables
+Trinidad and Tobago,1992,North America,-1.737271284,renewables
+Trinidad and Tobago,1993,North America,-1.795767491,renewables
+Trinidad and Tobago,1994,North America,-1.671313316,renewables
+Trinidad and Tobago,1995,North America,-1.63989712,renewables
+Trinidad and Tobago,1996,North America,-2.26336438,renewables
+Trinidad and Tobago,1997,North America,-2.207274913,renewables
+Trinidad and Tobago,1998,North America,-2.207274913,renewables
+Trinidad and Tobago,1999,North America,-2.207274913,renewables
+Trinidad and Tobago,2000,North America,-2.103734234,renewables
+Trinidad and Tobago,2001,North America,-1.760260802,renewables
+Trinidad and Tobago,2002,North America,-1.864330162,renewables
+Trinidad and Tobago,2003,North America,-2.525728644,renewables
+Trinidad and Tobago,2004,North America,-1.966112856,renewables
+Trinidad and Tobago,2005,North America,-2.009915479,renewables
+Trinidad and Tobago,2006,North America,-1.857899272,renewables
+Trinidad and Tobago,2007,North America,-2.137070655,renewables
+Trinidad and Tobago,2008,North America,-2.087473713,renewables
+Trinidad and Tobago,2009,North America,-2.128631786,renewables
+Trinidad and Tobago,2010,North America,-3.912023005,renewables
+Trinidad and Tobago,2011,North America,-3.912023005,renewables
+Trinidad and Tobago,2012,North America,-3.912023005,renewables
+Trinidad and Tobago,2013,North America,-3.912023005,renewables
+Trinidad and Tobago,2014,North America,-3.863232841,renewables
+Trinidad and Tobago,2015,North America,-3.772261063,renewables
+Trinidad and Tobago,2016,North America,-3.772261063,renewables
+Trinidad and Tobago,2017,North America,-3.772261063,renewables
+Trinidad and Tobago,2018,North America,-3.816712826,renewables
+Trinidad and Tobago,2019,North America,-3.816712826,renewables
+Australia,1965,Oceania,3.136146177,renewables
+Australia,1966,Oceania,3.090633279,renewables
+Australia,1967,Oceania,3.124521188,renewables
+Australia,1968,Oceania,3.163828123,renewables
+Australia,1969,Oceania,3.246257502,renewables
+Australia,1970,Oceania,3.391551005,renewables
+Australia,1971,Oceania,3.509663071,renewables
+Australia,1972,Oceania,3.516250769,renewables
+Australia,1973,Oceania,3.583935518,renewables
+Australia,1974,Oceania,3.711912153,renewables
+Australia,1975,Oceania,3.786028851,renewables
+Australia,1976,Oceania,3.738026697,renewables
+Australia,1977,Oceania,3.689279374,renewables
+Australia,1978,Oceania,3.761781342,renewables
+Australia,1979,Oceania,3.735405152,renewables
+Australia,1980,Oceania,3.677717389,renewables
+Australia,1981,Oceania,3.707995571,renewables
+Australia,1982,Oceania,3.646754528,renewables
+Australia,1983,Oceania,3.585766411,renewables
+Australia,1984,Oceania,3.661533951,renewables
+Australia,1985,Oceania,3.720063149,renewables
+Australia,1986,Oceania,3.726319737,renewables
+Australia,1987,Oceania,3.699769937,renewables
+Australia,1988,Oceania,3.781663719,renewables
+Australia,1989,Oceania,3.786550481,renewables
+Australia,1990,Oceania,3.811716364,renewables
+Australia,1991,Oceania,3.860834969,renewables
+Australia,1992,Oceania,3.872200511,renewables
+Australia,1993,Oceania,3.897883512,renewables
+Australia,1994,Oceania,3.887812277,renewables
+Australia,1995,Oceania,3.873157429,renewables
+Australia,1996,Oceania,3.906326813,renewables
+Australia,1997,Oceania,3.911362788,renewables
+Australia,1998,Oceania,3.912982545,renewables
+Australia,1999,Oceania,3.946733563,renewables
+Australia,2000,Oceania,3.935622338,renewables
+Australia,2001,Oceania,3.909018496,renewables
+Australia,2002,Oceania,3.964824162,renewables
+Australia,2003,Oceania,4.016058644,renewables
+Australia,2004,Oceania,4.095427309,renewables
+Australia,2005,Oceania,4.193239219,renewables
+Australia,2006,Oceania,4.21900758,renewables
+Australia,2007,Oceania,4.232191629,renewables
+Australia,2008,Oceania,4.232104502,renewables
+Australia,2009,Oceania,4.289074921,renewables
+Australia,2010,Oceania,4.422328494,renewables
+Australia,2011,Oceania,4.665870099,renewables
+Australia,2012,Oceania,4.644063923,renewables
+Australia,2013,Oceania,4.758474794,renewables
+Australia,2014,Oceania,4.689244755,renewables
+Australia,2015,Oceania,4.742877846,renewables
+Australia,2016,Oceania,4.843895705,renewables
+Australia,2017,Oceania,4.796814814,renewables
+Australia,2018,Oceania,4.997009551,renewables
+Australia,2019,Oceania,5.083854776,renewables
+New Zealand,1965,Oceania,3.564675851,renewables
+New Zealand,1966,Oceania,3.626338936,renewables
+New Zealand,1967,Oceania,3.623780776,renewables
+New Zealand,1968,Oceania,3.686576805,renewables
+New Zealand,1969,Oceania,3.681477124,renewables
+New Zealand,1970,Oceania,3.744266856,renewables
+New Zealand,1971,Oceania,3.84953039,renewables
+New Zealand,1972,Oceania,3.899849204,renewables
+New Zealand,1973,Oceania,3.888774849,renewables
+New Zealand,1974,Oceania,3.950820552,renewables
+New Zealand,1975,Oceania,4.029343712,renewables
+New Zealand,1976,Oceania,3.964710328,renewables
+New Zealand,1977,Oceania,3.91430041,renewables
+New Zealand,1978,Oceania,3.967514475,renewables
+New Zealand,1979,Oceania,4.092643116,renewables
+New Zealand,1980,Oceania,4.142801337,renewables
+New Zealand,1981,Oceania,4.153744906,renewables
+New Zealand,1982,Oceania,4.094611193,renewables
+New Zealand,1983,Oceania,4.16102142,renewables
+New Zealand,1984,Oceania,4.200474782,renewables
+New Zealand,1985,Oceania,4.161192914,renewables
+New Zealand,1986,Oceania,4.265366406,renewables
+New Zealand,1987,Oceania,4.258346558,renewables
+New Zealand,1988,Oceania,4.298875977,renewables
+New Zealand,1989,Oceania,4.320603256,renewables
+New Zealand,1990,Oceania,4.368257271,renewables
+New Zealand,1991,Oceania,4.370447353,renewables
+New Zealand,1992,Oceania,4.303281002,renewables
+New Zealand,1993,Oceania,4.398010706,renewables
+New Zealand,1994,Oceania,4.465747186,renewables
+New Zealand,1995,Oceania,4.515201714,renewables
+New Zealand,1996,Oceania,4.469923037,renewables
+New Zealand,1997,Oceania,4.378896742,renewables
+New Zealand,1998,Oceania,4.472152947,renewables
+New Zealand,1999,Oceania,4.408765932,renewables
+New Zealand,2000,Oceania,4.472198637,renewables
+New Zealand,2001,Oceania,4.362716386,renewables
+New Zealand,2002,Oceania,4.454963386,renewables
+New Zealand,2003,Oceania,4.403139678,renewables
+New Zealand,2004,Oceania,4.523178914,renewables
+New Zealand,2005,Oceania,4.430018862,renewables
+New Zealand,2006,Oceania,4.448200537,renewables
+New Zealand,2007,Oceania,4.465586228,renewables
+New Zealand,2008,Oceania,4.463318562,renewables
+New Zealand,2009,Oceania,4.56286793,renewables
+New Zealand,2010,Oceania,4.627205613,renewables
+New Zealand,2011,Oceania,4.651652928,renewables
+New Zealand,2012,Oceania,4.596603597,renewables
+New Zealand,2013,Oceania,4.60463004,renewables
+New Zealand,2014,Oceania,4.677676877,renewables
+New Zealand,2015,Oceania,4.707374727,renewables
+New Zealand,2016,Oceania,4.733079555,renewables
+New Zealand,2017,Oceania,4.705793499,renewables
+New Zealand,2018,Oceania,4.720781977,renewables
+New Zealand,2019,Oceania,4.709494165,renewables
+Brazil,1965,South America,4.261058846,renewables
+Brazil,1966,South America,4.350626263,renewables
+Brazil,1967,South America,4.395571981,renewables
+Brazil,1968,South America,4.441132457,renewables
+Brazil,1969,South America,4.508890536,renewables
+Brazil,1970,South America,4.731168274,renewables
+Brazil,1971,South America,4.81645166,renewables
+Brazil,1972,South America,4.975153184,renewables
+Brazil,1973,South America,5.105866683,renewables
+Brazil,1974,South America,5.230113469,renewables
+Brazil,1975,South America,5.326054122,renewables
+Brazil,1976,South America,5.460121541,renewables
+Brazil,1977,South America,5.58304884,renewables
+Brazil,1978,South America,5.679544425,renewables
+Brazil,1979,South America,5.810272352,renewables
+Brazil,1980,South America,5.908398106,renewables
+Brazil,1981,South America,5.923335588,renewables
+Brazil,1982,South America,6.001776199,renewables
+Brazil,1983,South America,6.080742936,renewables
+Brazil,1984,South America,6.170888159,renewables
+Brazil,1985,South America,6.239370952,renewables
+Brazil,1986,South America,6.262395856,renewables
+Brazil,1987,South America,6.282969304,renewables
+Brazil,1988,South America,6.348441196,renewables
+Brazil,1989,South America,6.375876246,renewables
+Brazil,1990,South America,6.497881467,renewables
+Brazil,1991,South America,6.548462626,renewables
+Brazil,1992,South America,6.575434214,renewables
+Brazil,1993,South America,6.624191382,renewables
+Brazil,1994,South America,6.661073105,renewables
+Brazil,1995,South America,6.704747633,renewables
+Brazil,1996,South America,6.755714206,renewables
+Brazil,1997,South America,6.798275178,renewables
+Brazil,1998,South America,6.835441542,renewables
+Brazil,1999,South America,6.845351012,renewables
+Brazil,2000,South America,6.863706208,renewables
+Brazil,2001,South America,6.748855674,renewables
+Brazil,2002,South America,6.81682131,renewables
+Brazil,2003,South America,6.873564375,renewables
+Brazil,2004,South America,6.920490836,renewables
+Brazil,2005,South America,6.969881831,renewables
+Brazil,2006,South America,6.993693497,renewables
+Brazil,2007,South America,7.088822716,renewables
+Brazil,2008,South America,7.11174863,renewables
+Brazil,2009,South America,7.174588007,renewables
+Brazil,2010,South America,7.237712769,renewables
+Brazil,2011,South America,7.271415271,renewables
+Brazil,2012,South America,7.25223395,renewables
+Brazil,2013,South America,7.242195452,renewables
+Brazil,2014,South America,7.250017152,renewables
+Brazil,2015,South America,7.271696758,renewables
+Brazil,2016,South America,7.314512885,renewables
+Brazil,2017,South America,7.3206838,renewables
+Brazil,2018,South America,7.384725212,renewables
+Brazil,2019,South America,7.432665448,renewables
+Venezuela,1965,South America,1.338416281,renewables
+Venezuela,1966,South America,1.357122984,renewables
+Venezuela,1967,South America,1.516005968,renewables
+Venezuela,1968,South America,2.033790196,renewables
+Venezuela,1969,South America,2.18278753,renewables
+Venezuela,1970,South America,2.434490164,renewables
+Venezuela,1971,South America,2.706849481,renewables
+Venezuela,1972,South America,2.817323054,renewables
+Venezuela,1973,South America,2.850822102,renewables
+Venezuela,1974,South America,3.06423169,renewables
+Venezuela,1975,South America,3.211569196,renewables
+Venezuela,1976,South America,3.380756551,renewables
+Venezuela,1977,South America,3.520342452,renewables
+Venezuela,1978,South America,3.526007521,renewables
+Venezuela,1979,South America,3.677970164,renewables
+Venezuela,1980,South America,3.702017767,renewables
+Venezuela,1981,South America,3.735786895,renewables
+Venezuela,1982,South America,3.782779549,renewables
+Venezuela,1983,South America,3.915716177,renewables
+Venezuela,1984,South America,4.029646028,renewables
+Venezuela,1985,South America,4.141879971,renewables
+Venezuela,1986,South America,4.247008423,renewables
+Venezuela,1987,South America,4.450677781,renewables
+Venezuela,1988,South America,4.554066347,renewables
+Venezuela,1989,South America,4.567520239,renewables
+Venezuela,1990,South America,4.632211258,renewables
+Venezuela,1991,South America,4.818166427,renewables
+Venezuela,1992,South America,4.877621863,renewables
+Venezuela,1993,South America,4.881990988,renewables
+Venezuela,1994,South America,4.959103375,renewables
+Venezuela,1995,South America,4.96233401,renewables
+Venezuela,1996,South America,5.007864793,renewables
+Venezuela,1997,South America,5.069457508,renewables
+Venezuela,1998,South America,5.080826558,renewables
+Venezuela,1999,South America,5.126003565,renewables
+Venezuela,2000,South America,5.163030148,renewables
+Venezuela,2001,South America,5.11686743,renewables
+Venezuela,2002,South America,5.095276643,renewables
+Venezuela,2003,South America,5.105466571,renewables
+Venezuela,2004,South America,5.245464963,renewables
+Venezuela,2005,South America,5.334494993,renewables
+Venezuela,2006,South America,5.382768803,renewables
+Venezuela,2007,South America,5.396215105,renewables
+Venezuela,2008,South America,5.433333282,renewables
+Venezuela,2009,South America,5.417015539,renewables
+Venezuela,2010,South America,5.297797231,renewables
+Venezuela,2011,South America,5.373007312,renewables
+Venezuela,2012,South America,5.349746902,renewables
+Venezuela,2013,South America,5.363922506,renewables
+Venezuela,2014,South America,5.300470048,renewables
+Venezuela,2015,South America,5.224197087,renewables
+Venezuela,2016,South America,5.044688834,renewables
+Venezuela,2017,South America,4.999075402,renewables
+Venezuela,2018,South America,4.953479233,renewables
+Venezuela,2019,South America,5.056685199,renewables
+Colombia,1965,South America,2.287877464,renewables
+Colombia,1966,South America,2.393065446,renewables
+Colombia,1967,South America,2.501599873,renewables
+Colombia,1968,South America,2.609775632,renewables
+Colombia,1969,South America,2.715687628,renewables
+Colombia,1970,South America,2.822746998,renewables
+Colombia,1971,South America,2.882171561,renewables
+Colombia,1972,South America,2.984367943,renewables
+Colombia,1973,South America,3.068936266,renewables
+Colombia,1974,South America,3.195893748,renewables
+Colombia,1975,South America,3.33555603,renewables
+Colombia,1976,South America,3.385711424,renewables
+Colombia,1977,South America,3.40482413,renewables
+Colombia,1978,South America,3.546336147,renewables
+Colombia,1979,South America,3.638664525,renewables
+Colombia,1980,South America,3.723329189,renewables
+Colombia,1981,South America,3.70902516,renewables
+Colombia,1982,South America,3.775584534,renewables
+Colombia,1983,South America,3.78403053,renewables
+Colombia,1984,South America,3.892595508,renewables
+Colombia,1985,South America,3.964956953,renewables
+Colombia,1986,South America,4.106701236,renewables
+Colombia,1987,South America,4.19079046,renewables
+Colombia,1988,South America,4.243367834,renewables
+Colombia,1989,South America,4.329772352,renewables
+Colombia,1990,South America,4.355554314,renewables
+Colombia,1991,South America,4.363366105,renewables
+Colombia,1992,South America,4.155580762,renewables
+Colombia,1993,South America,4.376385755,renewables
+Colombia,1994,South America,4.516634011,renewables
+Colombia,1995,South America,4.516557528,renewables
+Colombia,1996,South America,4.613009379,renewables
+Colombia,1997,South America,4.501208691,renewables
+Colombia,1998,South America,4.482674815,renewables
+Colombia,1999,South America,4.56602387,renewables
+Colombia,2000,South America,4.481532546,renewables
+Colombia,2001,South America,4.500398386,renewables
+Colombia,2002,South America,4.562815768,renewables
+Colombia,2003,South America,4.617908705,renewables
+Colombia,2004,South America,4.667769328,renewables
+Colombia,2005,South America,4.685662024,renewables
+Colombia,2006,South America,4.760368888,renewables
+Colombia,2007,South America,4.791209822,renewables
+Colombia,2008,South America,4.826928779,renewables
+Colombia,2009,South America,4.725128632,renewables
+Colombia,2010,South America,4.717963013,renewables
+Colombia,2011,South America,4.891273513,renewables
+Colombia,2012,South America,4.872797499,renewables
+Colombia,2013,South America,4.795922768,renewables
+Colombia,2014,South America,4.814198586,renewables
+Colombia,2015,South America,4.811061774,renewables
+Colombia,2016,South America,4.853770936,renewables
+Colombia,2017,South America,5.035093733,renewables
+Colombia,2018,South America,5.023163158,renewables
+Colombia,2019,South America,4.931837367,renewables
+Argentina,1965,South America,1.22759167,renewables
+Argentina,1966,South America,1.240401161,renewables
+Argentina,1967,South America,1.264409173,renewables
+Argentina,1968,South America,1.428155815,renewables
+Argentina,1969,South America,1.319887429,renewables
+Argentina,1970,South America,1.524751104,renewables
+Argentina,1971,South America,1.520825254,renewables
+Argentina,1972,South America,1.514247725,renewables
+Argentina,1973,South America,2.151645917,renewables
+Argentina,1974,South America,2.657107722,renewables
+Argentina,1975,South America,2.692124051,renewables
+Argentina,1976,South America,2.654157039,renewables
+Argentina,1977,South America,2.792758929,renewables
+Argentina,1978,South America,3.083926284,renewables
+Argentina,1979,South America,3.404192891,renewables
+Argentina,1980,South America,3.750820856,renewables
+Argentina,1981,South America,3.718850793,renewables
+Argentina,1982,South America,3.90019331,renewables
+Argentina,1983,South America,3.950012191,renewables
+Argentina,1984,South America,4.021307811,renewables
+Argentina,1985,South America,4.059304432,renewables
+Argentina,1986,South America,4.076910129,renewables
+Argentina,1987,South America,4.115453525,renewables
+Argentina,1988,South America,3.748114876,renewables
+Argentina,1989,South America,3.602449726,renewables
+Argentina,1990,South America,3.917189635,renewables
+Argentina,1991,South America,3.820390056,renewables
+Argentina,1992,South America,4.016707292,renewables
+Argentina,1993,South America,4.190230334,renewables
+Argentina,1994,South America,4.361504999,renewables
+Argentina,1995,South America,4.37829468,renewables
+Argentina,1996,South America,4.304862073,renewables
+Argentina,1997,South America,4.54622665,renewables
+Argentina,1998,South America,4.529789096,renewables
+Argentina,1999,South America,4.34918056,renewables
+Argentina,2000,South America,4.589000153,renewables
+Argentina,2001,South America,4.780399989,renewables
+Argentina,2002,South America,4.775537238,renewables
+Argentina,2003,South America,4.720434497,renewables
+Argentina,2004,South America,4.614288488,renewables
+Argentina,2005,South America,4.716961977,renewables
+Argentina,2006,South America,4.82976069,renewables
+Argentina,2007,South America,4.689456186,renewables
+Argentina,2008,South America,4.67524647,renewables
+Argentina,2009,South America,4.755054636,renewables
+Argentina,2010,South America,4.806043588,renewables
+Argentina,2011,South America,4.811883497,renewables
+Argentina,2012,South America,4.78319084,renewables
+Argentina,2013,South America,4.86794206,renewables
+Argentina,2014,South America,4.878626551,renewables
+Argentina,2015,South America,4.902641685,renewables
+Argentina,2016,South America,4.818982335,renewables
+Argentina,2017,South America,4.913683768,renewables
+Argentina,2018,South America,4.924605254,renewables
+Argentina,2019,South America,4.915159101,renewables
+Chile,1965,South America,2.397258707,renewables
+Chile,1966,South America,2.44997008,renewables
+Chile,1967,South America,2.470554144,renewables
+Chile,1968,South America,2.293847027,renewables
+Chile,1969,South America,2.414841775,renewables
+Chile,1970,South America,2.482737633,renewables
+Chile,1971,South America,2.61994732,renewables
+Chile,1972,South America,2.787662047,renewables
+Chile,1973,South America,2.76222268,renewables
+Chile,1974,South America,2.887255797,renewables
+Chile,1975,South America,2.892480644,renewables
+Chile,1976,South America,2.930980396,renewables
+Chile,1977,South America,2.986338288,renewables
+Chile,1978,South America,3.028054245,renewables
+Chile,1979,South America,3.054991257,renewables
+Chile,1980,South America,3.111646898,renewables
+Chile,1981,South America,3.146735147,renewables
+Chile,1982,South America,3.239971733,renewables
+Chile,1983,South America,3.32751496,renewables
+Chile,1984,South America,3.361589927,renewables
+Chile,1985,South America,3.460848981,renewables
+Chile,1986,South America,3.53884114,renewables
+Chile,1987,South America,3.614559921,renewables
+Chile,1988,South America,3.603049198,renewables
+Chile,1989,South America,3.436564525,renewables
+Chile,1990,South America,3.407742582,renewables
+Chile,1991,South America,3.743272938,renewables
+Chile,1992,South America,4.02880999,renewables
+Chile,1993,South America,4.052793135,renewables
+Chile,1994,South America,4.04504927,renewables
+Chile,1995,South America,4.120629402,renewables
+Chile,1996,South America,4.034895291,renewables
+Chile,1997,South America,4.13218612,renewables
+Chile,1998,South America,3.926517452,renewables
+Chile,1999,South America,3.823847315,renewables
+Chile,2000,South America,4.105136123,renewables
+Chile,2001,South America,4.236278058,renewables
+Chile,2002,South America,4.295556021,renewables
+Chile,2003,South America,4.260480277,renewables
+Chile,2004,South America,4.216326179,renewables
+Chile,2005,South America,4.362512466,renewables
+Chile,2006,South America,4.419996566,renewables
+Chile,2007,South America,4.299853534,renewables
+Chile,2008,South America,4.420177064,renewables
+Chile,2009,South America,4.431649785,renewables
+Chile,2010,South America,4.322661376,renewables
+Chile,2011,South America,4.335956518,renewables
+Chile,2012,South America,4.428647782,renewables
+Chile,2013,South America,4.473933302,renewables
+Chile,2014,South America,4.487455898,renewables
+Chile,2015,South America,4.571809867,renewables
+Chile,2016,South America,4.563483234,renewables
+Chile,2017,South America,4.694773202,renewables
+Chile,2018,South America,4.83025585,renewables
+Chile,2019,South America,4.866433845,renewables
+Peru,1965,South America,1.988148283,renewables
+Peru,1966,South America,2.062168213,renewables
+Peru,1967,South America,2.17588744,renewables
+Peru,1968,South America,2.246437932,renewables
+Peru,1969,South America,2.331269727,renewables
+Peru,1970,South America,2.285642372,renewables
+Peru,1971,South America,2.578472886,renewables
+Peru,1972,South America,2.609407809,renewables
+Peru,1973,South America,2.676559534,renewables
+Peru,1974,South America,2.771150188,renewables
+Peru,1975,South America,2.81385062,renewables
+Peru,1976,South America,2.860084357,renewables
+Peru,1977,South America,2.895359299,renewables
+Peru,1978,South America,2.912568032,renewables
+Peru,1979,South America,2.972207729,renewables
+Peru,1980,South America,2.993429624,renewables
+Peru,1981,South America,3.119850753,renewables
+Peru,1982,South America,3.185153567,renewables
+Peru,1983,South America,3.149954379,renewables
+Peru,1984,South America,3.217795241,renewables
+Peru,1985,South America,3.296207168,renewables
+Peru,1986,South America,3.360722549,renewables
+Peru,1987,South America,3.433406391,renewables
+Peru,1988,South America,3.391786572,renewables
+Peru,1989,South America,3.401264046,renewables
+Peru,1990,South America,3.396050828,renewables
+Peru,1991,South America,3.486487834,renewables
+Peru,1992,South America,3.32005963,renewables
+Peru,1993,South America,3.508286403,renewables
+Peru,1994,South America,3.585738695,renewables
+Peru,1995,South America,3.603757201,renewables
+Peru,1996,South America,3.631859266,renewables
+Peru,1997,South America,3.626312322,renewables
+Peru,1998,South America,3.665303718,renewables
+Peru,1999,South America,3.717806989,renewables
+Peru,2000,South America,3.824807971,renewables
+Peru,2001,South America,3.902477593,renewables
+Peru,2002,South America,3.921933732,renewables
+Peru,2003,South America,3.94301767,renewables
+Peru,2004,South America,3.877079532,renewables
+Peru,2005,South America,3.916831426,renewables
+Peru,2006,South America,3.993566125,renewables
+Peru,2007,South America,3.991850305,renewables
+Peru,2008,South America,3.965639599,renewables
+Peru,2009,South America,4.000839419,renewables
+Peru,2010,South America,4.02188139,renewables
+Peru,2011,South America,4.083890104,renewables
+Peru,2012,South America,4.100276931,renewables
+Peru,2013,South America,4.136397798,renewables
+Peru,2014,South America,4.16304628,renewables
+Peru,2015,South America,4.198809677,renewables
+Peru,2016,South America,4.196013272,renewables
+Peru,2017,South America,4.397604665,renewables
+Peru,2018,South America,4.479346158,renewables
+Peru,2019,South America,4.523754036,renewables
+Ecuador,1965,South America,-0.353821875,renewables
+Ecuador,1966,South America,-0.220646671,renewables
+Ecuador,1967,South America,-0.125563223,renewables
+Ecuador,1968,South America,-0.082295243,renewables
+Ecuador,1969,South America,0.020782539,renewables
+Ecuador,1970,South America,0.126632651,renewables
+Ecuador,1971,South America,0.208638865,renewables
+Ecuador,1972,South America,0.21993842,renewables
+Ecuador,1973,South America,0.197210169,renewables
+Ecuador,1974,South America,0.335757696,renewables
+Ecuador,1975,South America,0.561898894,renewables
+Ecuador,1976,South America,0.52532007,renewables
+Ecuador,1977,South America,0.444685821,renewables
+Ecuador,1978,South America,0.791634127,renewables
+Ecuador,1979,South America,0.682591667,renewables
+Ecuador,1980,South America,0.888713964,renewables
+Ecuador,1981,South America,0.776568789,renewables
+Ecuador,1982,South America,0.914689451,renewables
+Ecuador,1983,South America,1.566739158,renewables
+Ecuador,1984,South America,2.196224077,renewables
+Ecuador,1985,South America,2.210250482,renewables
+Ecuador,1986,South America,2.411798178,renewables
+Ecuador,1987,South America,2.541916905,renewables
+Ecuador,1988,South America,2.596448025,renewables
+Ecuador,1989,South America,2.622564932,renewables
+Ecuador,1990,South America,2.629151283,renewables
+Ecuador,1991,South America,2.646883766,renewables
+Ecuador,1992,South America,2.626550878,renewables
+Ecuador,1993,South America,2.781858128,renewables
+Ecuador,1994,South America,2.904000683,renewables
+Ecuador,1995,South America,2.663401449,renewables
+Ecuador,1996,South America,2.869658716,renewables
+Ecuador,1997,South America,2.899276438,renewables
+Ecuador,1998,South America,2.89497227,renewables
+Ecuador,1999,South America,2.992978485,renewables
+Ecuador,2000,South America,3.051734464,renewables
+Ecuador,2001,South America,2.971593258,renewables
+Ecuador,2002,South America,3.027279389,renewables
+Ecuador,2003,South America,2.974099973,renewables
+Ecuador,2004,South America,3.000271954,renewables
+Ecuador,2005,South America,2.948483421,renewables
+Ecuador,2006,South America,2.987952086,renewables
+Ecuador,2007,South America,3.226089742,renewables
+Ecuador,2008,South America,3.431694255,renewables
+Ecuador,2009,South America,3.233054826,renewables
+Ecuador,2010,South America,3.16821391,renewables
+Ecuador,2011,South America,3.411543674,renewables
+Ecuador,2012,South America,3.498475321,renewables
+Ecuador,2013,South America,3.399228779,renewables
+Ecuador,2014,South America,3.448335388,renewables
+Ecuador,2015,South America,3.570799499,renewables
+Ecuador,2016,South America,3.751877727,renewables
+Ecuador,2017,South America,3.963913122,renewables
+Ecuador,2018,South America,3.985738043,renewables
+Ecuador,2019,South America,4.158257888,renewables
